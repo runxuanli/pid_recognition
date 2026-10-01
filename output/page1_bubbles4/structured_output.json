@@ -1,0 +1,105 @@
+{
+  "documents": [
+    {
+      "document_id": 1,
+      "answers": {
+        "pid": "PID-1-SS_LR20519",
+        "valves": [
+          "V827",
+          "V760",
+          "V832",
+          "V83",
+          "V834",
+          "V995",
+          "V956",
+          "V57",
+          "V113",
+          "V0159",
+          "V118",
+          "V1181",
+          "V835",
+          "V757",
+          "V825",
+          "V841",
+          "V755",
+          "V72",
+          "V123",
+          "V1258",
+          "V1182",
+          "V399",
+          "V842",
+          "V49",
+          "V435",
+          "V774"
+        ],
+        "pressure_control_valves (U-bend_pipe)": [
+          "PCV2889",
+          "PCV2793",
+          "PCV2851",
+          "PCV2847",
+          "PCV2853",
+          "PCV2848",
+          "PCV2854",
+          "PCV2815",
+          "PCV2657",
+          "PCV2658",
+          "PCV2659",
+          "PCV1661"
+        ],
+        "compound_gauge": [
+          "PI2793"
+        ],
+        "pressure_indicators": [
+          "PI288",
+          "PI2888",
+          "PI280",
+          "PI2889",
+          "PI2793",
+          "PI833",
+          "PI192",
+          "PI174"
+        ],
+        "temperature_indicators": [
+          "TI166"
+        ],
+        "vacuum_pumps": [
+          "P-392"
+        ],
+        "filters": [
+          "F-193",
+          "F-192"
+        ],
+        "flexible_hoses": [
+          "1-SS-FLEX HOSE NO. 4",
+          "1-SS-FLEX HOSE NO. 3"
+        ],
+        "tubing_sizes": [
+          "3/8-T",
+          "1/2-T"
+        ],
+        "gas_cylinders": [
+          "NITROGEN"
+        ],
+        "sample_panels": [
+          "PRIMARY SAMPLE PANEL CP-166A"
+        ],
+        "sample_sinks": [
+          "PRIMARY SAMPLE SINK MM-13B"
+        ],
+        "continuation_connections (hexagon)": [
+          "6"
+        ],
+        "system_boundary_interfaces": [
+          "SS",
+          "DM",
+          "CS"
+        ],
+        "instrument_bubbles": [
+          "PI",
+          "TI",
+          "PCV"
+        ]
+      }
+    }
+  ]
+}

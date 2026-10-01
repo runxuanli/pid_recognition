@@ -1,0 +1,3146 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "profile": "legacy_nuclear_pid",
+      "items": [
+        {
+          "text": "I",
+          "confidence": 1.0,
+          "left": 0.7701357461448217,
+          "top": 0.12097501137069563,
+          "right": 0.7764429978355611,
+          "bottom": 0.12585741157513258,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "I"
+            }
+          ]
+        },
+        {
+          "text": "T",
+          "confidence": 1.0,
+          "left": 0.6154481000303008,
+          "top": 0.12097501163186579,
+          "right": 0.6217541819307142,
+          "bottom": 0.12585741135464903,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "T"
+            }
+          ]
+        },
+        {
+          "text": "m",
+          "confidence": 1.0,
+          "left": 0.5376730920518606,
+          "top": 0.12097501186031091,
+          "right": 0.5467818766039082,
+          "bottom": 0.12802736648027152,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "m"
+            }
+          ]
+        },
+        {
+          "text": "05/18/10",
+          "confidence": 1.0,
+          "left": 0.1585409591670641,
+          "top": 0.1312823000762311,
+          "right": 0.16485453932477415,
+          "bottom": 0.1502694085572818,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "05/18/10"
+            }
+          ]
+        },
+        {
+          "text": "PI 8120",
+          "confidence": 1.0,
+          "left": 0.8196078431372549,
+          "top": 0.13686868686868686,
+          "right": 0.8457516339869281,
+          "bottom": 0.15732323232323234,
+          "alternatives": [
+            {
+              "source": "instrument_bubble",
+              "u_bend": false,
+              "geometry_score": 0.7812,
+              "vote_agreement": 0.5,
+              "profile": "legacy_nuclear_pid",
+              "ocr_variants": [
+                {
+                  "variant": "original",
+                  "text": "81200",
+                  "confidence": 1.0
+                },
+                {
+                  "variant": "autocontrast",
+                  "text": "81200",
+                  "confidence": 1.0
+                },
+                {
+                  "variant": "threshold",
+                  "text": "8120;",
+                  "confidence": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "OUTSIDE",
+          "confidence": 1.0,
+          "left": 0.5699041756533924,
+          "top": 0.1432170540672155,
+          "right": 0.5741082314993163,
+          "bottom": 0.15623678634020174,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "OUTSIDE"
+            }
+          ]
+        },
+        {
+          "text": "CONTAINMENT",
+          "confidence": 1.0,
+          "left": 0.5607953904820009,
+          "top": 0.14321705424553008,
+          "right": 0.5657001229250697,
+          "bottom": 0.16437411858706552,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CONTAINMENT"
+            }
+          ]
+        },
+        {
+          "text": "REACTOR",
+          "confidence": 1.0,
+          "left": 0.5657001211572419,
+          "top": 0.1432170542735599,
+          "right": 0.5699041770031659,
+          "bottom": 0.1567792750300136,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "REACTOR"
+            }
+          ]
+        },
+        {
+          "text": "12",
+          "confidence": 1.0,
+          "left": 0.8402163112581947,
+          "top": 0.17359642912738713,
+          "right": 0.8479251741589777,
+          "bottom": 0.18173376215924375,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "12"
+            }
+          ]
+        },
+        {
+          "text": "12",
+          "confidence": 1.0,
+          "left": 0.15994397713182454,
+          "top": 0.17576638466881195,
+          "right": 0.1662575560429015,
+          "bottom": 0.1844462061841361,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "12"
+            }
+          ]
+        },
+        {
+          "text": "E172",
+          "confidence": 1.0,
+          "left": 0.6056386401683055,
+          "top": 0.18119127316156178,
+          "right": 0.6189514786978044,
+          "bottom": 0.1844462062298083,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "E172"
+            }
+          ]
+        },
+        {
+          "text": "CONTAINMENT",
+          "confidence": 1.0,
+          "left": 0.5610351769342321,
+          "top": 0.18387068971623075,
+          "right": 0.5662368822303279,
+          "bottom": 0.20511108592687233,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CONTAINMENT"
+            }
+          ]
+        },
+        {
+          "text": "INSIDE",
+          "confidence": 1.0,
+          "left": 0.5699041758090984,
+          "top": 0.18444620598085562,
+          "right": 0.5741082313436102,
+          "bottom": 0.1942110054264221,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "INSIDE"
+            }
+          ]
+        },
+        {
+          "text": "REAC\u0422\u041eR",
+          "confidence": 1.0,
+          "left": 0.5657001211572419,
+          "top": 0.18444620608473075,
+          "right": 0.5699041770031659,
+          "bottom": 0.19746593835771695,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "REAC\u0422\u041eR"
+            }
+          ]
+        },
+        {
+          "text": "LR NOTE 1",
+          "confidence": 1.0,
+          "left": 0.5783122841245002,
+          "top": 0.18661616107237128,
+          "right": 0.5839176925418895,
+          "bottom": 0.20885820430745652,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "LR NOTE 1"
+            }
+          ]
+        },
+        {
+          "text": "58 PSIG",
+          "confidence": 1.0,
+          "left": 0.6434751294516364,
+          "top": 0.18987109450380524,
+          "right": 0.6476791854532664,
+          "bottom": 0.20289082677679143,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "58 PSIG"
+            }
+          ]
+        },
+        {
+          "text": "SEE NOTE 6",
+          "confidence": 1.0,
+          "left": 0.6126453960910403,
+          "top": 0.19855091594765076,
+          "right": 0.6189514801713383,
+          "bottom": 0.21916549180571873,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "SEE NOTE 6"
+            }
+          ]
+        },
+        {
+          "text": "30 PSiC",
+          "confidence": 0.30000001192092896,
+          "left": 0.6168494508667326,
+          "top": 0.2316427354846334,
+          "right": 0.6252575613129321,
+          "bottom": 0.2435774898273772,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "30 PSiC"
+            }
+          ]
+        },
+        {
+          "text": "11",
+          "confidence": 1.0,
+          "left": 0.15994397713182454,
+          "top": 0.23544015737296306,
+          "right": 0.1662575560429015,
+          "bottom": 0.24140753454433497,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "11"
+            }
+          ]
+        },
+        {
+          "text": "Bv217",
+          "confidence": 0.30000001192092896,
+          "left": 0.6224548568904055,
+          "top": 0.24249251240289918,
+          "right": 0.630862967336605,
+          "bottom": 0.25605473315935284,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "Bv217"
+            }
+          ]
+        },
+        {
+          "text": "CNTMNT. TR.",
+          "confidence": 1.0,
+          "left": 0.635581060687265,
+          "top": 0.2490023785185952,
+          "right": 0.6397858964970966,
+          "bottom": 0.2674469985161784,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CNTMNT. TR."
+            }
+          ]
+        },
+        {
+          "text": "-JOR 141",
+          "confidence": 1.0,
+          "left": 0.6028359357849401,
+          "top": 0.2609371326993488,
+          "right": 0.6098426949053224,
+          "bottom": 0.27666930931628725,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "-JOR 141"
+            }
+          ]
+        },
+        {
+          "text": "(F-4",
+          "confidence": 0.30000001192092896,
+          "left": 0.6397858945151478,
+          "top": 0.26419206555494734,
+          "right": 0.6460931474514305,
+          "bottom": 0.2837216644460804,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "(F-4"
+            }
+          ]
+        },
+        {
+          "text": "(0-12)",
+          "confidence": 1.0,
+          "left": 0.7841518591040458,
+          "top": 0.2707019320423467,
+          "right": 0.7883566939797199,
+          "bottom": 0.2810092199713807,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "(0-12)"
+            }
+          ]
+        },
+        {
+          "text": "I1D-8C8",
+          "confidence": 0.30000001192092896,
+          "left": 0.36325863109311013,
+          "top": 0.2720950940467939,
+          "right": 0.3698261217393727,
+          "bottom": 0.29199198085308925,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "I1D-8C8"
+            }
+          ]
+        },
+        {
+          "text": "(0-B)",
+          "confidence": 1.0,
+          "left": 0.8093808625410779,
+          "top": 0.272329398728482,
+          "right": 0.8142865030217737,
+          "bottom": 0.2815517087272736,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "(0-B)"
+            }
+          ]
+        },
+        {
+          "text": "/1D-B) <E 20219",
+          "confidence": 0.5,
+          "left": 0.3632048275724431,
+          "top": 0.2728718864087407,
+          "right": 0.3702115910525948,
+          "bottom": 0.3119310841910067,
+          "alternatives": [
+            {
+              "confidence": 0.5,
+              "text": "/1D-B) <E 20219"
+            }
+          ]
+        },
+        {
+          "text": "10-8",
+          "confidence": 0.30000001192092896,
+          "left": 0.46340146104521024,
+          "top": 0.2734143766243369,
+          "right": 0.4690068694625997,
+          "bottom": 0.29240148510538755,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "10-8"
+            }
+          ]
+        },
+        {
+          "text": "20200",
+          "confidence": 0.30000001192092896,
+          "left": 0.4318710511498125,
+          "top": 0.27341437703581856,
+          "right": 0.44238119201027076,
+          "bottom": 0.31138859399792,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "20200"
+            }
+          ]
+        },
+        {
+          "text": "REACTOE EOOLANT",
+          "confidence": 1.0,
+          "left": 0.8143412674594189,
+          "top": 0.28315849124667947,
+          "right": 0.8238342205400124,
+          "bottom": 0.3114540082144529,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "REACTOE EOOLANT"
+            }
+          ]
+        },
+        {
+          "text": "REACTRE-EGOLANT",
+          "confidence": 1.0,
+          "left": 0.7891192066747982,
+          "top": 0.2831719895766504,
+          "right": 0.7972188002702347,
+          "bottom": 0.3119814907622121,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "REACTRE-EGOLANT"
+            }
+          ]
+        },
+        {
+          "text": "20845 RC+3/4",
+          "confidence": 0.30000001192092896,
+          "left": 0.7799053405215183,
+          "top": 0.29098691387116493,
+          "right": 0.7927846576352839,
+          "bottom": 0.3254353101878474,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "20845 RC+3/4"
+            }
+          ]
+        },
+        {
+          "text": "4",
+          "confidence": 0.6613539376697272,
+          "left": 0.8045751633986928,
+          "top": 0.2914141414141414,
+          "right": 0.819281045751634,
+          "bottom": 0.3015151515151515,
+          "alternatives": [
+            {
+              "source": "continuation_hexagon",
+              "geometry_score": 0.9608,
+              "vote_agreement": 1.0,
+              "template_label": "4",
+              "template_score": 0.6614,
+              "template_margin": 0.0219,
+              "ocr_vote_count": 0,
+              "ocr_variants": [
+                {
+                  "variant": "original",
+                  "text": "",
+                  "confidence": 0.0
+                },
+                {
+                  "variant": "autocontrast",
+                  "text": "",
+                  "confidence": 0.0
+                },
+                {
+                  "variant": "threshold",
+                  "text": "",
+                  "confidence": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "10",
+          "confidence": 1.0,
+          "left": 0.8416179225435994,
+          "top": 0.291858996702942,
+          "right": 0.8486259798393605,
+          "bottom": 0.3016237961485085,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "10"
+            }
+          ]
+        },
+        {
+          "text": "PCV 2729",
+          "confidence": 0.6500000059604645,
+          "left": 0.45326797385620915,
+          "top": 0.2926767676767677,
+          "right": 0.4745098039215686,
+          "bottom": 0.3090909090909091,
+          "alternatives": [
+            {
+              "source": "instrument_bubble",
+              "u_bend": false,
+              "geometry_score": 0.8125,
+              "vote_agreement": 0.5,
+              "profile": "legacy_nuclear_pid",
+              "ocr_variants": [
+                {
+                  "variant": "original",
+                  "text": "SUMP A 20219",
+                  "confidence": 1.0
+                },
+                {
+                  "variant": "autocontrast",
+                  "text": "SUMP A 20219",
+                  "confidence": 1.0
+                },
+                {
+                  "variant": "threshold",
+                  "text": "5LMP A 2729",
+                  "confidence": 0.6500000059604645
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "10",
+          "confidence": 1.0,
+          "left": 0.16064548579962354,
+          "top": 0.2945714409524374,
+          "right": 0.1669590647107005,
+          "bottom": 0.3021662850191729,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "10"
+            }
+          ]
+        },
+        {
+          "text": "20219",
+          "confidence": 1.0,
+          "left": 0.36231753708046116,
+          "top": 0.2967869099136554,
+          "right": 0.36931508809468194,
+          "bottom": 0.3142115187087514,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "20219"
+            }
+          ]
+        },
+        {
+          "text": "ISL",
+          "confidence": 0.30000001192092896,
+          "left": 0.30785144538866155,
+          "top": 0.2994538406674604,
+          "right": 0.31135482463744063,
+          "bottom": 0.30379375142512244,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "ISL"
+            }
+          ]
+        },
+        {
+          "text": "8v21s",
+          "confidence": 0.30000001192092896,
+          "left": 0.2834095030832242,
+          "top": 0.3027087733071345,
+          "right": 0.2946336439236424,
+          "bottom": 0.31898343937084783,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "8v21s"
+            }
+          ]
+        },
+        {
+          "text": "ANT",
+          "confidence": 1.0,
+          "left": 0.8182829885083861,
+          "top": 0.3051987900646649,
+          "right": 0.8229423996981688,
+          "bottom": 0.3100055791293587,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "ANT"
+            }
+          ]
+        },
+        {
+          "text": "8Y214",
+          "confidence": 1.0,
+          "left": 0.31287286739119036,
+          "top": 0.3059637066936984,
+          "right": 0.32409700823160853,
+          "bottom": 0.3189834389666846,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "8Y214"
+            }
+          ]
+        },
+        {
+          "text": "X V214",
+          "confidence": 1.0,
+          "left": 0.31555887827572005,
+          "top": 0.3065061956820691,
+          "right": 0.32326631274759887,
+          "bottom": 0.31844095002481293,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "X V214"
+            }
+          ]
+        },
+        {
+          "text": "3/4 p12",
+          "confidence": 0.30000001192092896,
+          "left": 0.30715076875421843,
+          "top": 0.31084610668361756,
+          "right": 0.31625955579756276,
+          "bottom": 0.33254565950862053,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "3/4 p12"
+            }
+          ]
+        },
+        {
+          "text": "3/4\"?",
+          "confidence": 0.30000001192092896,
+          "left": 0.29804198388881714,
+          "top": 0.3119310838125788,
+          "right": 0.30785144690648214,
+          "bottom": 0.3379705483585512,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "3/4\"?"
+            }
+          ]
+        },
+        {
+          "text": "RC-Y145",
+          "confidence": 1.0,
+          "left": 0.8030736115359111,
+          "top": 0.32332334963473663,
+          "right": 0.8079792523279927,
+          "bottom": 0.33634308190772283,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "RC-Y145"
+            }
+          ]
+        },
+        {
+          "text": "REACTOR CUOLANT",
+          "confidence": 1.0,
+          "left": 0.4094494278924652,
+          "top": 0.3271207720198842,
+          "right": 0.41435416126977026,
+          "bottom": 0.3558726789831941,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "REACTOR CUOLANT"
+            }
+          ]
+        },
+        {
+          "text": "ORAIN TANK",
+          "confidence": 1.0,
+          "left": 0.40524537400337374,
+          "top": 0.32929072729333614,
+          "right": 0.4101501062907365,
+          "bottom": 0.34827783577438687,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "ORAIN TANK"
+            }
+          ]
+        },
+        {
+          "text": "NOTE 3 XV73",
+          "confidence": 1.0,
+          "left": 0.48582308460745294,
+          "top": 0.33146068220613484,
+          "right": 0.494231196922125,
+          "bottom": 0.36075507957952696,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "NOTE 3 XV73"
+            }
+          ]
+        },
+        {
+          "text": "X \u0441 3ION",
+          "confidence": 1.0,
+          "left": 0.48662649129140445,
+          "top": 0.3316361283547656,
+          "right": 0.49439714615607455,
+          "bottom": 0.35506922420276826,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "X \u0441 3ION"
+            }
+          ]
+        },
+        {
+          "text": "E:43",
+          "confidence": 1.0,
+          "left": 0.41365348345343383,
+          "top": 0.33797054834127305,
+          "right": 0.4178575389879457,
+          "bottom": 0.3466503698565972,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "E:43"
+            }
+          ]
+        },
+        {
+          "text": "\u0421\u0420-3",
+          "confidence": 0.5,
+          "left": 0.4135823622812587,
+          "top": 0.33824546339485384,
+          "right": 0.4182447544526718,
+          "bottom": 0.34665734353602845,
+          "alternatives": [
+            {
+              "confidence": 0.5,
+              "text": "\u0421\u0420-3"
+            }
+          ]
+        },
+        {
+          "text": "\u0423\u04119 H NOTE 3",
+          "confidence": 1.0,
+          "left": 0.36460618007082585,
+          "top": 0.3455653923150315,
+          "right": 0.3730142917626737,
+          "bottom": 0.3726898338279389,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "\u0423\u04119 H NOTE 3"
+            }
+          ]
+        },
+        {
+          "text": "159XH NOTE 3",
+          "confidence": 1.0,
+          "left": 0.36465005297850395,
+          "top": 0.3466573436426437,
+          "right": 0.3724251103535454,
+          "bottom": 0.3730946820543804,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "159XH NOTE 3"
+            }
+          ]
+        },
+        {
+          "text": "E 3LON X69",
+          "confidence": 0.30000001192092896,
+          "left": 0.364627252707611,
+          "top": 0.34725819206605024,
+          "right": 0.3723979078836932,
+          "bottom": 0.37309468196504014,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "E 3LON X69"
+            }
+          ]
+        },
+        {
+          "text": "RC-3/8-*",
+          "confidence": 1.0,
+          "left": 0.8016719998398086,
+          "top": 0.3531602357526155,
+          "right": 0.809380863986135,
+          "bottom": 0.3699773902997963,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "RC-3/8-*"
+            }
+          ]
+        },
+        {
+          "text": "NOTE 3",
+          "confidence": 1.0,
+          "left": 0.36618752668314286,
+          "top": 0.3542452139254924,
+          "right": 0.37109808939162975,
+          "bottom": 0.37268983392307564,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "NOTE 3"
+            }
+          ]
+        },
+        {
+          "text": "Ic-1ed",
+          "confidence": 0.30000001192092896,
+          "left": 0.221676740152588,
+          "top": 0.3575001463850792,
+          "right": 0.23360238886055754,
+          "bottom": 0.37268983451855014,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "Ic-1ed"
+            }
+          ]
+        },
+        {
+          "text": "RC-3/4*",
+          "confidence": 1.0,
+          "left": 0.8135856962591355,
+          "top": 0.36075507983871447,
+          "right": 0.8177905314461954,
+          "bottom": 0.3726898341814583,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "RC-3/4*"
+            }
+          ]
+        },
+        {
+          "text": "PCV 1413",
+          "confidence": 1.0,
+          "left": 0.4287581699346405,
+          "top": 0.36262626262626263,
+          "right": 0.45,
+          "bottom": 0.37904040404040407,
+          "alternatives": [
+            {
+              "source": "instrument_bubble",
+              "u_bend": false,
+              "geometry_score": 0.75,
+              "vote_agreement": 0.5,
+              "profile": "legacy_nuclear_pid",
+              "ocr_variants": [
+                {
+                  "variant": "original",
+                  "text": "",
+                  "confidence": 0.0
+                },
+                {
+                  "variant": "autocontrast",
+                  "text": "",
+                  "confidence": 0.0
+                },
+                {
+                  "variant": "threshold",
+                  "text": "1413",
+                  "confidence": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "TELL",
+          "confidence": 1.0,
+          "left": 0.7771438025911332,
+          "top": 0.3629250349684055,
+          "right": 0.7813486374668074,
+          "bottom": 0.37268983441397197,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "TELL"
+            }
+          ]
+        },
+        {
+          "text": "8336",
+          "confidence": 1.0,
+          "left": 0.29884269442914063,
+          "top": 0.36509499062857437,
+          "right": 0.30445476484934975,
+          "bottom": 0.37268983421365615,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "8336"
+            }
+          ]
+        },
+        {
+          "text": "141:",
+          "confidence": 1.0,
+          "left": 0.4332724050042185,
+          "top": 0.36726494578267743,
+          "right": 0.4388778109303112,
+          "bottom": 0.3726898344705819,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "141:"
+            }
+          ]
+        },
+        {
+          "text": "31",
+          "confidence": 1.0,
+          "left": 0.43767138408481077,
+          "top": 0.36888874190868653,
+          "right": 0.4431108409953018,
+          "bottom": 0.37369553097338026,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "31"
+            }
+          ]
+        },
+        {
+          "text": "C aION 271",
+          "confidence": 0.30000001192092896,
+          "left": 0.6210587730315077,
+          "top": 0.38210741114699415,
+          "right": 0.6280523625342757,
+          "bottom": 0.4085447495587308,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "C aION 271"
+            }
+          ]
+        },
+        {
+          "text": "(0-12) L",
+          "confidence": 1.0,
+          "left": 0.765233891305144,
+          "top": 0.39030849775177656,
+          "right": 0.7728709336836015,
+          "bottom": 0.40936303073999997,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "(0-12) L"
+            }
+          ]
+        },
+        {
+          "text": "105 C",
+          "confidence": 0.30000001192092896,
+          "left": 0.7188822296040233,
+          "top": 0.39051929122500795,
+          "right": 0.727424484334218,
+          "bottom": 0.41214984153477013,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "105 C"
+            }
+          ]
+        },
+        {
+          "text": "10:50CN COS N V25",
+          "confidence": 0.30000001192092896,
+          "left": 0.6819332392233035,
+          "top": 0.3921925882946544,
+          "right": 0.6968952481044115,
+          "bottom": 0.43219233483495373,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "10:50CN COS N V25"
+            }
+          ]
+        },
+        {
+          "text": "218-1",
+          "confidence": 0.30000001192092896,
+          "left": 0.38506395247274783,
+          "top": 0.3943201894849254,
+          "right": 0.40045373530355793,
+          "bottom": 0.42191539808917233,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "218-1"
+            }
+          ]
+        },
+        {
+          "text": "PCV 1403",
+          "confidence": 1.0,
+          "left": 0.6421568627450981,
+          "top": 0.3982323232323232,
+          "right": 0.6633986928104575,
+          "bottom": 0.41464646464646465,
+          "alternatives": [
+            {
+              "source": "instrument_bubble",
+              "u_bend": false,
+              "geometry_score": 0.8438,
+              "vote_agreement": 0.5,
+              "profile": "legacy_nuclear_pid",
+              "ocr_variants": [
+                {
+                  "variant": "original",
+                  "text": "1403 LT",
+                  "confidence": 1.0
+                },
+                {
+                  "variant": "autocontrast",
+                  "text": "1403 LT",
+                  "confidence": 1.0
+                },
+                {
+                  "variant": "threshold",
+                  "text": "",
+                  "confidence": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "PCV 7147",
+          "confidence": 1.0,
+          "left": 0.8052287581699347,
+          "top": 0.3982323232323232,
+          "right": 0.8290849673202615,
+          "bottom": 0.4166666666666667,
+          "alternatives": [
+            {
+              "source": "instrument_bubble",
+              "u_bend": false,
+              "geometry_score": 0.8438,
+              "vote_agreement": 0.5,
+              "profile": "legacy_nuclear_pid",
+              "ocr_variants": [
+                {
+                  "variant": "original",
+                  "text": "F.O. RC-Y147 RC",
+                  "confidence": 1.0
+                },
+                {
+                  "variant": "autocontrast",
+                  "text": "RC-\u00b7147",
+                  "confidence": 1.0
+                },
+                {
+                  "variant": "threshold",
+                  "text": "AC-7147",
+                  "confidence": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "REAC TOS EOOL",
+          "confidence": 0.30000001192092896,
+          "left": 0.7251324302979775,
+          "top": 0.39927064625637904,
+          "right": 0.7354795627042083,
+          "bottom": 0.4213593816326587,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "REAC TOS EOOL"
+            }
+          ]
+        },
+        {
+          "text": "3\u043e0\u0435",
+          "confidence": 1.0,
+          "left": 0.6894405124775118,
+          "top": 0.4013345665523112,
+          "right": 0.694879970010827,
+          "bottom": 0.40794390115524537,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "3\u043e0\u0435"
+            }
+          ]
+        },
+        {
+          "text": "RC-30",
+          "confidence": 0.30000001192092896,
+          "left": 0.8089641664333981,
+          "top": 0.4121498412180364,
+          "right": 0.8175064217863646,
+          "bottom": 0.4385871796297731,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "RC-30"
+            }
+          ]
+        },
+        {
+          "text": "PCV 1406",
+          "confidence": 1.0,
+          "left": 0.5712418300653594,
+          "top": 0.4171717171717172,
+          "right": 0.592483660130719,
+          "bottom": 0.4335858585858586,
+          "alternatives": [
+            {
+              "source": "instrument_bubble",
+              "u_bend": false,
+              "geometry_score": 0.8438,
+              "vote_agreement": 0.3333,
+              "profile": "legacy_nuclear_pid",
+              "ocr_variants": [
+                {
+                  "variant": "original",
+                  "text": "1406",
+                  "confidence": 1.0
+                },
+                {
+                  "variant": "autocontrast",
+                  "text": "1406 FT:",
+                  "confidence": 1.0
+                },
+                {
+                  "variant": "threshold",
+                  "text": "1466 FT",
+                  "confidence": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "PCV 1403",
+          "confidence": 1.0,
+          "left": 0.6408496732026144,
+          "top": 0.41868686868686866,
+          "right": 0.6633986928104575,
+          "bottom": 0.4361111111111111,
+          "alternatives": [
+            {
+              "source": "instrument_bubble",
+              "u_bend": false,
+              "geometry_score": 0.7812,
+              "vote_agreement": 0.5,
+              "profile": "legacy_nuclear_pid",
+              "ocr_variants": [
+                {
+                  "variant": "original",
+                  "text": "1403 LSH",
+                  "confidence": 1.0
+                },
+                {
+                  "variant": "autocontrast",
+                  "text": "1403 LSH",
+                  "confidence": 1.0
+                },
+                {
+                  "variant": "threshold",
+                  "text": "LS",
+                  "confidence": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "CS-V\u041f6) \u04215-r",
+          "confidence": 0.30000001192092896,
+          "left": 0.7608291664375774,
+          "top": 0.42151465254821224,
+          "right": 0.775271346543875,
+          "bottom": 0.4587890139436037,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "CS-V\u041f6) \u04215-r"
+            }
+          ]
+        },
+        {
+          "text": "RC",
+          "confidence": 1.0,
+          "left": 0.8314846519350133,
+          "top": 0.4560117892822602,
+          "right": 0.8369206310855525,
+          "bottom": 0.4614194268597007,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "RC"
+            }
+          ]
+        },
+        {
+          "text": "PCV 1418",
+          "confidence": 1.0,
+          "left": 0.3127450980392157,
+          "top": 0.46464646464646464,
+          "right": 0.33398692810457514,
+          "bottom": 0.4810606060606061,
+          "alternatives": [
+            {
+              "source": "instrument_bubble",
+              "u_bend": false,
+              "geometry_score": 0.8125,
+              "vote_agreement": 0.75,
+              "profile": "legacy_nuclear_pid",
+              "ocr_variants": [
+                {
+                  "variant": "original",
+                  "text": "1410 Pl",
+                  "confidence": 1.0
+                },
+                {
+                  "variant": "autocontrast",
+                  "text": "1418 PI",
+                  "confidence": 1.0
+                },
+                {
+                  "variant": "threshold",
+                  "text": "",
+                  "confidence": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "92SA-S3 (6-31",
+          "confidence": 1.0,
+          "left": 0.5822055125918246,
+          "top": 0.4722347012536842,
+          "right": 0.5876449713707883,
+          "bottom": 0.4950669485889401,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "92SA-S3 (6-31"
+            }
+          ]
+        },
+        {
+          "text": "PI 1420",
+          "confidence": 1.0,
+          "left": 0.5287581699346405,
+          "top": 0.477020202020202,
+          "right": 0.55,
+          "bottom": 0.49343434343434345,
+          "alternatives": [
+            {
+              "source": "instrument_bubble",
+              "u_bend": false,
+              "geometry_score": 0.8438,
+              "vote_agreement": 0.5,
+              "profile": "legacy_nuclear_pid",
+              "ocr_variants": [
+                {
+                  "variant": "original",
+                  "text": "1420 PT",
+                  "confidence": 1.0
+                },
+                {
+                  "variant": "autocontrast",
+                  "text": "PT",
+                  "confidence": 1.0
+                },
+                {
+                  "variant": "threshold",
+                  "text": "PT",
+                  "confidence": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "EACTOR COOLAN",
+          "confidence": 1.0,
+          "left": 0.6474379343377249,
+          "top": 0.4902601594818293,
+          "right": 0.6567567582742194,
+          "bottom": 0.5154958008680723,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "EACTOR COOLAN"
+            }
+          ]
+        },
+        {
+          "text": "LR NOTE 2",
+          "confidence": 1.0,
+          "left": 0.7437324188982473,
+          "top": 0.4920627050915996,
+          "right": 0.7483918319563451,
+          "bottom": 0.5148949524268555,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "LR NOTE 2"
+            }
+          ]
+        },
+        {
+          "text": "TANK",
+          "confidence": 1.0,
+          "left": 0.6443316616547112,
+          "top": 0.5034788289581157,
+          "right": 0.6489910728444939,
+          "bottom": 0.5112898605865435,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "TANK"
+            }
+          ]
+        },
+        {
+          "text": "PI 8345",
+          "confidence": 1.0,
+          "left": 0.6339869281045751,
+          "top": 0.5323232323232323,
+          "right": 0.6552287581699346,
+          "bottom": 0.5487373737373737,
+          "alternatives": [
+            {
+              "source": "instrument_bubble",
+              "u_bend": false,
+              "geometry_score": 0.75,
+              "vote_agreement": 0.3333,
+              "profile": "legacy_nuclear_pid",
+              "ocr_variants": [
+                {
+                  "variant": "original",
+                  "text": "8345 TE",
+                  "confidence": 1.0
+                },
+                {
+                  "variant": "autocontrast",
+                  "text": "8345 TE",
+                  "confidence": 1.0
+                },
+                {
+                  "variant": "threshold",
+                  "text": "8348 TE",
+                  "confidence": 1.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "PI 1158",
+          "confidence": 1.0,
+          "left": 0.5555555555555556,
+          "top": 0.5381313131313131,
+          "right": 0.5781045751633986,
+          "bottom": 0.5555555555555556,
+          "alternatives": [
+            {
+              "source": "instrument_bubble",
+              "u_bend": false,
+              "geometry_score": 0.7188,
+              "vote_agreement": 0.25,
+              "profile": "legacy_nuclear_pid",
+              "ocr_variants": [
+                {
+                  "variant": "original",
+                  "text": "]158 PSiC",
+                  "confidence": 1.0
+                },
+                {
+                  "variant": "autocontrast",
+                  "text": "1158 PSIC \u00b756",
+                  "confidence": 1.0
+                },
+                {
+                  "variant": "threshold",
+                  "text": "1150 Psi0 796",
+                  "confidence": 0.6500000059604645
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "OUTSIDE MISSILE BARRIER",
+          "confidence": 1.0,
+          "left": 0.689372628326683,
+          "top": 0.5389288969618525,
+          "right": 0.6955851813543095,
+          "bottom": 0.5797865996795126,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "OUTSIDE MISSILE BARRIER"
+            }
+          ]
+        },
+        {
+          "text": "MO1 VG",
+          "confidence": 0.30000001192092896,
+          "left": 0.7872202511182143,
+          "top": 0.5437356852937938,
+          "right": 0.7980922106648357,
+          "bottom": 0.5575552030124089,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "MO1 VG"
+            }
+          ]
+        },
+        {
+          "text": "SI-V184",
+          "confidence": 1.0,
+          "left": 0.3304398140695141,
+          "top": 0.557555203046171,
+          "right": 0.3358823536087266,
+          "bottom": 0.5701730237392927,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "SI-V184"
+            }
+          ]
+        },
+        {
+          "text": "L15-3",
+          "confidence": 0.5,
+          "left": 0.3350448830364504,
+          "top": 0.5576753734067844,
+          "right": 0.3458704640572295,
+          "bottom": 0.5797588696646849,
+          "alternatives": [
+            {
+              "confidence": 0.5,
+              "text": "L15-3"
+            }
+          ]
+        },
+        {
+          "text": "PI 8348",
+          "confidence": 1.0,
+          "left": 0.7352941176470589,
+          "top": 0.5580808080808081,
+          "right": 0.7565359477124183,
+          "bottom": 0.5744949494949495,
+          "alternatives": [
+            {
+              "source": "instrument_bubble",
+              "u_bend": false,
+              "geometry_score": 0.8438,
+              "vote_agreement": 0.25,
+              "profile": "legacy_nuclear_pid",
+              "ocr_variants": [
+                {
+                  "variant": "original",
+                  "text": "8348",
+                  "confidence": 1.0
+                },
+                {
+                  "variant": "autocontrast",
+                  "text": "",
+                  "confidence": 0.0
+                },
+                {
+                  "variant": "threshold",
+                  "text": "",
+                  "confidence": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "V81A-1S",
+          "confidence": 1.0,
+          "left": 0.33199051494497034,
+          "top": 0.5581560515051275,
+          "right": 0.33587584206589327,
+          "bottom": 0.5689713266600086,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "V81A-1S"
+            }
+          ]
+        },
+        {
+          "text": "\u2022cISL",
+          "confidence": 0.30000001192092896,
+          "left": 0.3335741826799271,
+          "top": 0.559773721553192,
+          "right": 0.3480701380512511,
+          "bottom": 0.5797634920471065,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "\u2022cISL"
+            }
+          ]
+        },
+        {
+          "text": "INNIND",
+          "confidence": 1.0,
+          "left": 0.604740404364713,
+          "top": 0.561761143555236,
+          "right": 0.608625731485636,
+          "bottom": 0.5725764177473978,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "INNIND"
+            }
+          ]
+        },
+        {
+          "text": "3348",
+          "confidence": 1.0,
+          "left": 0.7390730092941991,
+          "top": 0.5641645378159483,
+          "right": 0.7452855573396521,
+          "bottom": 0.5713747209316293,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "3348"
+            }
+          ]
+        },
+        {
+          "text": "TE",
+          "confidence": 1.0,
+          "left": 0.7445089881838473,
+          "top": 0.5647653863286951,
+          "right": 0.749944967957158,
+          "bottom": 0.5707738724188826,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "TE"
+            }
+          ]
+        },
+        {
+          "text": "PI 8343",
+          "confidence": 1.0,
+          "left": 0.35261437908496734,
+          "top": 0.5747474747474748,
+          "right": 0.3738562091503268,
+          "bottom": 0.5911616161616161,
+          "alternatives": [
+            {
+              "source": "instrument_bubble",
+              "u_bend": false,
+              "geometry_score": 0.8438,
+              "vote_agreement": 0.5,
+              "profile": "legacy_nuclear_pid",
+              "ocr_variants": [
+                {
+                  "variant": "original",
+                  "text": "",
+                  "confidence": 0.0
+                },
+                {
+                  "variant": "autocontrast",
+                  "text": "",
+                  "confidence": 0.0
+                },
+                {
+                  "variant": "threshold",
+                  "text": "6H3",
+                  "confidence": 0.30000001192092896
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "CEACe",
+          "confidence": 0.30000001192092896,
+          "left": 0.35374834137488936,
+          "top": 0.5791857526296847,
+          "right": 0.3669584500359294,
+          "bottom": 0.5894001792718191,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "CEACe"
+            }
+          ]
+        },
+        {
+          "text": "8343",
+          "confidence": 1.0,
+          "left": 0.3553199887094387,
+          "top": 0.5797866015800932,
+          "right": 0.36231753847702636,
+          "bottom": 0.5887993302340145,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "8343"
+            }
+          ]
+        },
+        {
+          "text": "21-31",
+          "confidence": 1.0,
+          "left": 0.5557852961709991,
+          "top": 0.5803874500480622,
+          "right": 0.5596706229805101,
+          "bottom": 0.5875976331637431,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "21-31"
+            }
+          ]
+        },
+        {
+          "text": "\u201e\u04414,2\u043a\u044f \u0448\u0430\u0433\"\u00b0",
+          "confidence": 0.30000001192092896,
+          "left": 0.6630202932638447,
+          "top": 0.5972112104687154,
+          "right": 0.6762304069074783,
+          "bottom": 0.649485038779442,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "\u201e\u04414,2\u043a\u044f \u0448\u0430\u0433\"\u00b0"
+            }
+          ]
+        },
+        {
+          "text": "\u201e\u041a2\u0410 \u0448\u043e\u0447\"\u00b0",
+          "confidence": 0.30000001192092896,
+          "left": 0.6381542065471356,
+          "top": 0.5978120593862248,
+          "right": 0.6505872548288671,
+          "bottom": 0.6512875847224451,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "\u201e\u041a2\u0410 \u0448\u043e\u0447\"\u00b0"
+            }
+          ]
+        },
+        {
+          "text": "PID-1-WLO-B28216",
+          "confidence": 1.0,
+          "left": 0.17960375664805808,
+          "top": 0.6008163022689345,
+          "right": 0.18426879231971607,
+          "bottom": 0.6290561862189116,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "PID-1-WLO-B28216"
+            }
+          ]
+        },
+        {
+          "text": "REF,ORAKING NO.",
+          "confidence": 1.0,
+          "left": 0.1733837130517263,
+          "top": 0.6008163023796621,
+          "right": 0.1772712432975384,
+          "bottom": 0.6278544893041457,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "REF,ORAKING NO."
+            }
+          ]
+        },
+        {
+          "text": "INSIDE MISSILE BARRIER",
+          "confidence": 1.0,
+          "left": 0.7716888812052854,
+          "top": 0.6014171515665064,
+          "right": 0.7779014329873687,
+          "bottom": 0.6416740057714198,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "INSIDE MISSILE BARRIER"
+            }
+          ]
+        },
+        {
+          "text": "311-38-",
+          "confidence": 1.0,
+          "left": 0.43378605765827233,
+          "top": 0.6092281827380723,
+          "right": 0.43844845014109746,
+          "bottom": 0.6206443064057002,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "311-38-"
+            }
+          ]
+        },
+        {
+          "text": "I VeTag 3",
+          "confidence": 0.30000001192092896,
+          "left": 0.6386178082526938,
+          "top": 0.6144985609615238,
+          "right": 0.6507786249494225,
+          "bottom": 0.6497143551014206,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "I VeTag 3"
+            }
+          ]
+        },
+        {
+          "text": "T V2 T \u1ea1ng 3/1\u00b0",
+          "confidence": 0.30000001192092896,
+          "left": 0.6520973441282484,
+          "top": 0.6146358208766641,
+          "right": 0.6629693061659566,
+          "bottom": 0.6500858869796029,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "T V2 T \u1ea1ng 3/1\u00b0"
+            }
+          ]
+        },
+        {
+          "text": "DVE T pg 35",
+          "confidence": 0.30000001192092896,
+          "left": 0.67600061219496,
+          "top": 0.6180547860537212,
+          "right": 0.6896212885606277,
+          "bottom": 0.6503475872871303,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "DVE T pg 35"
+            }
+          ]
+        },
+        {
+          "text": "51-20",
+          "confidence": 0.30000001192092896,
+          "left": 0.3098884993741222,
+          "top": 0.6187792727787748,
+          "right": 0.3206248775639073,
+          "bottom": 0.6374151923141999,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "51-20"
+            }
+          ]
+        },
+        {
+          "text": "F1z Tpag 314*",
+          "confidence": 0.30000001192092896,
+          "left": 0.6645224392989596,
+          "top": 0.618841760768892,
+          "right": 0.6761709689860385,
+          "bottom": 0.6494850387698563,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "F1z Tpag 314*"
+            }
+          ]
+        },
+        {
+          "text": "12T \u0440g 3%",
+          "confidence": 0.30000001192092896,
+          "left": 0.6755443588940514,
+          "top": 0.6262526613974161,
+          "right": 0.6893968471847107,
+          "bottom": 0.652395358579399,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "12T \u0440g 3%"
+            }
+          ]
+        },
+        {
+          "text": "12 1\u0440g33",
+          "confidence": 0.30000001192092896,
+          "left": 0.6385869943805581,
+          "top": 0.6263672352215041,
+          "right": 0.6505979397571996,
+          "bottom": 0.6500800776371348,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "12 1\u0440g33"
+            }
+          ]
+        },
+        {
+          "text": "12 1\u0440\u0443g 318",
+          "confidence": 0.30000001192092896,
+          "left": 0.6264705872133502,
+          "top": 0.6265151508536821,
+          "right": 0.6377045570926183,
+          "bottom": 0.6509436667722044,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "12 1\u0440\u0443g 318"
+            }
+          ]
+        },
+        {
+          "text": "131 2g 9/4",
+          "confidence": 0.30000001192092896,
+          "left": 0.6637221599621526,
+          "top": 0.6265151511996655,
+          "right": 0.6756538733815841,
+          "bottom": 0.6493150987485155,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "131 2g 9/4"
+            }
+          ]
+        },
+        {
+          "text": "BARRIER",
+          "confidence": 1.0,
+          "left": 0.7718100392739453,
+          "top": 0.6265151513746822,
+          "right": 0.7774270239021934,
+          "bottom": 0.6395436925561231,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "BARRIER"
+            }
+          ]
+        },
+        {
+          "text": "r21 pg 34",
+          "confidence": 0.30000001192092896,
+          "left": 0.6510448901073543,
+          "top": 0.6265151515839397,
+          "right": 0.6629809833765392,
+          "bottom": 0.6504008100956958,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "r21 pg 34"
+            }
+          ]
+        },
+        {
+          "text": "r2702330",
+          "confidence": 0.30000001192092896,
+          "left": 0.651088583729014,
+          "top": 0.6265151515839397,
+          "right": 0.6623184315799114,
+          "bottom": 0.6504008100956958,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "r2702330"
+            }
+          ]
+        },
+        {
+          "text": "12 Tggg 30",
+          "confidence": 0.30000001192092896,
+          "left": 0.6391088004085719,
+          "top": 0.6265151515972094,
+          "right": 0.6503427696650682,
+          "bottom": 0.6504008101089657,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "12 Tggg 30"
+            }
+          ]
+        },
+        {
+          "text": "(2T\u0440g 34*",
+          "confidence": 0.30000001192092896,
+          "left": 0.6629809804255042,
+          "top": 0.6265151516080666,
+          "right": 0.6756191964618344,
+          "bottom": 0.6504008101198229,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "(2T\u0440g 34*"
+            }
+          ]
+        },
+        {
+          "text": "\"1aga",
+          "confidence": 0.30000001192092896,
+          "left": 0.5865169711420234,
+          "top": 0.6265151516313319,
+          "right": 0.598448684561455,
+          "bottom": 0.6504008101430881,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "\"1aga"
+            }
+          ]
+        },
+        {
+          "text": "<G 20450",
+          "confidence": 1.0,
+          "left": 0.33735829418807634,
+          "top": 0.6281437188657972,
+          "right": 0.34368376473223067,
+          "bottom": 0.6487722425635214,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "<G 20450"
+            }
+          ]
+        },
+        {
+          "text": "SAFEOM INEEGTION",
+          "confidence": 1.0,
+          "left": 0.3413248894599173,
+          "top": 0.629056186842937,
+          "right": 0.34987745257246294,
+          "bottom": 0.6584977678184076,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "SAFEOM INEEGTION"
+            }
+          ]
+        },
+        {
+          "text": "C 28450 (8-9)",
+          "confidence": 1.0,
+          "left": 0.3366598560952659,
+          "top": 0.6290561874028726,
+          "right": 0.3436574096027529,
+          "bottom": 0.668712193095039,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "C 28450 (8-9)"
+            }
+          ]
+        },
+        {
+          "text": "SACONHE",
+          "confidence": 0.30000001192092896,
+          "left": 0.34227810232630773,
+          "top": 0.6292294309351734,
+          "right": 0.34930640341572544,
+          "bottom": 0.6585436481120871,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "SACONHE"
+            }
+          ]
+        },
+        {
+          "text": "SAFEEM TNEGTION",
+          "confidence": 0.30000001192092896,
+          "left": 0.3156672097213552,
+          "top": 0.6296570354064698,
+          "right": 0.3242197731455591,
+          "bottom": 0.6584977678691938,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "SAFEEM TNEGTION"
+            }
+          ]
+        },
+        {
+          "text": "SI-TK-94 6 98",
+          "confidence": 1.0,
+          "left": 0.3327723299211188,
+          "top": 0.6302578836986188,
+          "right": 0.3366598596994435,
+          "bottom": 0.6542918280593683,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "SI-TK-94 6 98"
+            }
+          ]
+        },
+        {
+          "text": "SI-TK\u202299.:8",
+          "confidence": 1.0,
+          "left": 0.33314131578268996,
+          "top": 0.6303151426334969,
+          "right": 0.3366554666390571,
+          "bottom": 0.6487722424800955,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "SI-TK\u202299.:8"
+            }
+          ]
+        },
+        {
+          "text": "PI 2045",
+          "confidence": 0.6500000059604645,
+          "left": 0.29869281045751633,
+          "top": 0.6310606060606061,
+          "right": 0.3326797385620915,
+          "bottom": 0.657070707070707,
+          "alternatives": [
+            {
+              "source": "instrument_bubble",
+              "u_bend": false,
+              "geometry_score": 0.6875,
+              "vote_agreement": 0.5,
+              "profile": "legacy_nuclear_pid",
+              "ocr_variants": [
+                {
+                  "variant": "original",
+                  "text": "C20450 AFETY INJECTION SI-TK-9C LOM HE",
+                  "confidence": 1.0
+                },
+                {
+                  "variant": "autocontrast",
+                  "text": "C 20450 AFETY INJECTION SI-TK-RC & LON HAG",
+                  "confidence": 0.875
+                },
+                {
+                  "variant": "threshold",
+                  "text": "\u20222045 5I-1K \u20229C &",
+                  "confidence": 0.6500000059604645
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "SI-TK-9C 8 90",
+          "confidence": 1.0,
+          "left": 0.3071146501929453,
+          "top": 0.631459580843138,
+          "right": 0.31177968524128674,
+          "bottom": 0.6554935252038876,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "SI-TK-9C 8 90"
+            }
+          ]
+        },
+        {
+          "text": "SI-TK-9C 4 90",
+          "confidence": 1.0,
+          "left": 0.306433783761362,
+          "top": 0.6319437099299223,
+          "right": 0.311353594773281,
+          "bottom": 0.6547436574787722,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "SI-TK-9C 4 90"
+            }
+          ]
+        },
+        {
+          "text": "20450",
+          "confidence": 1.0,
+          "left": 0.3117796831843421,
+          "top": 0.6356655213884324,
+          "right": 0.31644471760936704,
+          "bottom": 0.6494850391070476,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "20450"
+            }
+          ]
+        },
+        {
+          "text": "=",
+          "confidence": 1.0,
+          "left": 0.17882625198449004,
+          "top": 0.6362663697322076,
+          "right": 0.18426879152370254,
+          "bottom": 0.6416740077910078,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "="
+            }
+          ]
+        },
+        {
+          "text": "REV",
+          "confidence": 1.0,
+          "left": 0.17359895591938818,
+          "top": 0.636829413276147,
+          "right": 0.17781593513941074,
+          "bottom": 0.6433436838668675,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "REV"
+            }
+          ]
+        },
+        {
+          "text": "RC-3/4",
+          "confidence": 0.5,
+          "left": 0.49597634118105904,
+          "top": 0.6417151163333009,
+          "right": 0.5022931306750419,
+          "bottom": 0.6552865129961951,
+          "alternatives": [
+            {
+              "confidence": 0.5,
+              "text": "RC-3/4"
+            }
+          ]
+        },
+        {
+          "text": "RC-3/41",
+          "confidence": 1.0,
+          "left": 0.5226472246452699,
+          "top": 0.6422579721647149,
+          "right": 0.5275602833135966,
+          "bottom": 0.654200801420593,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "RC-3/41"
+            }
+          ]
+        },
+        {
+          "text": "WASTE PROCESSING LIQUID DRAINS REA",
+          "confidence": 1.0,
+          "left": 0.1796037549410866,
+          "top": 0.6458799476089717,
+          "right": 0.18504629946683146,
+          "bottom": 0.7059648065854068,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "WASTE PROCESSING LIQUID DRAINS REA"
+            }
+          ]
+        },
+        {
+          "text": "WASTE PROCESSING LIQUID DRAINS REACTOR COOLANT",
+          "confidence": 1.0,
+          "left": 0.18062724936704017,
+          "top": 0.6460579629552364,
+          "right": 0.1848442373134944,
+          "bottom": 0.7291149113022735,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "WASTE PROCESSING LIQUID DRAINS REACTOR COOLANT"
+            }
+          ]
+        },
+        {
+          "text": "KB-9)",
+          "confidence": 0.30000001192092896,
+          "left": 0.3359526348741593,
+          "top": 0.6498579543066197,
+          "right": 0.34298093471694385,
+          "bottom": 0.6677721986717652,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "KB-9)"
+            }
+          ]
+        },
+        {
+          "text": "48-73",
+          "confidence": 0.30000001192092896,
+          "left": 0.31177968303890163,
+          "top": 0.6512875852766812,
+          "right": 0.3172222232014307,
+          "bottom": 0.6681113455590304,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "48-73"
+            }
+          ]
+        },
+        {
+          "text": "4",
+          "confidence": 1.0,
+          "left": 0.16375933930728648,
+          "top": 0.6520293779742079,
+          "right": 0.16938197743622785,
+          "bottom": 0.6563722251951309,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "4"
+            }
+          ]
+        },
+        {
+          "text": "(6-72",
+          "confidence": 0.30000001192092896,
+          "left": 0.3113535929347567,
+          "top": 0.6525722339035547,
+          "right": 0.3169762323103311,
+          "bottom": 0.6683150544175745,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "(6-72"
+            }
+          ]
+        },
+        {
+          "text": "3r8 gg V210",
+          "confidence": 0.30000001192092896,
+          "left": 0.6456046541406626,
+          "top": 0.6708468407697473,
+          "right": 0.6594467644538098,
+          "bottom": 0.7061755387771639,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "3r8 gg V210"
+            }
+          ]
+        },
+        {
+          "text": "31800V218 2811",
+          "confidence": 0.30000001192092896,
+          "left": 0.6652124869802739,
+          "top": 0.6710931999958367,
+          "right": 0.681520747406581,
+          "bottom": 0.7240184528868336,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "31800V218 2811"
+            }
+          ]
+        },
+        {
+          "text": "34* geg/21@",
+          "confidence": 0.30000001192092896,
+          "left": 0.6264705859138303,
+          "top": 0.6711155894110876,
+          "right": 0.6381191168464526,
+          "bottom": 0.7059648070012796,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "34* geg/21@"
+            }
+          ]
+        },
+        {
+          "text": "3/* gg V210 3811",
+          "confidence": 0.30000001192092896,
+          "left": 0.6446887837621547,
+          "top": 0.6712930818599813,
+          "right": 0.6590963720149562,
+          "bottom": 0.7167626910260321,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "3/* gg V210 3811"
+            }
+          ]
+        },
+        {
+          "text": "34* pa\u0434 121 20911",
+          "confidence": 0.30000001192092896,
+          "left": 0.6259211292318152,
+          "top": 0.6719775279130128,
+          "right": 0.639540242440542,
+          "bottom": 0.7227560259885308,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "34* pa\u0434 121 20911"
+            }
+          ]
+        },
+        {
+          "text": "RESCTOOOR\u00b0",
+          "confidence": 0.5,
+          "left": 0.49861685828259295,
+          "top": 0.6744199577078182,
+          "right": 0.5087193326799893,
+          "bottom": 0.6925566854689079,
+          "alternatives": [
+            {
+              "confidence": 0.5,
+              "text": "RESCTOOOR\u00b0"
+            }
+          ]
+        },
+        {
+          "text": "IN0 005 801230",
+          "confidence": 0.30000001192092896,
+          "left": 0.5247026863149296,
+          "top": 0.674720680587424,
+          "right": 0.533250407164326,
+          "bottom": 0.7029605645374011,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "IN0 005 801230"
+            }
+          ]
+        },
+        {
+          "text": "TI 8841",
+          "confidence": 0.600000003973643,
+          "left": 0.4316993464052288,
+          "top": 0.682070707070707,
+          "right": 0.46372549019607845,
+          "bottom": 0.7070707070707071,
+          "alternatives": [
+            {
+              "source": "instrument_bubble",
+              "u_bend": false,
+              "geometry_score": 0.7812,
+              "vote_agreement": 0.5,
+              "profile": "legacy_nuclear_pid",
+              "ocr_variants": [
+                {
+                  "variant": "original",
+                  "text": "REAC YOOOFOOLAN RC-E-TIA 20841",
+                  "confidence": 0.7666666706403097
+                },
+                {
+                  "variant": "autocontrast",
+                  "text": "",
+                  "confidence": 0.0
+                },
+                {
+                  "variant": "threshold",
+                  "text": "REAC TOR 8841 FoOLon",
+                  "confidence": 0.600000003973643
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "VAAKOFSTEM",
+          "confidence": 0.30000001192092896,
+          "left": 0.7025742927913593,
+          "top": 0.6867376529675813,
+          "right": 0.7118931157936964,
+          "bottom": 0.7059648073009177,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "VAAKOFSTEM"
+            }
+          ]
+        },
+        {
+          "text": "STSTEN",
+          "confidence": 0.30000001192092896,
+          "left": 0.6946042361914357,
+          "top": 0.6867721546157253,
+          "right": 0.7037284867139066,
+          "bottom": 0.6998006957971662,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "STSTEN"
+            }
+          ]
+        },
+        {
+          "text": "LEAKOFF",
+          "confidence": 1.0,
+          "left": 0.7030019895510418,
+          "top": 0.6873150106250557,
+          "right": 0.7072147286449996,
+          "bottom": 0.7008864072879498,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "LEAKOFF"
+            }
+          ]
+        },
+        {
+          "text": "VALVE STEM",
+          "confidence": 1.0,
+          "left": 0.7072147269663256,
+          "top": 0.6873150106467482,
+          "right": 0.7114274666830551,
+          "bottom": 0.7063149659747999,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "VALVE STEM"
+            }
+          ]
+        },
+        {
+          "text": "(TYP)",
+          "confidence": 1.0,
+          "left": 0.6952786371229671,
+          "top": 0.6873150107061365,
+          "right": 0.698789253138394,
+          "bottom": 0.697086416110889,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "(TYP)"
+            }
+          ]
+        },
+        {
+          "text": "SYSTEM",
+          "confidence": 1.0,
+          "left": 0.6987892519800651,
+          "top": 0.6878578662595073,
+          "right": 0.703001990762637,
+          "bottom": 0.6992578400339321,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "SYSTEM"
+            }
+          ]
+        },
+        {
+          "text": "YEEXE-8T",
+          "confidence": 0.30000001192092896,
+          "left": 0.6770234397882241,
+          "top": 0.7008864072678243,
+          "right": 0.6847467945862229,
+          "bottom": 0.7209720754840954,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "YEEXE-8T"
+            }
+          ]
+        },
+        {
+          "text": "YCEXE-SFFM",
+          "confidence": 1.0,
+          "left": 0.6770576017920451,
+          "top": 0.7008864080335183,
+          "right": 0.6840762574773862,
+          "bottom": 0.7204292188430232,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "YCEXE-SFFM"
+            }
+          ]
+        },
+        {
+          "text": "2. COMPONENTS HAVE AN INTERNAL ENVIRONMENT OF AIR/GAS SD THEY",
+          "confidence": 1.0,
+          "left": 0.7528281376911967,
+          "top": 0.7323551531713857,
+          "right": 0.75990943885398,
+          "bottom": 0.8789557714322747,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "2. COMPONENTS HAVE AN INTERNAL ENVIRONMENT OF AIR/GAS SD THEY"
+            }
+          ]
+        },
+        {
+          "text": "3. CAPILIARY TUBING IS PART OF THE INSTRUMENT AND CONSIDERED",
+          "confidence": 1.0,
+          "left": 0.7337871555303263,
+          "top": 0.7323552056335435,
+          "right": 0.7403505887149637,
+          "bottom": 0.8746170309013883,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "3. CAPILIARY TUBING IS PART OF THE INSTRUMENT AND CONSIDERED"
+            }
+          ]
+        },
+        {
+          "text": "1. COMPONENT DESIGNATEO AS X-32 IS A CONTAINMENT PENETRATION",
+          "confidence": 1.0,
+          "left": 0.7661930481701408,
+          "top": 0.7323720499284478,
+          "right": 0.7718100499246104,
+          "bottom": 0.8751431435922188,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "1. COMPONENT DESIGNATEO AS X-32 IS A CONTAINMENT PENETRATION"
+            }
+          ]
+        },
+        {
+          "text": "RED INDICATES COMPONENTS IN SCOPE PER 10CFR 54.4lal(1)",
+          "confidence": 1.0,
+          "left": 0.6798650567539783,
+          "top": 0.7356291826571754,
+          "right": 0.6861818599500935,
+          "bottom": 0.8664574518783508,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "RED INDICATES COMPONENTS IN SCOPE PER 10CFR 54.4lal(1)"
+            }
+          ]
+        },
+        {
+          "text": "COMPONENTS SUBJECT TO AMR",
+          "confidence": 1.0,
+          "left": 0.6868837126664443,
+          "top": 0.7356291836177703,
+          "right": 0.6939023764485001,
+          "bottom": 0.8290003957389824,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "COMPONENTS SUBJECT TO AMR"
+            }
+          ]
+        },
+        {
+          "text": "BLACK INDICATES COMPONENTS NOT SUBJECT TO AMR.",
+          "confidence": 1.0,
+          "left": 0.6658277503321179,
+          "top": 0.7356291840999406,
+          "right": 0.6721445522825847,
+          "bottom": 0.8545146211772684,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "BLACK INDICATES COMPONENTS NOT SUBJECT TO AMR."
+            }
+          ]
+        },
+        {
+          "text": "GREEN INDICATES COMPDNENTS IN SCOPE PER 10CFR 54.4(a)2)",
+          "confidence": 1.0,
+          "left": 0.6581072308224346,
+          "top": 0.7356291867143234,
+          "right": 0.6644240371326707,
+          "bottom": 0.8718860068994043,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "GREEN INDICATES COMPDNENTS IN SCOPE PER 10CFR 54.4(a)2)"
+            }
+          ]
+        },
+        {
+          "text": "AND SUBJECT TO AMR PER 10CFR 54.21.",
+          "confidence": 1.0,
+          "left": 0.6510885797943137,
+          "top": 0.7361720386017457,
+          "right": 0.6574053780078353,
+          "bottom": 0.8257432604274728,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "AND SUBJECT TO AMR PER 10CFR 54.21."
+            }
+          ]
+        },
+        {
+          "text": "AND/OR (eX3) AND SUBJECT TO AMR PER 10CFR 54.21.",
+          "confidence": 1.0,
+          "left": 0.6721257990758484,
+          "top": 0.7366920709315836,
+          "right": 0.6799551018694782,
+          "bottom": 0.8550834957933072,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "AND/OR (eX3) AND SUBJECT TO AMR PER 10CFR 54.21."
+            }
+          ]
+        },
+        {
+          "text": "AND/OR (aX3) AND SUBJECT TO AMRPER 10CFR 54.21.",
+          "confidence": 1.0,
+          "left": 0.6728106965631424,
+          "top": 0.7372577534248433,
+          "right": 0.6791298164139695,
+          "bottom": 0.8550574756886389,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "AND/OR (aX3) AND SUBJECT TO AMRPER 10CFR 54.21."
+            }
+          ]
+        },
+        {
+          "text": "SEABROOK STATION",
+          "confidence": 1.0,
+          "left": 0.18062725250236503,
+          "top": 0.7378006081771551,
+          "right": 0.18484423421565377,
+          "bottom": 0.7627719776518176,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "SEABROOK STATION"
+            }
+          ]
+        },
+        {
+          "text": "THAT WILL BE EVALUATEO UNDER THE CIVIL STRUCTURAL LRSP-CNT.",
+          "confidence": 1.0,
+          "left": 0.7598739416599944,
+          "top": 0.739429176039691,
+          "right": 0.7661930677385386,
+          "bottom": 0.8805717013337896,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "THAT WILL BE EVALUATEO UNDER THE CIVIL STRUCTURAL LRSP-CNT."
+            }
+          ]
+        },
+        {
+          "text": "AN ACTIVE COMPONENTPER NEI 95-10.",
+          "confidence": 1.0,
+          "left": 0.7275762894072842,
+          "top": 0.7394291761796289,
+          "right": 0.7331932815087927,
+          "bottom": 0.8192289877873209,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "AN ACTIVE COMPONENTPER NEI 95-10."
+            }
+          ]
+        },
+        {
+          "text": "FOR P&ID REFERENCE DRAWINGS. SYMBOLS AND ABBREVIATIONS",
+          "confidence": 1.0,
+          "left": 0.8308345694888375,
+          "top": 0.7399529833571734,
+          "right": 0.8378311304192096,
+          "bottom": 0.8675595955072235,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "FOR P&ID REFERENCE DRAWINGS. SYMBOLS AND ABBREVIATIONS"
+            }
+          ]
+        },
+        {
+          "text": "HAVE NO LICENSE RENEWAL INTENDED FUNCTION ANO ARE NOT IN",
+          "confidence": 1.0,
+          "left": 0.746533605845703,
+          "top": 0.7399720291486677,
+          "right": 0.7528527300559321,
+          "bottom": 0.8740574351091881,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "HAVE NO LICENSE RENEWAL INTENDED FUNCTION ANO ARE NOT IN"
+            }
+          ]
+        },
+        {
+          "text": "REFER TO DRAWINGS P&ID - LRLEGEND 1 AND P&ID - LRLEGEND 2",
+          "confidence": 1.0,
+          "left": 0.824469253789091,
+          "top": 0.739972034159559,
+          "right": 0.8307883755082333,
+          "bottom": 0.8746002859749674,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "REFER TO DRAWINGS P&ID - LRLEGEND 1 AND P&ID - LRLEGEND 2"
+            }
+          ]
+        },
+        {
+          "text": "5 RE ERO OES NE SOZLBETE FOR VOLVE LEAKOETS.",
+          "confidence": 0.30000001192092896,
+          "left": 0.468576360806877,
+          "top": 0.7469730601776894,
+          "right": 0.48331045550065793,
+          "bottom": 0.8339072500795802,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "5 RE ERO OES NE SOZLBETE FOR VOLVE LEAKOETS."
+            }
+          ]
+        },
+        {
+          "text": "LMORITHISDRAMINGWITH ORAMINGS 28216,&20219 THRU 28229,",
+          "confidence": 1.0,
+          "left": 0.5142248351203592,
+          "top": 0.747029157891248,
+          "right": 0.5191379060894638,
+          "bottom": 0.8518003408989157,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "LMORITHISDRAMINGWITH ORAMINGS 28216,&20219 THRU 28229,"
+            }
+          ]
+        },
+        {
+          "text": "2. ALL LINES. EQUIPMENT, COMPONENTS, ANO INSTRUMENTS HAVE SYSTEM PREFIX WLO",
+          "confidence": 1.0,
+          "left": 0.5079080456905656,
+          "top": 0.7470291590784622,
+          "right": 0.512821119150967,
+          "bottom": 0.8756859986725729,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "2. ALL LINES. EQUIPMENT, COMPONENTS, ANO INSTRUMENTS HAVE SYSTEM PREFIX WLO"
+            }
+          ]
+        },
+        {
+          "text": "4, ALL LINES, EQUIPMENT, COMPONENTS, ANO INSTRUMENTS ARE SAFETY CLASS NNS.",
+          "confidence": 1.0,
+          "left": 0.4903614118759367,
+          "top": 0.7475720120702283,
+          "right": 0.49527448362357146,
+          "bottom": 0.872971722626246,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "4, ALL LINES, EQUIPMENT, COMPONENTS, ANO INSTRUMENTS ARE SAFETY CLASS NNS."
+            }
+          ]
+        },
+        {
+          "text": "NOTESt",
+          "confidence": 1.0,
+          "left": 0.5212434940346216,
+          "top": 0.7475720136165419,
+          "right": 0.5254546871344142,
+          "bottom": 0.757886275465404,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "NOTESt"
+            }
+          ]
+        },
+        {
+          "text": "3. VALVES V69 THRU V73 ARE REACH ROO OPERATEO.",
+          "confidence": 1.0,
+          "left": 0.4952744718789668,
+          "top": 0.7475720145763861,
+          "right": 0.5008894054581906,
+          "bottom": 0.8290003945537506,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "3. VALVES V69 THRU V73 ARE REACH ROO OPERATEO."
+            }
+          ]
+        },
+        {
+          "text": "UNLESS NOTED OTHERWISE.",
+          "confidence": 1.0,
+          "left": 0.5029949930115685,
+          "top": 0.7492005806177188,
+          "right": 0.5072061898483062,
+          "bottom": 0.7931719073457459,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "UNLESS NOTED OTHERWISE."
+            }
+          ]
+        },
+        {
+          "text": "PIPE ANCHOR",
+          "confidence": 1.0,
+          "left": 0.6426661989860173,
+          "top": 0.7492005813199568,
+          "right": 0.6489829906598849,
+          "bottom": 0.7785147984968707,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "PIPE ANCHOR"
+            }
+          ]
+        },
+        {
+          "text": "UNLESS NOTED OTHERMISE.",
+          "confidence": 1.0,
+          "left": 0.48544835906276207,
+          "top": 0.7492005815688885,
+          "right": 0.4903614214680339,
+          "bottom": 0.7926290508901497,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "UNLESS NOTED OTHERMISE."
+            }
+          ]
+        },
+        {
+          "text": "PORTIONS OF THIS DRAWING ARE",
+          "confidence": 1.0,
+          "left": 0.4370196466529704,
+          "top": 0.7540862826664807,
+          "right": 0.44474017662638443,
+          "bottom": 0.8523431998967103,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "PORTIONS OF THIS DRAWING ARE"
+            }
+          ]
+        },
+        {
+          "text": "CS - CHEMICAL & VOLUME CONTROL STSTEM",
+          "confidence": 1.0,
+          "left": 0.6117841197850401,
+          "top": 0.7546291390724653,
+          "right": 0.6166971877957298,
+          "bottom": 0.8480003511936774,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CS - CHEMICAL & VOLUME CONTROL STSTEM"
+            }
+          ]
+        },
+        {
+          "text": "NG - NITROGEN GAS SYSTEM",
+          "confidence": 1.0,
+          "left": 0.618100909556548,
+          "top": 0.7546291391956431,
+          "right": 0.6237158400216507,
+          "bottom": 0.8154289993259095,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "NG - NITROGEN GAS SYSTEM"
+            }
+          ]
+        },
+        {
+          "text": "SI - SAFETY INJECTION SYSTEM",
+          "confidence": 1.0,
+          "left": 0.5921318915022408,
+          "top": 0.7546291415591926,
+          "right": 0.5977468216559314,
+          "bottom": 0.8219432674668968,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "SI - SAFETY INJECTION SYSTEM"
+            }
+          ]
+        },
+        {
+          "text": "WLD - WASTE PROCESSING LIDUID DRAINS STSTEM",
+          "confidence": 1.0,
+          "left": 0.5991505431082618,
+          "top": 0.7551719973377178,
+          "right": 0.6040636123645998,
+          "bottom": 0.8566860436060403,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "WLD - WASTE PROCESSING LIDUID DRAINS STSTEM"
+            }
+          ]
+        },
+        {
+          "text": "RMW - REACTOR WATER MAKE-UP STSTEM",
+          "confidence": 1.0,
+          "left": 0.6061691975286896,
+          "top": 0.7551719975765526,
+          "right": 0.6103803995037269,
+          "bottom": 0.8387717994797297,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "RMW - REACTOR WATER MAKE-UP STSTEM"
+            }
+          ]
+        },
+        {
+          "text": "INDICATES SYSTEM BOUNDARY INTERFACE",
+          "confidence": 1.0,
+          "left": 0.6302507356228412,
+          "top": 0.756775921357648,
+          "right": 0.6372266957753426,
+          "bottom": 0.8469452070155011,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "INDICATES SYSTEM BOUNDARY INTERFACE"
+            }
+          ]
+        },
+        {
+          "text": "NUCLEAR SAFETY RELATED",
+          "confidence": 1.0,
+          "left": 0.42228047442638994,
+          "top": 0.7568005624569852,
+          "right": 0.432808465428292,
+          "bottom": 0.8534289113175423,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "NUCLEAR SAFETY RELATED"
+            }
+          ]
+        },
+        {
+          "text": "DSGN",
+          "confidence": 1.0,
+          "left": 0.23825929557548095,
+          "top": 0.760600554750389,
+          "right": 0.24247627541882008,
+          "bottom": 0.7692862491922351,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "DSGN"
+            }
+          ]
+        },
+        {
+          "text": "- REACTOR COOLANT SYSTEM",
+          "confidence": 1.0,
+          "left": 0.6251195633483027,
+          "top": 0.7611434116122758,
+          "right": 0.630032627622047,
+          "bottom": 0.8230289788548225,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "- REACTOR COOLANT SYSTEM"
+            }
+          ]
+        },
+        {
+          "text": "NEXTera ENERGY",
+          "confidence": 1.0,
+          "left": 0.22701401591783063,
+          "top": 0.7687433912943545,
+          "right": 0.23615081082464628,
+          "bottom": 0.8344289565336384,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "NEXTera ENERGY"
+            }
+          ]
+        },
+        {
+          "text": "PID- 1-WLD-LR20218",
+          "confidence": 1.0,
+          "left": 0.17570744133726363,
+          "top": 0.7725433855727214,
+          "right": 0.1834385773351605,
+          "bottom": 0.8469146385152558,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "PID- 1-WLD-LR20218"
+            }
+          ]
+        },
+        {
+          "text": "WASTE PROCESSING LIQUID DRAINS",
+          "confidence": 1.0,
+          "left": 0.21084892854947335,
+          "top": 0.7730862399651245,
+          "right": 0.2185800682872695,
+          "bottom": 0.8794859913424645,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "WASTE PROCESSING LIQUID DRAINS"
+            }
+          ]
+        },
+        {
+          "text": "CHKO",
+          "confidence": 1.0,
+          "left": 0.23825929558719477,
+          "top": 0.7730862402122367,
+          "right": 0.24247627543053393,
+          "bottom": 0.782314790135536,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CHKO"
+            }
+          ]
+        },
+        {
+          "text": "REACTOR COOLANT SYSTEM",
+          "confidence": 1.0,
+          "left": 0.20100931325235086,
+          "top": 0.7855719259772543,
+          "right": 0.2080376199516175,
+          "bottom": 0.8670003059546189,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "REACTOR COOLANT SYSTEM"
+            }
+          ]
+        },
+        {
+          "text": "LICENSE RENEWAL P&ID",
+          "confidence": 1.0,
+          "left": 0.19116969661741504,
+          "top": 0.7904576277416651,
+          "right": 0.19819800393999823,
+          "bottom": 0.8621146052022466,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "LICENSE RENEWAL P&ID"
+            }
+          ]
+        },
+        {
+          "text": "ORICINAL ISSUE",
+          "confidence": 1.0,
+          "left": 0.24388193314624232,
+          "top": 0.7980576111930591,
+          "right": 0.2488017443139905,
+          "bottom": 0.8224861251862684,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "ORICINAL ISSUE"
+            }
+          ]
+        },
+        {
+          "text": "SEABROOK",
+          "confidence": 1.0,
+          "left": 0.22279704006585693,
+          "top": 0.8241146934433091,
+          "right": 0.22701402053251254,
+          "bottom": 0.840400369438782,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "SEABROOK"
+            }
+          ]
+        },
+        {
+          "text": "DESCRIP TION",
+          "confidence": 1.0,
+          "left": 0.23825929526382272,
+          "top": 0.8268289729441407,
+          "right": 0.24247627573047836,
+          "bottom": 0.8458289282721925,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "DESCRIP TION"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

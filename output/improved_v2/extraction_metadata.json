@@ -1,0 +1,4019 @@
+{
+  "documents": [
+    {
+      "document_id": 1,
+      "page": 1,
+      "fields": {
+        "pid": [
+          {
+            "value": "PID-1-SS_LR20519",
+            "confidence": 1.0,
+            "review_threshold": 0.8,
+            "source": "page_ocr",
+            "bbox": [
+              0.80082,
+              0.04266,
+              0.80516,
+              0.05103
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          }
+        ],
+        "valves": [
+          {
+            "value": "V827",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.80082,
+              0.04266,
+              0.80516,
+              0.05103
+            ],
+            "evidence_text": "2",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V760",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.53535,
+              0.04351,
+              0.54016,
+              0.05277
+            ],
+            "evidence_text": "6",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V832",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.7346,
+              0.04266,
+              0.73894,
+              0.05103
+            ],
+            "evidence_text": "3",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V83",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.32935,
+              0.15554,
+              0.33776,
+              0.16294
+            ],
+            "evidence_text": "V83-",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V834",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.7346,
+              0.04266,
+              0.73894,
+              0.05103
+            ],
+            "evidence_text": "3",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V995",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.60142,
+              0.04351,
+              0.60622,
+              0.05185
+            ],
+            "evidence_text": "5",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V956",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.60142,
+              0.04351,
+              0.60622,
+              0.05185
+            ],
+            "evidence_text": "5",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V57",
+            "confidence": 0.2,
+            "review_threshold": 0.78,
+            "source": "derived_rule",
+            "bbox": null,
+            "evidence_text": null,
+            "reasons": [
+              "no_direct_spatial_evidence",
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V113",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.7346,
+              0.04266,
+              0.73894,
+              0.05103
+            ],
+            "evidence_text": "3",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V0159",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.86757,
+              0.04266,
+              0.87083,
+              0.05019
+            ],
+            "evidence_text": "1",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V1181",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.86757,
+              0.04266,
+              0.87083,
+              0.05019
+            ],
+            "evidence_text": "1",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V835",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.7346,
+              0.04266,
+              0.73894,
+              0.05103
+            ],
+            "evidence_text": "3",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V757",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.60142,
+              0.04351,
+              0.60622,
+              0.05185
+            ],
+            "evidence_text": "5",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V825",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.80082,
+              0.04266,
+              0.80516,
+              0.05103
+            ],
+            "evidence_text": "2",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V841",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.86757,
+              0.04266,
+              0.87083,
+              0.05019
+            ],
+            "evidence_text": "1",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V755",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.60142,
+              0.04351,
+              0.60622,
+              0.05185
+            ],
+            "evidence_text": "5",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V72",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.33296,
+              0.77673,
+              0.33956,
+              0.78321
+            ],
+            "evidence_text": "V72",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V123",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.7346,
+              0.04266,
+              0.73894,
+              0.05103
+            ],
+            "evidence_text": "3",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V1258",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.80082,
+              0.04266,
+              0.80516,
+              0.05103
+            ],
+            "evidence_text": "2",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V1182",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.80082,
+              0.04266,
+              0.80516,
+              0.05103
+            ],
+            "evidence_text": "2",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V842",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.80082,
+              0.04266,
+              0.80516,
+              0.05103
+            ],
+            "evidence_text": "2",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V399",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.7346,
+              0.04266,
+              0.73894,
+              0.05103
+            ],
+            "evidence_text": "3",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V49",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.33689,
+              0.8602,
+              0.34449,
+              0.86439
+            ],
+            "evidence_text": "V49/",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V435",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.7346,
+              0.04266,
+              0.73894,
+              0.05103
+            ],
+            "evidence_text": "3",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          }
+        ],
+        "pressure_control_valves (U-bend_pipe)": [
+          {
+            "value": "PCV2847",
+            "confidence": 0.925,
+            "review_threshold": 0.72,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.37258,
+              0.26921,
+              0.39502,
+              0.30384
+            ],
+            "evidence_text": "PCV 2847",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 0.75,
+              "vote_agreement": 1.0,
+              "u_bend": true
+            }
+          },
+          {
+            "value": "PCV2848",
+            "confidence": 0.75,
+            "review_threshold": 0.72,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.37177,
+              0.40799,
+              0.3942,
+              0.44262
+            ],
+            "evidence_text": "PCV 2848",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 0.75,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          }
+        ],
+        "compound_gauge": [
+          {
+            "value": "PI2888",
+            "confidence": 0.925,
+            "review_threshold": 0.72,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.36161,
+              0.1087,
+              0.37291,
+              0.12614
+            ],
+            "evidence_text": "PI 2888",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 0.75,
+              "vote_agreement": 1.0,
+              "u_bend": false
+            }
+          }
+        ],
+        "pressure_indicators": [
+          {
+            "value": "PI2889",
+            "confidence": 0.7312,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.37717,
+              0.10238,
+              0.40059,
+              0.13852
+            ],
+            "evidence_text": "PI 2889",
+            "reasons": [
+              "confidence_below_0.78"
+            ],
+            "signals": {
+              "geometry_score": 0.6875,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2888",
+            "confidence": 0.925,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.36161,
+              0.1087,
+              0.37291,
+              0.12614
+            ],
+            "evidence_text": "PI 2888",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 0.75,
+              "vote_agreement": 1.0,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2793",
+            "confidence": 0.925,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.34065,
+              0.12487,
+              0.35915,
+              0.15344
+            ],
+            "evidence_text": "PI 2793",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 0.75,
+              "vote_agreement": 1.0,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2851",
+            "confidence": 0.925,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.45906,
+              0.25607,
+              0.48264,
+              0.29221
+            ],
+            "evidence_text": "PI 2851",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 0.75,
+              "vote_agreement": 1.0,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2853",
+            "confidence": 0.9062,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.45906,
+              0.39838,
+              0.48313,
+              0.43554
+            ],
+            "evidence_text": "PI 2853",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 0.6875,
+              "vote_agreement": 1.0,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2856",
+            "confidence": 0.6729,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.55667,
+              0.432,
+              0.57435,
+              0.45956
+            ],
+            "evidence_text": "PI 2856",
+            "reasons": [
+              "confidence_below_0.78",
+              "preprocessing_variants_disagree"
+            ],
+            "signals": {
+              "geometry_score": 0.6875,
+              "vote_agreement": 0.3333,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2815",
+            "confidence": 0.7062,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.36931,
+              0.6274,
+              0.39289,
+              0.66355
+            ],
+            "evidence_text": "PI 2815",
+            "reasons": [
+              "confidence_below_0.78",
+              "preprocessing_variants_disagree"
+            ],
+            "signals": {
+              "geometry_score": 0.75,
+              "vote_agreement": 0.375,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2854",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.09908,
+              0.65217,
+              0.12201,
+              0.68756
+            ],
+            "evidence_text": "PI 2854",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2657",
+            "confidence": 0.825,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.26236,
+              0.77048,
+              0.28824,
+              0.81016
+            ],
+            "evidence_text": "PI 2657",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI4399",
+            "confidence": 0.7594,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.55486,
+              0.83595,
+              0.57255,
+              0.8635
+            ],
+            "evidence_text": "PI 4399",
+            "reasons": [
+              "confidence_below_0.78"
+            ],
+            "signals": {
+              "geometry_score": 0.7812,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI1661",
+            "confidence": 0.7312,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.84294,
+              0.89408,
+              0.87029,
+              0.9363
+            ],
+            "evidence_text": "PI 1661",
+            "reasons": [
+              "confidence_below_0.78"
+            ],
+            "signals": {
+              "geometry_score": 0.6875,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI280",
+            "confidence": 0.76,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.80082,
+              0.04266,
+              0.80516,
+              0.05103
+            ],
+            "evidence_text": "2",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "PI833",
+            "confidence": 0.76,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.7346,
+              0.04266,
+              0.73894,
+              0.05103
+            ],
+            "evidence_text": "3",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "PI192",
+            "confidence": 0.76,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.80082,
+              0.04266,
+              0.80516,
+              0.05103
+            ],
+            "evidence_text": "2",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "PI174",
+            "confidence": 0.76,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.86757,
+              0.04266,
+              0.87083,
+              0.05019
+            ],
+            "evidence_text": "1",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          }
+        ],
+        "temperature_indicators": [
+          {
+            "value": "TI2850",
+            "confidence": 0.9156,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.44137,
+              0.27123,
+              0.4643,
+              0.30637
+            ],
+            "evidence_text": "TI 2850",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 0.7188,
+              "vote_agreement": 1.0,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "TI2852",
+            "confidence": 0.75,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.44006,
+              0.40824,
+              0.46299,
+              0.44338
+            ],
+            "evidence_text": "TI 2852",
+            "reasons": [
+              "confidence_below_0.78"
+            ],
+            "signals": {
+              "geometry_score": 0.75,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "TI166",
+            "confidence": 0.76,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.86757,
+              0.04266,
+              0.87083,
+              0.05019
+            ],
+            "evidence_text": "1",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          }
+        ],
+        "vacuum_pumps": [
+          {
+            "value": "P-392",
+            "confidence": 1.0,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.7346,
+              0.04266,
+              0.73894,
+              0.05103
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          }
+        ],
+        "filters": [
+          {
+            "value": "F-193",
+            "confidence": 1.0,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.7346,
+              0.04266,
+              0.73894,
+              0.05103
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "F-192",
+            "confidence": 1.0,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.80082,
+              0.04266,
+              0.80516,
+              0.05103
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          }
+        ],
+        "flexible_hoses": [
+          {
+            "value": "1-SS-FLEX HOSE NO. 4",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.86757,
+              0.04266,
+              0.87083,
+              0.05019
+            ],
+            "evidence_text": "1",
+            "reasons": []
+          },
+          {
+            "value": "1-SS-FLEX HOSE NO. 3",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.7346,
+              0.04266,
+              0.73894,
+              0.05103
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          }
+        ],
+        "tubing_sizes": [
+          {
+            "value": "1/4-T",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.3293,
+              0.12967,
+              0.3396,
+              0.13469
+            ],
+            "evidence_text": "1/4\u00b0-T",
+            "reasons": []
+          },
+          {
+            "value": "3/8-T",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.49692,
+              0.30552,
+              0.50773,
+              0.31015
+            ],
+            "evidence_text": "3/8'-T",
+            "reasons": []
+          }
+        ],
+        "gas_cylinders": [
+          {
+            "value": "NITROGEN",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.92673,
+              0.23842,
+              0.93162,
+              0.24678
+            ],
+            "evidence_text": "G",
+            "reasons": []
+          }
+        ],
+        "sample_panels": [
+          {
+            "value": "PRIMARY SAMPLE PANEL CP-166A",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.86757,
+              0.04266,
+              0.87083,
+              0.05019
+            ],
+            "evidence_text": "1",
+            "reasons": []
+          }
+        ],
+        "sample_sinks": [
+          {
+            "value": "PRIMARY SAMPLE SINK MM-13B",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.7346,
+              0.04266,
+              0.73894,
+              0.05103
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          }
+        ],
+        "system_boundary_interfaces": [
+          {
+            "value": "SS",
+            "confidence": 0.94,
+            "review_threshold": 0.8,
+            "source": "page_ocr",
+            "bbox": [
+              0.75848,
+              0.12883,
+              0.89797,
+              0.13636
+            ],
+            "evidence_text": "1. THIS PORTION OF THE SAMPLE SYSTEM IS NOT IN SCOPE",
+            "reasons": []
+          },
+          {
+            "value": "DM",
+            "confidence": 0.94,
+            "review_threshold": 0.8,
+            "source": "page_ocr",
+            "bbox": [
+              0.78942,
+              0.34454,
+              0.873,
+              0.35137
+            ],
+            "evidence_text": "DM - DEMINERALIZED WATER SYSTEM",
+            "reasons": []
+          },
+          {
+            "value": "CS",
+            "confidence": 0.94,
+            "review_threshold": 0.8,
+            "source": "page_ocr",
+            "bbox": [
+              0.78942,
+              0.35303,
+              0.89254,
+              0.35972
+            ],
+            "evidence_text": "CS - CHEMICAL & VOLUME CONTROL SYSTEM",
+            "reasons": []
+          }
+        ],
+        "instrument_bubbles": [
+          {
+            "value": "PI",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.36836,
+              0.11126,
+              0.3727,
+              0.11795
+            ],
+            "evidence_text": "PI",
+            "reasons": []
+          },
+          {
+            "value": "TI",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.70111,
+              0.937,
+              0.70592,
+              0.94256
+            ],
+            "evidence_text": "TI",
+            "reasons": []
+          },
+          {
+            "value": "PCV",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.09494,
+              0.61784,
+              0.10145,
+              0.62453
+            ],
+            "evidence_text": "PCV",
+            "reasons": []
+          }
+        ]
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "fields": {
+        "pid": [
+          {
+            "value": "PID-1-SS_LR20521",
+            "confidence": 1.0,
+            "review_threshold": 0.8,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          }
+        ],
+        "valves": [
+          {
+            "value": "V8070",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "V8071",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "V8077",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "V956",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.60142,
+              0.04537,
+              0.60562,
+              0.0537
+            ],
+            "evidence_text": "5",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V8076",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "V8078",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "V145",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.60142,
+              0.04537,
+              0.60562,
+              0.0537
+            ],
+            "evidence_text": "5",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V8079",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "V8879",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "V83",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.3613,
+              0.25766,
+              0.36836,
+              0.26435
+            ],
+            "evidence_text": "V83",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V803",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "V8082",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "V8081",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "V8083",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "V8884",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "V8084",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "V842",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "V8886",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "V133",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.73352,
+              0.04434,
+              0.73786,
+              0.0527
+            ],
+            "evidence_text": "3",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V16",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.32224,
+              0.41286,
+              0.32875,
+              0.41872
+            ],
+            "evidence_text": "V16",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V142",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V8088",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "V79",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.22025,
+              0.43294,
+              0.22948,
+              0.43964
+            ],
+            "evidence_text": "V79",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V84",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.36238,
+              0.44427,
+              0.37079,
+              0.44983
+            ],
+            "evidence_text": "V84",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V768",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "V808",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "V818",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "V1883",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "V811",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "V90",
+            "confidence": 0.545,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.32658,
+              0.55258,
+              0.33418,
+              0.56346
+            ],
+            "evidence_text": "V90-",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V132",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.73352,
+              0.04434,
+              0.73786,
+              0.0527
+            ],
+            "evidence_text": "3",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V139",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.73352,
+              0.04434,
+              0.73786,
+              0.0527
+            ],
+            "evidence_text": "3",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V98",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.33798,
+              0.60362,
+              0.34394,
+              0.6078
+            ],
+            "evidence_text": "V98",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V805",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "V26",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.32224,
+              0.76812,
+              0.3293,
+              0.77314
+            ],
+            "evidence_text": "V26",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V853",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          }
+        ],
+        "pressure_control_valves (U-bend_pipe)": [
+          {
+            "value": "PCV2826",
+            "confidence": 0.8906,
+            "review_threshold": 0.72,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.22044,
+              0.17518,
+              0.24288,
+              0.20981
+            ],
+            "evidence_text": "PCV 2826",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 0.7812,
+              "vote_agreement": 0.875,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PCV2827",
+            "confidence": 1.0,
+            "review_threshold": 0.72,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "PCV2828",
+            "confidence": 1.0,
+            "review_threshold": 0.72,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "PCV2829",
+            "confidence": 1.0,
+            "review_threshold": 0.72,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          }
+        ],
+        "pressure_indicators": [
+          {
+            "value": "PI6510",
+            "confidence": 0.7812,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.66083,
+              0.07659,
+              0.6849,
+              0.11375
+            ],
+            "evidence_text": "PI 6510",
+            "reasons": [
+              "preprocessing_variants_disagree"
+            ],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 0.375,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI0169",
+            "confidence": 0.7375,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.65919,
+              0.11754,
+              0.68375,
+              0.15571
+            ],
+            "evidence_text": "PI 0169",
+            "reasons": [
+              "confidence_below_0.78",
+              "preprocessing_variants_disagree"
+            ],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 0.25,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI6518",
+            "confidence": 0.7375,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.68949,
+              0.11906,
+              0.71356,
+              0.15622
+            ],
+            "evidence_text": "PI 6518",
+            "reasons": [
+              "confidence_below_0.78",
+              "preprocessing_variants_disagree"
+            ],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 0.25,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2819",
+            "confidence": 0.8667,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.81772,
+              0.15369,
+              0.84638,
+              0.19793
+            ],
+            "evidence_text": "PI 2819",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 0.75,
+              "vote_agreement": 0.8333,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2770",
+            "confidence": 0.9062,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.56158,
+              0.16911,
+              0.57927,
+              0.19641
+            ],
+            "evidence_text": "PI 2770",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 0.6875,
+              "vote_agreement": 1.0,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2810",
+            "confidence": 0.925,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.27367,
+              0.17063,
+              0.29659,
+              0.20602
+            ],
+            "evidence_text": "PI 2810",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 0.75,
+              "vote_agreement": 1.0,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2760",
+            "confidence": 0.9156,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.30855,
+              0.17417,
+              0.32624,
+              0.20172
+            ],
+            "evidence_text": "PI 2760",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 0.7188,
+              "vote_agreement": 1.0,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2800",
+            "confidence": 0.925,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.33934,
+              0.17594,
+              0.35064,
+              0.19338
+            ],
+            "evidence_text": "PI 2800",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 0.75,
+              "vote_agreement": 1.0,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2820",
+            "confidence": 0.6729,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.39027,
+              0.18099,
+              0.40698,
+              0.20652
+            ],
+            "evidence_text": "PI 2820",
+            "reasons": [
+              "confidence_below_0.78",
+              "preprocessing_variants_disagree"
+            ],
+            "signals": {
+              "geometry_score": 0.6875,
+              "vote_agreement": 0.3333,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI6511",
+            "confidence": 0.7312,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.66901,
+              0.18504,
+              0.68506,
+              0.21006
+            ],
+            "evidence_text": "PI 6511",
+            "reasons": [
+              "confidence_below_0.78"
+            ],
+            "signals": {
+              "geometry_score": 0.6875,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI9082",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "PI2776",
+            "confidence": 0.9156,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.39175,
+              0.20652,
+              0.4132,
+              0.23964
+            ],
+            "evidence_text": "PI 2776",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 0.7188,
+              "vote_agreement": 1.0,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI7939",
+            "confidence": 0.7594,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.40861,
+              0.21031,
+              0.4245,
+              0.23483
+            ],
+            "evidence_text": "PI 7939",
+            "reasons": [
+              "confidence_below_0.78"
+            ],
+            "signals": {
+              "geometry_score": 0.7812,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2816",
+            "confidence": 0.9563,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.42057,
+              0.24924,
+              0.44464,
+              0.2864
+            ],
+            "evidence_text": "PI 2816",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 0.875,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2761",
+            "confidence": 0.9062,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.31363,
+              0.26416,
+              0.33655,
+              0.29954
+            ],
+            "evidence_text": "PI 2761",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 0.6875,
+              "vote_agreement": 1.0,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI6512",
+            "confidence": 0.825,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.69374,
+              0.2725,
+              0.71782,
+              0.30966
+            ],
+            "evidence_text": "PI 6512",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2772",
+            "confidence": 0.7594,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.35228,
+              0.2955,
+              0.36816,
+              0.32002
+            ],
+            "evidence_text": "PI 2772",
+            "reasons": [
+              "confidence_below_0.78"
+            ],
+            "signals": {
+              "geometry_score": 0.7812,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2768",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "PI2786",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.18768,
+              0.35541,
+              0.21291,
+              0.39434
+            ],
+            "evidence_text": "PI 2786",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2801",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "PI2762",
+            "confidence": 0.9156,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.30757,
+              0.35844,
+              0.32951,
+              0.39206
+            ],
+            "evidence_text": "PI 2762",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 0.7188,
+              "vote_agreement": 1.0,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI3742",
+            "confidence": 0.7312,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.67082,
+              0.36021,
+              0.68556,
+              0.38271
+            ],
+            "evidence_text": "PI 3742",
+            "reasons": [
+              "confidence_below_0.78"
+            ],
+            "signals": {
+              "geometry_score": 0.6875,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2821",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "PI1082",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "PI0222",
+            "confidence": 0.7406,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.59564,
+              0.42442,
+              0.6094,
+              0.4454
+            ],
+            "evidence_text": "PI 0222",
+            "reasons": [
+              "confidence_below_0.78"
+            ],
+            "signals": {
+              "geometry_score": 0.7188,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2092",
+            "confidence": 0.7725,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.47642,
+              0.42745,
+              0.50164,
+              0.46638
+            ],
+            "evidence_text": "PI 2092",
+            "reasons": [
+              "confidence_below_0.78"
+            ],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI6513",
+            "confidence": 0.825,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.66001,
+              0.43023,
+              0.68359,
+              0.46638
+            ],
+            "evidence_text": "PI 6513",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2763",
+            "confidence": 0.75,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.31297,
+              0.45374,
+              0.33492,
+              0.48736
+            ],
+            "evidence_text": "PI 2763",
+            "reasons": [
+              "confidence_below_0.78"
+            ],
+            "signals": {
+              "geometry_score": 0.75,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2779",
+            "confidence": 0.7406,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.38388,
+              0.45854,
+              0.4019,
+              0.4866
+            ],
+            "evidence_text": "PI 2779",
+            "reasons": [
+              "confidence_below_0.78"
+            ],
+            "signals": {
+              "geometry_score": 0.7188,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2508",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "PI2817",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "PI9636",
+            "confidence": 0.7781,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.72388,
+              0.52401,
+              0.74975,
+              0.5637
+            ],
+            "evidence_text": "PI 9636",
+            "reasons": [
+              "confidence_below_0.78"
+            ],
+            "signals": {
+              "geometry_score": 0.8438,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI9640",
+            "confidence": 0.7104,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.67294,
+              0.53008,
+              0.6926,
+              0.56067
+            ],
+            "evidence_text": "PI 9640",
+            "reasons": [
+              "confidence_below_0.78",
+              "preprocessing_variants_disagree"
+            ],
+            "signals": {
+              "geometry_score": 0.8125,
+              "vote_agreement": 0.3333,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2812",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "PI9641",
+            "confidence": 0.75,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.68834,
+              0.5321,
+              0.70554,
+              0.55865
+            ],
+            "evidence_text": "PI 9641",
+            "reasons": [
+              "confidence_below_0.78"
+            ],
+            "signals": {
+              "geometry_score": 0.75,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2764",
+            "confidence": 0.9344,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.30724,
+              0.53236,
+              0.33017,
+              0.56749
+            ],
+            "evidence_text": "PI 2764",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 0.7812,
+              "vote_agreement": 1.0,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2822",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "PI2808",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "PI9631",
+            "confidence": 0.9156,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.69882,
+              0.57811,
+              0.71782,
+              0.60718
+            ],
+            "evidence_text": "PI 9631",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 0.7188,
+              "vote_agreement": 1.0,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2818",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "PI1805",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "PI9639",
+            "confidence": 0.825,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.68719,
+              0.61704,
+              0.71127,
+              0.6542
+            ],
+            "evidence_text": "PI 9639",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2765",
+            "confidence": 0.925,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.31428,
+              0.6274,
+              0.33672,
+              0.66203
+            ],
+            "evidence_text": "PI 2765",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 0.75,
+              "vote_agreement": 1.0,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2781",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "PI9635",
+            "confidence": 0.825,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.65231,
+              0.6317,
+              0.67819,
+              0.67139
+            ],
+            "evidence_text": "PI 9635",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2774",
+            "confidence": 0.6729,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.34966,
+              0.65066,
+              0.3716,
+              0.68428
+            ],
+            "evidence_text": "PI 2774",
+            "reasons": [
+              "confidence_below_0.78",
+              "preprocessing_variants_disagree"
+            ],
+            "signals": {
+              "geometry_score": 0.6875,
+              "vote_agreement": 0.3333,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI8182",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "PI2788",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "PI6082",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "PI2766",
+            "confidence": 0.8742,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.30757,
+              0.71284,
+              0.33049,
+              0.74798
+            ],
+            "evidence_text": "PI 2766",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 0.7188,
+              "vote_agreement": 1.0,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2883",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "PI9642",
+            "confidence": 0.7312,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.61366,
+              0.71916,
+              0.63708,
+              0.75531
+            ],
+            "evidence_text": "PI 9642",
+            "reasons": [
+              "confidence_below_0.78"
+            ],
+            "signals": {
+              "geometry_score": 0.6875,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2823",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "PI0626",
+            "confidence": 0.6424,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.10547,
+              0.72851,
+              0.13413,
+              0.77275
+            ],
+            "evidence_text": "PI 0626",
+            "reasons": [
+              "confidence_below_0.78",
+              "preprocessing_variants_disagree"
+            ],
+            "signals": {
+              "geometry_score": 0.7188,
+              "vote_agreement": 0.3333,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2809",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "PI2782",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "PI2784",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "PI2703",
+            "confidence": 0.6729,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.38519,
+              0.81572,
+              0.40124,
+              0.84075
+            ],
+            "evidence_text": "PI 2703",
+            "reasons": [
+              "confidence_below_0.78",
+              "preprocessing_variants_disagree"
+            ],
+            "signals": {
+              "geometry_score": 0.6875,
+              "vote_agreement": 0.3333,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2775",
+            "confidence": 0.6729,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.3531,
+              0.84353,
+              0.36882,
+              0.86805
+            ],
+            "evidence_text": "PI 2775",
+            "reasons": [
+              "confidence_below_0.78",
+              "preprocessing_variants_disagree"
+            ],
+            "signals": {
+              "geometry_score": 0.6875,
+              "vote_agreement": 0.3333,
+              "u_bend": false
+            }
+          }
+        ],
+        "temperature_indicators": [
+          {
+            "value": "TI2811",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "TI2813",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "TI2784",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          }
+        ],
+        "vacuum_pumps": [
+          {
+            "value": "P-375",
+            "confidence": 1.0,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.73352,
+              0.04434,
+              0.73786,
+              0.0527
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          }
+        ],
+        "filters": [
+          {
+            "value": "F-12",
+            "confidence": 0.2,
+            "review_threshold": 0.72,
+            "source": "derived_rule",
+            "bbox": null,
+            "evidence_text": null,
+            "reasons": [
+              "no_direct_spatial_evidence",
+              "confidence_below_0.72"
+            ]
+          },
+          {
+            "value": "F-178",
+            "confidence": 1.0,
+            "review_threshold": 0.72,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "F-177",
+            "confidence": 1.0,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.46989,
+              0.04537,
+              0.47409,
+              0.0537
+            ],
+            "evidence_text": "7",
+            "reasons": []
+          },
+          {
+            "value": "F-31",
+            "confidence": 1.0,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.65102,
+              0.66469,
+              0.65916,
+              0.67055
+            ],
+            "evidence_text": "F-31",
+            "reasons": []
+          },
+          {
+            "value": "F-11",
+            "confidence": 1.0,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.09114,
+              0.80411,
+              0.10145,
+              0.80997
+            ],
+            "evidence_text": "(F-11)",
+            "reasons": []
+          }
+        ],
+        "tubing_sizes": [
+          {
+            "value": "3/4-T",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.43145,
+              0.33215,
+              0.44406,
+              0.33956
+            ],
+            "evidence_text": "3/4'-T",
+            "reasons": []
+          },
+          {
+            "value": "3/8-T",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.51613,
+              0.56567,
+              0.51974,
+              0.58235
+            ],
+            "evidence_text": "3/8*-T",
+            "reasons": []
+          },
+          {
+            "value": "1/2-T",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.29729,
+              0.68979,
+              0.30109,
+              0.70485
+            ],
+            "evidence_text": "12-\u0422",
+            "reasons": []
+          }
+        ],
+        "sample_sinks": [
+          {
+            "value": "PRIMARY SAMPLE SINK MM-741",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.46989,
+              0.04537,
+              0.47409,
+              0.0537
+            ],
+            "evidence_text": "7",
+            "reasons": []
+          }
+        ],
+        "continuation_connections (hexagon)": [
+          {
+            "value": "8",
+            "confidence": 1.0,
+            "review_threshold": 0.7,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          }
+        ],
+        "system_boundary_interfaces": [
+          {
+            "value": "SS",
+            "confidence": 0.94,
+            "review_threshold": 0.8,
+            "source": "page_ocr",
+            "bbox": [
+              0.79702,
+              0.34454,
+              0.83881,
+              0.35061
+            ],
+            "evidence_text": "- SAMPLE SYSTEM",
+            "reasons": []
+          },
+          {
+            "value": "DM",
+            "confidence": 0.94,
+            "review_threshold": 0.8,
+            "source": "page_ocr",
+            "bbox": [
+              0.79702,
+              0.35303,
+              0.873,
+              0.35972
+            ],
+            "evidence_text": "- DEMINERALIZED WATER SYSTEM",
+            "reasons": []
+          }
+        ],
+        "instrument_bubbles": [
+          {
+            "value": "PI",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.34611,
+              0.17819,
+              0.35154,
+              0.18488
+            ],
+            "evidence_text": "PI",
+            "reasons": []
+          },
+          {
+            "value": "TI",
+            "confidence": 0.14,
+            "review_threshold": 0.72,
+            "source": "derived_rule",
+            "bbox": null,
+            "evidence_text": null,
+            "reasons": [
+              "no_direct_spatial_evidence",
+              "confidence_below_0.72"
+            ]
+          },
+          {
+            "value": "PCV",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.39782,
+              0.23238,
+              0.40503,
+              0.23979
+            ],
+            "evidence_text": "PCV",
+            "reasons": []
+          }
+        ],
+        "demineralized_water": [
+          {
+            "value": "Z20350",
+            "confidence": 1.0,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.73352,
+              0.04434,
+              0.73786,
+              0.0527
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          }
+        ]
+      }
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "fields": {
+        "pid": [
+          {
+            "value": "PID-1-SW_LR20794",
+            "confidence": 1.0,
+            "review_threshold": 0.8,
+            "source": "page_ocr",
+            "bbox": [
+              0.86486,
+              0.04099,
+              0.86757,
+              0.04768
+            ],
+            "evidence_text": "1",
+            "reasons": []
+          }
+        ],
+        "valves": [
+          {
+            "value": "V64",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.63325,
+              0.17128,
+              0.63925,
+              0.17683
+            ],
+            "evidence_text": "V64",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V231",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.86486,
+              0.04099,
+              0.86757,
+              0.04768
+            ],
+            "evidence_text": "1",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V232",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V230",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V243",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V24",
+            "confidence": 0.2,
+            "review_threshold": 0.78,
+            "source": "derived_rule",
+            "bbox": null,
+            "evidence_text": null,
+            "reasons": [
+              "no_direct_spatial_evidence",
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V524",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V527",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V528",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V520",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V542",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V522",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V180",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.86486,
+              0.04099,
+              0.86757,
+              0.04768
+            ],
+            "evidence_text": "1",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V139",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.86486,
+              0.04099,
+              0.86757,
+              0.04768
+            ],
+            "evidence_text": "1",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          }
+        ],
+        "pressure_indicators": [
+          {
+            "value": "PI8274",
+            "confidence": 0.7667,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.35703,
+              0.08114,
+              0.38339,
+              0.12184
+            ],
+            "evidence_text": "PI 8274",
+            "reasons": [
+              "confidence_below_0.78",
+              "preprocessing_variants_disagree"
+            ],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 0.3333,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI8273",
+            "confidence": 0.7228,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.41484,
+              0.08493,
+              0.43777,
+              0.12007
+            ],
+            "evidence_text": "PI 8273",
+            "reasons": [
+              "confidence_below_0.78"
+            ],
+            "signals": {
+              "geometry_score": 0.75,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI6104",
+            "confidence": 0.825,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.45775,
+              0.12437,
+              0.48133,
+              0.16052
+            ],
+            "evidence_text": "PI 6104",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI6166",
+            "confidence": 0.6442,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.45791,
+              0.18352,
+              0.48149,
+              0.21967
+            ],
+            "evidence_text": "PI 6166",
+            "reasons": [
+              "confidence_below_0.78",
+              "preprocessing_variants_disagree"
+            ],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 0.3333,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI8283",
+            "confidence": 0.7594,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.39125,
+              0.19894,
+              0.41533,
+              0.2361
+            ],
+            "evidence_text": "PI 8283",
+            "reasons": [
+              "confidence_below_0.78"
+            ],
+            "signals": {
+              "geometry_score": 0.7812,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI8284",
+            "confidence": 0.925,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.35883,
+              0.2002,
+              0.38176,
+              0.23534
+            ],
+            "evidence_text": "PI 8284",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 0.75,
+              "vote_agreement": 1.0,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2312",
+            "confidence": 0.6713,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.14854,
+              0.22472,
+              0.18097,
+              0.27452
+            ],
+            "evidence_text": "PI 2312",
+            "reasons": [
+              "confidence_below_0.78"
+            ],
+            "signals": {
+              "geometry_score": 0.6875,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI6107",
+            "confidence": 0.7667,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.45791,
+              0.24317,
+              0.48149,
+              0.27932
+            ],
+            "evidence_text": "PI 6107",
+            "reasons": [
+              "confidence_below_0.78",
+              "preprocessing_variants_disagree"
+            ],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 0.3333,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI8282",
+            "confidence": 0.7062,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.37488,
+              0.32053,
+              0.39846,
+              0.35667
+            ],
+            "evidence_text": "PI 8282",
+            "reasons": [
+              "confidence_below_0.78",
+              "preprocessing_variants_disagree"
+            ],
+            "signals": {
+              "geometry_score": 0.75,
+              "vote_agreement": 0.375,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI8286",
+            "confidence": 0.825,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.27514,
+              0.45804,
+              0.30036,
+              0.49697
+            ],
+            "evidence_text": "PI 8286",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI8288",
+            "confidence": 0.7812,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.17344,
+              0.46259,
+              0.19866,
+              0.50152
+            ],
+            "evidence_text": "PI 8288",
+            "reasons": [
+              "preprocessing_variants_disagree"
+            ],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 0.375,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI8287",
+            "confidence": 0.8062,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.28922,
+              0.47068,
+              0.3151,
+              0.51036
+            ],
+            "evidence_text": "PI 8287",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 0.9375,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI6129",
+            "confidence": 0.8153,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.31952,
+              0.47194,
+              0.34409,
+              0.51011
+            ],
+            "evidence_text": "PI 6129",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI6163",
+            "confidence": 0.825,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.37914,
+              0.52755,
+              0.40321,
+              0.56471
+            ],
+            "evidence_text": "PI 6163",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI6173",
+            "confidence": 0.825,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.4209,
+              0.53008,
+              0.44546,
+              0.56825
+            ],
+            "evidence_text": "PI 6173",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2137",
+            "confidence": 0.6558,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.67589,
+              0.53413,
+              0.71209,
+              0.58999
+            ],
+            "evidence_text": "PI 2137",
+            "reasons": [
+              "confidence_below_0.78",
+              "preprocessing_variants_disagree"
+            ],
+            "signals": {
+              "geometry_score": 0.6875,
+              "vote_agreement": 0.3125,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI8294",
+            "confidence": 0.825,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.54749,
+              0.59226,
+              0.57337,
+              0.63195
+            ],
+            "evidence_text": "PI 8294",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI1810",
+            "confidence": 0.6729,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.84867,
+              0.67265,
+              0.87258,
+              0.7093
+            ],
+            "evidence_text": "PI 1810",
+            "reasons": [
+              "confidence_below_0.78",
+              "preprocessing_variants_disagree"
+            ],
+            "signals": {
+              "geometry_score": 0.6875,
+              "vote_agreement": 0.3333,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI6183",
+            "confidence": 0.7594,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.38798,
+              0.68402,
+              0.41091,
+              0.71941
+            ],
+            "evidence_text": "PI 6183",
+            "reasons": [
+              "confidence_below_0.78"
+            ],
+            "signals": {
+              "geometry_score": 0.7812,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI6194",
+            "confidence": 0.7812,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.48673,
+              0.6906,
+              0.51032,
+              0.72674
+            ],
+            "evidence_text": "PI 6194",
+            "reasons": [
+              "preprocessing_variants_disagree"
+            ],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 0.375,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI6152",
+            "confidence": 0.825,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.23321,
+              0.79651,
+              0.25843,
+              0.83544
+            ],
+            "evidence_text": "PI 6152",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI828",
+            "confidence": 0.7594,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.39125,
+              0.19894,
+              0.41533,
+              0.2361
+            ],
+            "evidence_text": "PI 8283",
+            "reasons": [
+              "confidence_below_0.78"
+            ],
+            "signals": {
+              "geometry_score": 0.7812,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          }
+        ],
+        "temperature_indicators": [
+          {
+            "value": "TI8260",
+            "confidence": 0.6823,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.51245,
+              0.05106,
+              0.53538,
+              0.0862
+            ],
+            "evidence_text": "TI 8260",
+            "reasons": [
+              "confidence_below_0.78",
+              "preprocessing_variants_disagree"
+            ],
+            "signals": {
+              "geometry_score": 0.7188,
+              "vote_agreement": 0.3333,
+              "u_bend": false
+            }
+          }
+        ],
+        "vacuum_pumps": [
+          {
+            "value": "P-418",
+            "confidence": 1.0,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.86486,
+              0.04099,
+              0.86757,
+              0.04768
+            ],
+            "evidence_text": "1",
+            "reasons": []
+          },
+          {
+            "value": "P-410",
+            "confidence": 1.0,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.86486,
+              0.04099,
+              0.86757,
+              0.04768
+            ],
+            "evidence_text": "1",
+            "reasons": []
+          }
+        ],
+        "instrument_bubbles": [
+          {
+            "value": "PI",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.36673,
+              0.2083,
+              0.3727,
+              0.21583
+            ],
+            "evidence_text": "PI",
+            "reasons": []
+          },
+          {
+            "value": "TI",
+            "confidence": 0.14,
+            "review_threshold": 0.72,
+            "source": "derived_rule",
+            "bbox": null,
+            "evidence_text": null,
+            "reasons": [
+              "no_direct_spatial_evidence",
+              "confidence_below_0.72"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

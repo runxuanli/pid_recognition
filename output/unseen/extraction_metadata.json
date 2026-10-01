@@ -1,0 +1,339 @@
+{
+  "documents": [
+    {
+      "document_id": 1,
+      "page": 1,
+      "fields": {
+        "valves": [
+          {
+            "value": "V214",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.31556,
+              0.30651,
+              0.32327,
+              0.31844
+            ],
+            "evidence_text": "X V214",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V25",
+            "confidence": 0.2,
+            "review_threshold": 0.78,
+            "source": "derived_rule",
+            "bbox": null,
+            "evidence_text": null,
+            "reasons": [
+              "no_direct_spatial_evidence",
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V184",
+            "confidence": 0.74,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.33044,
+              0.55756,
+              0.33588,
+              0.57017
+            ],
+            "evidence_text": "SI-V184",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V210",
+            "confidence": 0.545,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.6456,
+              0.67085,
+              0.65945,
+              0.70618
+            ],
+            "evidence_text": "3r8 gg V210",
+            "reasons": [
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V69",
+            "confidence": 0.2,
+            "review_threshold": 0.78,
+            "source": "derived_rule",
+            "bbox": null,
+            "evidence_text": null,
+            "reasons": [
+              "no_direct_spatial_evidence",
+              "confidence_below_0.78"
+            ]
+          },
+          {
+            "value": "V73",
+            "confidence": 0.2,
+            "review_threshold": 0.78,
+            "source": "derived_rule",
+            "bbox": null,
+            "evidence_text": null,
+            "reasons": [
+              "no_direct_spatial_evidence",
+              "confidence_below_0.78"
+            ]
+          }
+        ],
+        "pressure_indicators": [
+          {
+            "value": "PI8120",
+            "confidence": 0.7594,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.81961,
+              0.13687,
+              0.84575,
+              0.15732
+            ],
+            "evidence_text": "PI 8120",
+            "reasons": [
+              "confidence_below_0.78"
+            ],
+            "signals": {
+              "geometry_score": 0.7812,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI1420",
+            "confidence": 0.7781,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.52876,
+              0.47702,
+              0.55,
+              0.49343
+            ],
+            "evidence_text": "PI 1420",
+            "reasons": [
+              "confidence_below_0.78"
+            ],
+            "signals": {
+              "geometry_score": 0.8438,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI8345",
+            "confidence": 0.6917,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.63399,
+              0.53232,
+              0.65523,
+              0.54874
+            ],
+            "evidence_text": "PI 8345",
+            "reasons": [
+              "confidence_below_0.78",
+              "preprocessing_variants_disagree"
+            ],
+            "signals": {
+              "geometry_score": 0.75,
+              "vote_agreement": 0.3333,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI1158",
+            "confidence": 0.6531,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.55556,
+              0.53813,
+              0.5781,
+              0.55556
+            ],
+            "evidence_text": "PI 1158",
+            "reasons": [
+              "confidence_below_0.78",
+              "preprocessing_variants_disagree"
+            ],
+            "signals": {
+              "geometry_score": 0.7188,
+              "vote_agreement": 0.25,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI8348",
+            "confidence": 0.6906,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.73529,
+              0.55808,
+              0.75654,
+              0.57449
+            ],
+            "evidence_text": "PI 8348",
+            "reasons": [
+              "confidence_below_0.78",
+              "preprocessing_variants_disagree"
+            ],
+            "signals": {
+              "geometry_score": 0.8438,
+              "vote_agreement": 0.25,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI8343",
+            "confidence": 0.7781,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.35261,
+              0.57475,
+              0.37386,
+              0.59116
+            ],
+            "evidence_text": "PI 8343",
+            "reasons": [
+              "confidence_below_0.78"
+            ],
+            "signals": {
+              "geometry_score": 0.8438,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          },
+          {
+            "value": "PI2045",
+            "confidence": 0.6088,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.29869,
+              0.63106,
+              0.33268,
+              0.65707
+            ],
+            "evidence_text": "PI 2045",
+            "reasons": [
+              "confidence_below_0.78"
+            ],
+            "signals": {
+              "geometry_score": 0.6875,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          }
+        ],
+        "temperature_indicators": [
+          {
+            "value": "TI8841",
+            "confidence": 0.6194,
+            "review_threshold": 0.78,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.4317,
+              0.68207,
+              0.46373,
+              0.70707
+            ],
+            "evidence_text": "TI 8841",
+            "reasons": [
+              "confidence_below_0.78"
+            ],
+            "signals": {
+              "geometry_score": 0.7812,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          }
+        ],
+        "gas_cylinders": [
+          {
+            "value": "NITROGEN",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.6181,
+              0.75463,
+              0.62372,
+              0.81543
+            ],
+            "evidence_text": "NG - NITROGEN GAS SYSTEM",
+            "reasons": []
+          }
+        ],
+        "continuation_connections (hexagon)": [
+          {
+            "value": "4",
+            "confidence": 0.8977,
+            "review_threshold": 0.7,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.80458,
+              0.29141,
+              0.81928,
+              0.30152
+            ],
+            "evidence_text": "4",
+            "reasons": [
+              "template_only_short_code"
+            ],
+            "signals": {
+              "geometry_score": 0.9608,
+              "vote_agreement": 1.0,
+              "template_score": 0.6614,
+              "template_margin": 0.0219,
+              "ocr_vote_count": 0
+            }
+          }
+        ],
+        "instrument_bubbles": [
+          {
+            "value": "PI",
+            "confidence": 0.14,
+            "review_threshold": 0.72,
+            "source": "derived_rule",
+            "bbox": null,
+            "evidence_text": null,
+            "reasons": [
+              "no_direct_spatial_evidence",
+              "confidence_below_0.72"
+            ]
+          },
+          {
+            "value": "TI",
+            "confidence": 0.14,
+            "review_threshold": 0.72,
+            "source": "derived_rule",
+            "bbox": null,
+            "evidence_text": null,
+            "reasons": [
+              "no_direct_spatial_evidence",
+              "confidence_below_0.72"
+            ]
+          }
+        ]
+      },
+      "profile": "legacy_nuclear_pid"
+    }
+  ]
+}

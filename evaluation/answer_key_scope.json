@@ -1,0 +1,28 @@
+{
+  "policy": {
+    "categories_absent_from_key": "out_of_scope",
+    "categories_present_in_key": "strict_reference_set",
+    "metric_interpretation": "Recall is coverage of the supplied reference values. Precision is strict reference precision, not proven real-world precision when the key may be non-exhaustive."
+  },
+  "documents": {
+    "1": {
+      "scope": "All categories explicitly present in answer_key.json are scored; omitted categories are not scored.",
+      "completeness": "uncertain",
+      "notes": [
+        "Visual audit suggests some valid-looking values, including PI2889, are not listed. Treat apparent false positives as review candidates, not automatically as extraction errors."
+      ]
+    },
+    "2": {
+      "scope": "Only pid, pressure_control_valves (U-bend_pipe), and demineralized_water are in evaluation scope.",
+      "completeness": "likely_non_exhaustive",
+      "notes": [
+        "The drawing visually shows PCV2826-PCV2829 with the same symbol treatment, while the supplied key lists PCV2828-PCV2829."
+      ]
+    },
+    "3": {
+      "scope": "No P&ID answer key. Evaluation is table-only and uses evaluation/table3_expected.json.",
+      "completeness": "not_applicable",
+      "notes": []
+    }
+  }
+}

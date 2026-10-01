@@ -1,0 +1,39 @@
+{
+  "documents": [
+    {
+      "document_id": 1,
+      "answers": {
+        "valves": [
+          "V214",
+          "V25",
+          "V184",
+          "V210",
+          "V69",
+          "V73"
+        ],
+        "pressure_indicators": [
+          "PI8120",
+          "PI1420",
+          "PI8345",
+          "PI1158",
+          "PI8348",
+          "PI8343",
+          "PI2045"
+        ],
+        "temperature_indicators": [
+          "TI8841"
+        ],
+        "gas_cylinders": [
+          "NITROGEN"
+        ],
+        "continuation_connections (hexagon)": [
+          "4"
+        ],
+        "instrument_bubbles": [
+          "PI",
+          "TI"
+        ]
+      }
+    }
+  ]
+}

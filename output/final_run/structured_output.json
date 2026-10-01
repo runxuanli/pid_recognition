@@ -1,0 +1,220 @@
+{
+  "documents": [
+    {
+      "document_id": 1,
+      "answers": {
+        "pid": "PID-1-SS_LR20519",
+        "valves": [
+          "V827",
+          "V760",
+          "V832",
+          "V83",
+          "V834",
+          "V995",
+          "V956",
+          "V57",
+          "V53",
+          "V113",
+          "V0159",
+          "V1181",
+          "V835",
+          "V757",
+          "V825",
+          "V841",
+          "V755",
+          "V72",
+          "V123",
+          "V1258",
+          "V1182",
+          "V842",
+          "V790",
+          "V399",
+          "V49",
+          "V435"
+        ],
+        "pressure_control_valves (U-bend_pipe)": [
+          "PCV285",
+          "PCV2854"
+        ],
+        "compound_gauge": [
+          "PI2888"
+        ],
+        "pressure_indicators": [
+          "PI280",
+          "PI2888",
+          "PI288",
+          "PI2889",
+          "PI833",
+          "PI192",
+          "PI174"
+        ],
+        "temperature_indicators": [
+          "TI166"
+        ],
+        "vacuum_pumps": [
+          "P-392"
+        ],
+        "filters": [
+          "F-193",
+          "F-192"
+        ],
+        "flexible_hoses": [
+          "1-SS-FLEX HOSE NO. 4",
+          "1-SS-FLEX HOSE NO. 3"
+        ],
+        "tubing_sizes": [
+          "3/8-T"
+        ],
+        "gas_cylinders": [
+          "NITROGEN"
+        ],
+        "sample_panels": [
+          "PRIMARY SAMPLE PANEL CP-166A"
+        ],
+        "sample_sinks": [
+          "PRIMARY SAMPLE SINK MM-13B"
+        ],
+        "continuation_connections (hexagon)": [
+          "6"
+        ],
+        "system_boundary_interfaces": [
+          "SS",
+          "DM",
+          "CS"
+        ],
+        "instrument_bubbles": [
+          "PI",
+          "TI",
+          "PCV"
+        ]
+      }
+    },
+    {
+      "document_id": 2,
+      "answers": {
+        "pid": "PID-1-SS_LR20521",
+        "valves": [
+          "V8070",
+          "V8071",
+          "V8077",
+          "V956",
+          "V8076",
+          "V8078",
+          "V145",
+          "V8079",
+          "V8879",
+          "V83",
+          "V803",
+          "V8082",
+          "V8081",
+          "V8083",
+          "V8884",
+          "V8084",
+          "V842",
+          "V8886",
+          "V133",
+          "V16",
+          "V142",
+          "V8088",
+          "V79",
+          "V84",
+          "V768",
+          "V808",
+          "V818",
+          "V1883",
+          "V811",
+          "V90",
+          "V132",
+          "V139",
+          "V98",
+          "V805",
+          "V26",
+          "V853"
+        ],
+        "pressure_control_valves (U-bend_pipe)": [
+          "PCV2816",
+          "PCV2817",
+          "PCV2818",
+          "PCV2819",
+          "PCV2815",
+          "PCV2776",
+          "PCV276",
+          "PCV135",
+          "PCV282"
+        ],
+        "pressure_indicators": [
+          "PI2816",
+          "PI2819",
+          "PI2800"
+        ],
+        "vacuum_pumps": [
+          "P-375"
+        ],
+        "filters": [
+          "F-12",
+          "F-178",
+          "F-6513",
+          "F-9636",
+          "F-177",
+          "F-31",
+          "F-11"
+        ],
+        "tubing_sizes": [
+          "3/8-T",
+          "1/2-T"
+        ],
+        "sample_sinks": [
+          "PRIMARY SAMPLE SINK MM-741"
+        ],
+        "continuation_connections (hexagon)": [
+          "8",
+          "5X"
+        ],
+        "system_boundary_interfaces": [
+          "SS",
+          "DM"
+        ],
+        "instrument_bubbles": [
+          "PI",
+          "PCV"
+        ]
+      }
+    },
+    {
+      "document_id": 3,
+      "answers": {
+        "pid": "PID-1-SW_LR20794",
+        "valves": [
+          "V64",
+          "V231",
+          "V232",
+          "V230",
+          "V243",
+          "V24",
+          "V524",
+          "V527",
+          "V528",
+          "V520",
+          "V542",
+          "V522",
+          "V180",
+          "V139"
+        ],
+        "pressure_indicators": [
+          "PI8284",
+          "PI828"
+        ],
+        "vacuum_pumps": [
+          "P-418",
+          "P-410"
+        ],
+        "continuation_connections (hexagon)": [
+          "12"
+        ],
+        "instrument_bubbles": [
+          "PI"
+        ]
+      }
+    }
+  ]
+}

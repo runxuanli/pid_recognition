@@ -1,0 +1,143 @@
+{
+  "render": {
+    "dpi": 360
+  },
+  "document_profiles": {
+    "default": "legacy_nuclear_pid",
+    "auto": {
+      "generic_min_unique_signals": 3,
+      "generic_signal_patterns": [
+        "\\b(?:BV|DV|CHV|PRV|SV|BNV|FE|FI|FIT|FS|P)[- ]?\\d{5,6}[A-Z]?\\b",
+        "\\b[A-Z]{2}\\d{3,6}-P-\\d{4,6}\\b"
+      ],
+      "legacy_min_unique_signals": 1,
+      "legacy_signal_patterns": [
+        "\\bPID[- ]*1[- ]*(?:SS|SW)[-_ ]*LR\\s*\\d{4,6}\\b",
+        "\\bSEABROOK(?: STATION)?\\b"
+      ],
+      "unknown_profile": "unknown_pid"
+    },
+    "profiles": {
+      "unknown_pid": {
+        "instrument_bubbles": false,
+        "continuation_hexagons": false,
+        "drawing_number_patterns": [
+          "\\b[A-Z]{1,3}-\\d{4,6}\\b",
+          "\\b[A-Z]{2}\\d{3,6}-P-\\d{4,6}\\b"
+        ]
+      },
+      "legacy_nuclear_pid": {
+        "instrument_bubbles": true,
+        "instrument_digits": [3, 4],
+        "bubble_number_digits": [4, 4],
+        "bubble_region": [0.0, 0.0, 1.0, 1.0],
+        "instrument_tags_require_bubble": false,
+        "continuation_hexagons": true
+      },
+      "generic_isa_pid": {
+        "instrument_digits": [5, 6],
+        "bubble_number_digits": [5, 6],
+        "bubble_region": [0.04, 0.2, 0.97, 0.78],
+        "instrument_tags_require_bubble": true,
+        "pressure_indicator_context_prefixes": ["ME"],
+        "pressure_indicator_context_radius": 0.04,
+        "continuation_hexagons": false,
+        "valve_prefixes": ["BV", "DV", "CHV", "PRV", "SV", "BNV"],
+        "pump_pattern": "P\\d{5,6}[A-Z]?",
+        "pump_context_pattern": "\\b(?:METERING|DOSING)\\s+PUMP\\b",
+        "pump_context_radius": 0.09,
+        "drawing_left_pattern": "[A-Z]{2}\\d{3,6}-?",
+        "drawing_right_pattern": "P-\\d{4,6}"
+      }
+    }
+  },
+  "ocr": {
+    "tile_columns": 3,
+    "tile_rows": 3,
+    "tile_overlap": 0.04,
+    "dedup_distance": 0.018,
+    "dark_threshold": 150
+  },
+  "instrument_bubbles": {
+    "divider_min_px_at_360dpi": 28,
+    "divider_max_px_at_360dpi": 105,
+    "circle_score_min": 0.68,
+    "density_min": 0.025,
+    "density_max": 0.28,
+    "crop_padding_radius": 2.0,
+    "batch_size": 40,
+    "preprocess_variants": [
+      "original",
+      "autocontrast",
+      "threshold"
+    ],
+    "threshold_level": 185,
+    "minimum_vote_agreement": 0.34
+  },
+  "continuation_hexagons": {
+    "search_region": [0.08, 0.07, 0.82, 0.96],
+    "top_edge_min_px_at_360dpi": 16,
+    "top_edge_max_px_at_360dpi": 38,
+    "height_min_px_at_360dpi": 28,
+    "height_max_px_at_360dpi": 55,
+    "center_tolerance_px_at_360dpi": 6,
+    "edge_length_ratio": [0.72, 1.38],
+    "height_to_edge_ratio": [1.05, 1.85],
+    "diagonal_extension_height_ratio": 0.3,
+    "geometry_score_min": 0.9,
+    "nms_distance_px_at_360dpi": 30,
+    "preprocess_variants": [
+      "original",
+      "autocontrast",
+      "threshold"
+    ],
+    "inner_crop": [0.28, 0.18, 0.72, 0.82],
+    "template_inner_crop": [0.18, 0.1, 0.82, 0.9],
+    "template_label_range": [2, 19],
+    "template_suffixes": ["", "A"],
+    "template_score_min": 0.66,
+    "template_margin_min": 0.008,
+    "threshold_level": 190,
+    "valid_label_regex": "(?:[2-9]|1[0-9])[A-Z]?",
+    "exclude_border_margin": 0.035
+  },
+  "pid_rules": {
+    "nearby_radius": 0.09,
+    "split_tag_radius": 0.025,
+    "equipment_radius": 0.08,
+    "continuation_fallback_region": [0.42, 0.35, 0.76, 0.92]
+  },
+  "confidence": {
+    "default_review_threshold": 0.72,
+    "category_review_thresholds": {
+      "pid": 0.8,
+      "valves": 0.78,
+      "pressure_control_valves (U-bend_pipe)": 0.72,
+      "pressure_indicators": 0.78,
+      "temperature_indicators": 0.78,
+      "continuation_connections (hexagon)": 0.7,
+      "system_boundary_interfaces": 0.8
+    },
+    "weights": {
+      "generic_ocr": 0.65,
+      "format_match": 0.2,
+      "context": 0.15,
+      "bubble_ocr": 0.35,
+      "bubble_vote": 0.35,
+      "bubble_geometry": 0.3,
+      "hexagon_ocr": 0.25,
+      "hexagon_vote": 0.3,
+      "hexagon_geometry": 0.45
+    },
+    "source_caps": {
+      "page_ocr": {
+        "valves": 0.74,
+        "pressure_indicators": 0.76,
+        "temperature_indicators": 0.76
+      },
+      "derived_rule": {
+        "default": 0.65
+      }
+    }
+  }
+}

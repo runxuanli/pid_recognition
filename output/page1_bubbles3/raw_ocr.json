@@ -1,0 +1,5605 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "items": [
+        {
+          "text": "3",
+          "confidence": 1.0,
+          "left": 0.7346014976048484,
+          "top": 0.04266437538879244,
+          "right": 0.7389433952788191,
+          "bottom": 0.05102993899260926,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "3"
+            }
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 1.0,
+          "left": 0.8008154389054372,
+          "top": 0.04266437538879244,
+          "right": 0.8051573365794079,
+          "bottom": 0.05102993899260926,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "2"
+            }
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 1.0,
+          "left": 0.8675721174062268,
+          "top": 0.04266437545436117,
+          "right": 0.8708285406617049,
+          "bottom": 0.05019338250494,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "1"
+            }
+          ]
+        },
+        {
+          "text": "5",
+          "confidence": 1.0,
+          "left": 0.6014164013058375,
+          "top": 0.043513386647694115,
+          "right": 0.6062210539412698,
+          "bottom": 0.05184573750683953,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "5"
+            }
+          ]
+        },
+        {
+          "text": "6",
+          "confidence": 1.0,
+          "left": 0.5353524268877302,
+          "top": 0.04351338674170127,
+          "right": 0.5401570795231626,
+          "bottom": 0.05277155382726206,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "6"
+            }
+          ]
+        },
+        {
+          "text": "4",
+          "confidence": 1.0,
+          "left": 0.6674803757599795,
+          "top": 0.043513386765797746,
+          "right": 0.6722850283954119,
+          "bottom": 0.0509199204342464,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "4"
+            }
+          ]
+        },
+        {
+          "text": "9",
+          "confidence": 1.0,
+          "left": 0.33689199151475185,
+          "top": 0.044337488149337814,
+          "right": 0.34123198484763756,
+          "bottom": 0.05270305175315463,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "9"
+            }
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 1.0,
+          "left": 0.4032244781055684,
+          "top": 0.044439203305150686,
+          "right": 0.4080291307410007,
+          "bottom": 0.0527715541642961,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "8"
+            }
+          ]
+        },
+        {
+          "text": "7",
+          "confidence": 1.0,
+          "left": 0.4704896156618547,
+          "top": 0.04443920349191908,
+          "right": 0.4740931050603667,
+          "bottom": 0.05184573716036774,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "7"
+            }
+          ]
+        },
+        {
+          "text": "BREVIATIO ) - LRLEG",
+          "confidence": 1.0,
+          "left": 0.8811005568293482,
+          "top": 0.04474216380182002,
+          "right": 0.9028824107435309,
+          "bottom": 0.07836198179979778,
+          "alternatives": []
+        },
+        {
+          "text": "12",
+          "confidence": 1.0,
+          "left": 0.13562479543745562,
+          "top": 0.0451740445058696,
+          "right": 0.14376228293661636,
+          "bottom": 0.05437616466292436,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "12"
+            }
+          ]
+        },
+        {
+          "text": "10",
+          "confidence": 1.0,
+          "left": 0.267994595581514,
+          "top": 0.04517404456446703,
+          "right": 0.275589583914064,
+          "bottom": 0.053539608168283806,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "10"
+            }
+          ]
+        },
+        {
+          "text": "11",
+          "confidence": 1.0,
+          "left": 0.20235219459658824,
+          "top": 0.046847157362472774,
+          "right": 0.2077771862626954,
+          "bottom": 0.05353960834195433,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "11"
+            }
+          ]
+        },
+        {
+          "text": "| REFE 3 DRA",
+          "confidence": 1.0,
+          "left": 0.7877497543399935,
+          "top": 0.054600606673407485,
+          "right": 0.8006878480183426,
+          "bottom": 0.07457027300303337,
+          "alternatives": []
+        },
+        {
+          "text": "LR NOTE 3",
+          "confidence": 1.0,
+          "left": 0.4212419258087915,
+          "top": 0.05832645459667688,
+          "right": 0.4470669339974584,
+          "bottom": 0.06573298826512554,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "LR NOTE 3"
+            }
+          ]
+        },
+        {
+          "text": "FOR P&ID REFERENCE DRAWINGS, SYMBOLS AND ABBREVIATIONS",
+          "confidence": 1.0,
+          "left": 0.7666229945684725,
+          "top": 0.05939550322712618,
+          "right": 0.9082774055570237,
+          "bottom": 0.06698685541025312,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "FOR P&ID REFERENCE DRAWINGS, SYMBOLS AND ABBREVIATIONS"
+            }
+          ]
+        },
+        {
+          "text": "SETO PERS:",
+          "confidence": 0.30000001192092896,
+          "left": 0.43314932110994503,
+          "top": 0.06252176578361453,
+          "right": 0.4537775676817647,
+          "bottom": 0.07542492817767624,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "SETO PERS:"
+            }
+          ]
+        },
+        {
+          "text": "SEIPPEIS:",
+          "confidence": 1.0,
+          "left": 0.4740931052054889,
+          "top": 0.06388135522616165,
+          "right": 0.4945128792963878,
+          "bottom": 0.07499115572883461,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "SEIPPEIS:"
+            }
+          ]
+        },
+        {
+          "text": "REFER TO DRAWINGS P&ID - LRLEGEND 1 AND P&IO - LRLEGEND 2",
+          "confidence": 1.0,
+          "left": 0.7666229984286507,
+          "top": 0.06774519713563608,
+          "right": 0.9164184656816601,
+          "bottom": 0.07612663040078983,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "REFER TO DRAWINGS P&ID - LRLEGEND 1 AND P&IO - LRLEGEND 2"
+            }
+          ]
+        },
+        {
+          "text": "V827",
+          "confidence": 1.0,
+          "left": 0.3930145910568712,
+          "top": 0.07499115593677429,
+          "right": 0.40202331455315116,
+          "bottom": 0.07962023947955468,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "V827"
+            }
+          ]
+        },
+        {
+          "text": "+ V75l",
+          "confidence": 0.30000001192092896,
+          "left": 0.47229136053779097,
+          "top": 0.07684278913274913,
+          "right": 0.48610473698175244,
+          "bottom": 0.08702677340900672,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "+ V75l"
+            }
+          ]
+        },
+        {
+          "text": "\u2192 V760",
+          "confidence": 1.0,
+          "left": 0.43085123112340906,
+          "top": 0.07684278934337241,
+          "right": 0.445265188717457,
+          "bottom": 0.08702677361963002,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "\u2192 V760"
+            }
+          ]
+        },
+        {
+          "text": "1/4*-",
+          "confidence": 1.0,
+          "left": 0.30478218146085817,
+          "top": 0.09302325581395349,
+          "right": 0.3183753684900098,
+          "bottom": 0.11400404448938321,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "1/4*-"
+            }
+          ]
+        },
+        {
+          "text": "PCV 2889",
+          "confidence": 1.0,
+          "left": 0.3771699967245332,
+          "top": 0.10237613751263903,
+          "right": 0.40058958401572226,
+          "bottom": 0.1385237613751264,
+          "alternatives": []
+        },
+        {
+          "text": "PCV 2888",
+          "confidence": 1.0,
+          "left": 0.3679986898132984,
+          "top": 0.10667340748230536,
+          "right": 0.38093678349164756,
+          "bottom": 0.12664307381193124,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "2888"
+            }
+          ]
+        },
+        {
+          "text": "288",
+          "confidence": 1.0,
+          "left": 0.3616115296429741,
+          "top": 0.10869565217391304,
+          "right": 0.37291188994431707,
+          "bottom": 0.1261375126390293,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "288"
+            }
+          ]
+        },
+        {
+          "text": "PL",
+          "confidence": 1.0,
+          "left": 0.36839074606425737,
+          "top": 0.111098008778413,
+          "right": 0.3737959801620253,
+          "bottom": 0.11757872573830558,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "PL"
+            }
+          ]
+        },
+        {
+          "text": "PI",
+          "confidence": 1.0,
+          "left": 0.3683569440114423,
+          "top": 0.11126199864944497,
+          "right": 0.372696937344328,
+          "bottom": 0.11795444962892657,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "PI"
+            }
+          ]
+        },
+        {
+          "text": "V832",
+          "confidence": 1.0,
+          "left": 0.3092245332772048,
+          "top": 0.11293511149647299,
+          "right": 0.31844701910958695,
+          "bottom": 0.1187910059227166,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "V832"
+            }
+          ]
+        },
+        {
+          "text": "COMPOUND",
+          "confidence": 1.0,
+          "left": 0.34016341129521976,
+          "top": 0.11387545898223701,
+          "right": 0.35758027713769325,
+          "bottom": 0.12035617594212958,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "COMPOUND"
+            }
+          ]
+        },
+        {
+          "text": "COMPOUNG",
+          "confidence": 1.0,
+          "left": 0.3406894861729958,
+          "top": 0.11460822408688005,
+          "right": 0.3569644611713172,
+          "bottom": 0.12130067506636164,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "COMPOUNG"
+            }
+          ]
+        },
+        {
+          "text": "280",
+          "confidence": 1.0,
+          "left": 0.3661869474063708,
+          "top": 0.1179544494780524,
+          "right": 0.37269693740569937,
+          "bottom": 0.12715656963510713,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "280"
+            }
+          ]
+        },
+        {
+          "text": "GAUCE",
+          "confidence": 1.0,
+          "left": 0.3443674826718946,
+          "top": 0.11943035931475207,
+          "right": 0.3545773697173441,
+          "bottom": 0.12498525956608855,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "GAUCE"
+            }
+          ]
+        },
+        {
+          "text": "2888",
+          "confidence": 1.0,
+          "left": 0.36658900150763946,
+          "top": 0.11943035932816377,
+          "right": 0.3755977250039194,
+          "bottom": 0.12591107628805634,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "2888"
+            }
+          ]
+        },
+        {
+          "text": "2889",
+          "confidence": 1.0,
+          "left": 0.38460644897602614,
+          "top": 0.11943035934513707,
+          "right": 0.3936151724723061,
+          "bottom": 0.12591107630502965,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "2889"
+            }
+          ]
+        },
+        {
+          "text": "CAUGI",
+          "confidence": 1.0,
+          "left": 0.34448698004903366,
+          "top": 0.11962756253865446,
+          "right": 0.3531669667148051,
+          "bottom": 0.12548345696489807,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CAUGI"
+            }
+          ]
+        },
+        {
+          "text": "LR NOTES:",
+          "confidence": 1.0,
+          "left": 0.7584819363645477,
+          "top": 0.12046411886664239,
+          "right": 0.7829051101558877,
+          "bottom": 0.1263902932561026,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "LR NOTES:"
+            }
+          ]
+        },
+        {
+          "text": "PCV 2793",
+          "confidence": 1.0,
+          "left": 0.3406485424172945,
+          "top": 0.12487360970677452,
+          "right": 0.3591549295774648,
+          "bottom": 0.15343781597573306,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "2793"
+            }
+          ]
+        },
+        {
+          "text": "MPLE SYSTEI ENVIRONMENT CRITERION I VIRONMENT 0 CENSE RENEI",
+          "confidence": 1.0,
+          "left": 0.8249263019980347,
+          "top": 0.12664307381193124,
+          "right": 0.8537504094333442,
+          "bottom": 0.17138523761375127,
+          "alternatives": []
+        },
+        {
+          "text": "1. THIS PORTION OF THE SAMPLE SYSTEM IS NOT IN SCOPE",
+          "confidence": 1.0,
+          "left": 0.7584819341517518,
+          "top": 0.12882968287341473,
+          "right": 0.8979653988023004,
+          "bottom": 0.13635868992399355,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "1. THIS PORTION OF THE SAMPLE SYSTEM IS NOT IN SCOPE"
+            }
+          ]
+        },
+        {
+          "text": "1/4\u00b0-T",
+          "confidence": 1.0,
+          "left": 0.32929700302485365,
+          "top": 0.12966623896825288,
+          "right": 0.33960448719045716,
+          "bottom": 0.13468557732339925,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "1/4\u00b0-T"
+            }
+          ]
+        },
+        {
+          "text": "PI",
+          "confidence": 1.0,
+          "left": 0.34774197518779304,
+          "top": 0.12966623902187083,
+          "right": 0.3520819685206787,
+          "bottom": 0.1338490208237792,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "PI"
+            }
+          ]
+        },
+        {
+          "text": "VAC PUMP",
+          "confidence": 1.0,
+          "left": 0.3713936544892806,
+          "top": 0.1332153691007011,
+          "right": 0.3894111014818405,
+          "bottom": 0.14079878669422993,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "VAC PUMP"
+            }
+          ]
+        },
+        {
+          "text": "F-193",
+          "confidence": 1.0,
+          "left": 0.3888105200004515,
+          "top": 0.13609506066731009,
+          "right": 0.3996209881959875,
+          "bottom": 0.14164996091864657,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "F-193"
+            }
+          ]
+        },
+        {
+          "text": "H",
+          "confidence": 1.0,
+          "left": 0.9267304748267384,
+          "top": 0.13635869009509535,
+          "right": 0.9310723725007093,
+          "bottom": 0.14388769714567418,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "H"
+            }
+          ]
+        },
+        {
+          "text": "BECAUSE THE INTERNAL ENVIRONMENT IS AIR/GAS.",
+          "confidence": 1.0,
+          "left": 0.7671657324589947,
+          "top": 0.13719524639607036,
+          "right": 0.8838542355706881,
+          "bottom": 0.14388769737555193,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "BECAUSE THE INTERNAL ENVIRONMENT IS AIR/GAS."
+            }
+          ]
+        },
+        {
+          "text": "P-392",
+          "confidence": 1.0,
+          "left": 0.37439656243727787,
+          "top": 0.1388725108132705,
+          "right": 0.3858076117829004,
+          "bottom": 0.14442741106460696,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "P-392"
+            }
+          ]
+        },
+        {
+          "text": "\u00b7833",
+          "confidence": 1.0,
+          "left": 0.33038200145397245,
+          "top": 0.14054147183350552,
+          "right": 0.3396044872863546,
+          "bottom": 0.1472339228129871,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "\u00b7833"
+            }
+          ]
+        },
+        {
+          "text": "H",
+          "confidence": 1.0,
+          "left": 0.07703488375732065,
+          "top": 0.14054147190161062,
+          "right": 0.08137487709020637,
+          "bottom": 0.1489070355054274,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "H"
+            }
+          ]
+        },
+        {
+          "text": "\u00b7B33",
+          "confidence": 1.0,
+          "left": 0.33115468802151804,
+          "top": 0.14072414427477137,
+          "right": 0.34016341151779805,
+          "bottom": 0.14627904452610782,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "\u00b7B33"
+            }
+          ]
+        },
+        {
+          "text": "(PING PING /",
+          "confidence": 1.0,
+          "left": 0.7707173272191288,
+          "top": 0.14079878665318504,
+          "right": 0.7843105142482804,
+          "bottom": 0.16177957532861476,
+          "alternatives": []
+        },
+        {
+          "text": "F-192",
+          "confidence": 1.0,
+          "left": 0.3591344580626556,
+          "top": 0.14305114099105468,
+          "right": 0.36889944306164846,
+          "bottom": 0.14974359197053622,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "F-192"
+            }
+          ]
+        },
+        {
+          "text": "2. PIPING IS IN SCOPE FOR CRITERION (oX3) FIRE PROTECTION.",
+          "confidence": 1.0,
+          "left": 0.7584671698814034,
+          "top": 0.1454454620375645,
+          "right": 0.9050313823843462,
+          "bottom": 0.1531186518198412,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "2. PIPING IS IN SCOPE FOR CRITERION (oX3) FIRE PROTECTION."
+            }
+          ]
+        },
+        {
+          "text": "174*-T",
+          "confidence": 1.0,
+          "left": 0.327669505658246,
+          "top": 0.14639736662372477,
+          "right": 0.33851948899046025,
+          "bottom": 0.1522532610499684,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "174*-T"
+            }
+          ]
+        },
+        {
+          "text": "3. PIPING HAS INTERNAL ENVIRONMENT OF AIR/GAS THEREFORE",
+          "confidence": 1.0,
+          "left": 0.7590246711946592,
+          "top": 0.15470171880387623,
+          "right": 0.9050209848551468,
+          "bottom": 0.16152679463805217,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "3. PIPING HAS INTERNAL ENVIRONMENT OF AIR/GAS THEREFORE"
+            }
+          ]
+        },
+        {
+          "text": "V83-",
+          "confidence": 1.0,
+          "left": 0.3293529432925061,
+          "top": 0.1555372121448181,
+          "right": 0.3377610850142013,
+          "bottom": 0.1629437458132667,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "V83-"
+            }
+          ]
+        },
+        {
+          "text": "V834",
+          "confidence": 1.0,
+          "left": 0.3287545039824537,
+          "top": 0.15643604318699697,
+          "right": 0.3379769898148359,
+          "bottom": 0.1622919376132406,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "V834"
+            }
+          ]
+        },
+        {
+          "text": "PA",
+          "confidence": 1.0,
+          "left": 0.5096626269243367,
+          "top": 0.15748230535894844,
+          "right": 0.5203078938748772,
+          "bottom": 0.17391304347826086,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "PA"
+            }
+          ]
+        },
+        {
+          "text": "INEWA",
+          "confidence": 1.0,
+          "left": 0.8458892892237144,
+          "top": 0.1595045500505561,
+          "right": 0.8576809695381592,
+          "bottom": 0.17745197168857432,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "INEWA"
+            }
+          ]
+        },
+        {
+          "text": "PRIMARY SAMPLE PANEL",
+          "confidence": 1.0,
+          "left": 0.45187158648615683,
+          "top": 0.1610212334293982,
+          "right": 0.5323495180515866,
+          "bottom": 0.17138523747388754,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "PRIMARY SAMPLE PANEL"
+            }
+          ]
+        },
+        {
+          "text": "v995",
+          "confidence": 0.30000001192092896,
+          "left": 0.35758027722925434,
+          "top": 0.16109211257560263,
+          "right": 0.37619830662089726,
+          "bottom": 0.1768309971031967,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "v995"
+            }
+          ]
+        },
+        {
+          "text": "IS NOT IN SCOPE FOR LICENSE RENEWAL.",
+          "confidence": 1.0,
+          "left": 0.766622993014542,
+          "top": 0.16304347820229934,
+          "right": 0.8632302200088662,
+          "bottom": 0.16986855403647527,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "IS NOT IN SCOPE FOR LICENSE RENEWAL."
+            }
+          ]
+        },
+        {
+          "text": "v956",
+          "confidence": 0.5,
+          "left": 0.37619830661472664,
+          "top": 0.16386956298044134,
+          "right": 0.3930145913071135,
+          "bottom": 0.1749793634831143,
+          "alternatives": [
+            {
+              "confidence": 0.5,
+              "text": "v956"
+            }
+          ]
+        },
+        {
+          "text": "v9ss",
+          "confidence": 1.0,
+          "left": 0.3613044552351334,
+          "top": 0.16396505057391506,
+          "right": 0.37269693710948665,
+          "bottom": 0.17567683942640233,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "v9ss"
+            }
+          ]
+        },
+        {
+          "text": "CP-166A",
+          "confidence": 1.0,
+          "left": 0.4770960125526573,
+          "top": 0.17127609687178444,
+          "right": 0.5053233478396632,
+          "bottom": 0.18423753079156954,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CP-166A"
+            }
+          ]
+        },
+        {
+          "text": "4, THE TRANSITION TO TUBING DOES NOT NEED AN EOUIVALENT",
+          "confidence": 1.0,
+          "left": 0.7579245508433565,
+          "top": 0.1713094328540409,
+          "right": 0.9061255870935613,
+          "bottom": 0.17990478953972952,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "4, THE TRANSITION TO TUBING DOES NOT NEED AN EOUIVALENT"
+            }
+          ]
+        },
+        {
+          "text": "LLR NOT",
+          "confidence": 1.0,
+          "left": 0.3504544717456376,
+          "top": 0.17233061446254327,
+          "right": 0.3726969369522051,
+          "bottom": 0.1898982982234148,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "LLR NOT"
+            }
+          ]
+        },
+        {
+          "text": "ILENI -57",
+          "confidence": 1.0,
+          "left": 0.8943661971830986,
+          "top": 0.17340748230535896,
+          "right": 0.9050114641336391,
+          "bottom": 0.18983822042467138,
+          "alternatives": []
+        },
+        {
+          "text": "LLR NOTE 1 \u2014",
+          "confidence": 1.0,
+          "left": 0.35140451344247975,
+          "top": 0.17606185968227142,
+          "right": 0.3943532367862852,
+          "bottom": 0.19178765023257277,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "LLR NOTE 1 \u2014"
+            }
+          ]
+        },
+        {
+          "text": "ANCHOR TO ISOLATE THE CLASS BREAK AT VALVE SS-V-57",
+          "confidence": 1.0,
+          "left": 0.7666229962606763,
+          "top": 0.17985962181027923,
+          "right": 0.9028500364062555,
+          "bottom": 0.18832153689491754,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "ANCHOR TO ISOLATE THE CLASS BREAK AT VALVE SS-V-57"
+            }
+          ]
+        },
+        {
+          "text": "5 BREI MCD",
+          "confidence": 1.0,
+          "left": 0.8391745823779888,
+          "top": 0.17997977755308392,
+          "right": 0.8522764493940387,
+          "bottom": 0.20045500505561173,
+          "alternatives": []
+        },
+        {
+          "text": "SS-V MCO",
+          "confidence": 1.0,
+          "left": 0.88159187684245,
+          "top": 0.17997977755308392,
+          "right": 0.8945299705207992,
+          "bottom": 0.1999494438827098,
+          "alternatives": []
+        },
+        {
+          "text": "HOR ERENI",
+          "confidence": 1.0,
+          "left": 0.7751392073370456,
+          "top": 0.1807381193124368,
+          "right": 0.7875859810022928,
+          "bottom": 0.19969666329625885,
+          "alternatives": []
+        },
+        {
+          "text": "REFERENCE CALCULATIONS ARE MCD 565.80-CALC, MCD 10248-CALC",
+          "confidence": 1.0,
+          "left": 0.7666229952071825,
+          "top": 0.18906174208573678,
+          "right": 0.9213031042156117,
+          "bottom": 0.196663296366202,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "REFERENCE CALCULATIONS ARE MCD 565.80-CALC, MCD 10248-CALC"
+            }
+          ]
+        },
+        {
+          "text": "-1-SS-",
+          "confidence": 1.0,
+          "left": 0.34285948248873444,
+          "top": 0.1974273058175316,
+          "right": 0.356964460820613,
+          "bottom": 0.2041197567970132,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "-1-SS-"
+            }
+          ]
+        },
+        {
+          "text": "AND MCD 503.20-CALC.",
+          "confidence": 1.0,
+          "left": 0.7666229956451609,
+          "top": 0.19817997970324447,
+          "right": 0.8198112409018117,
+          "bottom": 0.2057928693527774,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "AND MCD 503.20-CALC."
+            }
+          ]
+        },
+        {
+          "text": "TO ATMOS.",
+          "confidence": 1.0,
+          "left": 0.38636748035357266,
+          "top": 0.19966699124716966,
+          "right": 0.40326519086584467,
+          "bottom": 0.20584074030880814,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "TO ATMOS."
+            }
+          ]
+        },
+        {
+          "text": "INSINK",
+          "confidence": 1.0,
+          "left": 0.38820993846473534,
+          "top": 0.2046054992407632,
+          "right": 0.4008221513595273,
+          "bottom": 0.21108621620065574,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "INSINK"
+            }
+          ]
+        },
+        {
+          "text": "FLEX HOSE",
+          "confidence": 1.0,
+          "left": 0.3439387529581656,
+          "top": 0.205746468311305,
+          "right": 0.3694476697220632,
+          "bottom": 0.21336827828710941,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "FLEX HOSE"
+            }
+          ]
+        },
+        {
+          "text": "1/4+-T",
+          "confidence": 1.0,
+          "left": 0.3200745162724071,
+          "top": 0.20662942589338343,
+          "right": 0.3238720116876255,
+          "bottom": 0.22419710965425496,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "1/4+-T"
+            }
+          ]
+        },
+        {
+          "text": "NO.4",
+          "confidence": 1.0,
+          "left": 0.3439444810796429,
+          "top": 0.214158433344693,
+          "right": 0.35587946274507865,
+          "bottom": 0.22252399694850983,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "NO.4"
+            }
+          ]
+        },
+        {
+          "text": "1--8/8",
+          "confidence": 1.0,
+          "left": 0.4002215695966536,
+          "top": 0.22775091724126176,
+          "right": 0.40322447846957726,
+          "bottom": 0.2444156189595526,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "1--8/8"
+            }
+          ]
+        },
+        {
+          "text": "G",
+          "confidence": 1.0,
+          "left": 0.9267304747946544,
+          "top": 0.23841856851899826,
+          "right": 0.9316151096778715,
+          "bottom": 0.24678413212281503,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "G"
+            }
+          ]
+        },
+        {
+          "text": "G",
+          "confidence": 1.0,
+          "left": 0.07757738292576767,
+          "top": 0.2426013502948782,
+          "right": 0.08137487709204266,
+          "bottom": 0.250966913898695,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "G"
+            }
+          ]
+        },
+        {
+          "text": "JBJEC ONENTS",
+          "confidence": 1.0,
+          "left": 0.8132983950212905,
+          "top": 0.24317492416582406,
+          "right": 0.8309859154929577,
+          "bottom": 0.2704752275025278,
+          "alternatives": []
+        },
+        {
+          "text": "'ONENTS NDICATES C JR (o)(3) ANI INDICATES",
+          "confidence": 1.0,
+          "left": 0.7777595807402555,
+          "top": 0.2441860465116279,
+          "right": 0.8041270881100557,
+          "bottom": 0.28488372093023256,
+          "alternatives": []
+        },
+        {
+          "text": "COMPONENTS SUBJECT TO AMR",
+          "confidence": 1.0,
+          "left": 0.7622810989589384,
+          "top": 0.2501303576674491,
+          "right": 0.8659439040507537,
+          "bottom": 0.2593528815370398,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "COMPONENTS SUBJECT TO AMR"
+            }
+          ]
+        },
+        {
+          "text": "\u00b7936",
+          "confidence": 0.30000001192092896,
+          "left": 0.31356452645133,
+          "top": 0.2518034708190827,
+          "right": 0.32712700624106955,
+          "bottom": 0.26267870311833197,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "\u00b7936"
+            }
+          ]
+        },
+        {
+          "text": "PCV 2851",
+          "confidence": 1.0,
+          "left": 0.4590566655748444,
+          "top": 0.25606673407482305,
+          "right": 0.48264002620373403,
+          "bottom": 0.29221435793731043,
+          "alternatives": []
+        },
+        {
+          "text": "RED INDICATES COMPONENTS IN SCOPE PER 10CFR 54.4(o)1)",
+          "confidence": 1.0,
+          "left": 0.7622810965785779,
+          "top": 0.26100559063177303,
+          "right": 0.9071919320720986,
+          "bottom": 0.2685345981644926,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "RED INDICATES COMPONENTS IN SCOPE PER 10CFR 54.4(o)1)"
+            }
+          ]
+        },
+        {
+          "text": "ICATES CUM (ol(3) AND : VDICATES C VDICATES C LIECT T\u0410 A",
+          "confidence": 0.30000001192092896,
+          "left": 0.7834916475597773,
+          "top": 0.262639029322548,
+          "right": 0.8098591549295775,
+          "bottom": 0.3033367037411527,
+          "alternatives": []
+        },
+        {
+          "text": "PER 3IIR.IF",
+          "confidence": 0.5,
+          "left": 0.8527677694071405,
+          "top": 0.26567239635995954,
+          "right": 0.864723223059286,
+          "bottom": 0.28412537917087965,
+          "alternatives": []
+        },
+        {
+          "text": "UBJECT OMPONENT OMPONENT",
+          "confidence": 1.0,
+          "left": 0.811333114968883,
+          "top": 0.2661779575328615,
+          "right": 0.8336062888961677,
+          "bottom": 0.30080889787664306,
+          "alternatives": []
+        },
+        {
+          "text": "PCV 2847",
+          "confidence": 1.0,
+          "left": 0.3725843432689158,
+          "top": 0.269211324570273,
+          "right": 0.39502129053390106,
+          "bottom": 0.3038422649140546,
+          "alternatives": []
+        },
+        {
+          "text": "AND/DR (o)13) AND SUBJECT TO AMR PER 10CFR 54.21.",
+          "confidence": 1.0,
+          "left": 0.7639093094056422,
+          "top": 0.2693711545233582,
+          "right": 0.8947089787082493,
+          "bottom": 0.2778058643365215,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "AND/DR (o)13) AND SUBJECT TO AMR PER 10CFR 54.21."
+            }
+          ]
+        },
+        {
+          "text": "ND SUBJECT S COMPONEI S COMPONEI TO AMR PER unD",
+          "confidence": 1.0,
+          "left": 0.8008516213560433,
+          "top": 0.2699696663296259,
+          "right": 0.829184408778251,
+          "bottom": 0.3137007077856421,
+          "alternatives": []
+        },
+        {
+          "text": "2850",
+          "confidence": 1.0,
+          "left": 0.4413691451031772,
+          "top": 0.2712335692618807,
+          "right": 0.4642974123812643,
+          "bottom": 0.3063700707785642,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "2850"
+            }
+          ]
+        },
+        {
+          "text": "285",
+          "confidence": 1.0,
+          "left": 0.46688612616921493,
+          "top": 0.27219012127480124,
+          "right": 0.4740931049662389,
+          "bottom": 0.27959665494324987,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "285"
+            }
+          ]
+        },
+        {
+          "text": "BLACK INDICATES COMPONENTS NOT SUBJECT TO AMR.",
+          "confidence": 1.0,
+          "left": 0.7622810960393677,
+          "top": 0.2785642061317782,
+          "right": 0.8941662435089417,
+          "bottom": 0.28693883832013356,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "BLACK INDICATES COMPONENTS NOT SUBJECT TO AMR."
+            }
+          ]
+        },
+        {
+          "text": "NOTE 8",
+          "confidence": 1.0,
+          "left": 0.3936151729810184,
+          "top": 0.2832999219676059,
+          "right": 0.40622738587581037,
+          "bottom": 0.28892821030222,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "NOTE 8"
+            }
+          ]
+        },
+        {
+          "text": "2847",
+          "confidence": 1.0,
+          "left": 0.3798017963264704,
+          "top": 0.2842257387677926,
+          "right": 0.38760935689807907,
+          "bottom": 0.2897806390191291,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "2847"
+            }
+          ]
+        },
+        {
+          "text": "EXvas",
+          "confidence": 0.30000001192092896,
+          "left": 0.46388321836751495,
+          "top": 0.28607737213954737,
+          "right": 0.4800989206608189,
+          "bottom": 0.30274207385783825,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "EXvas"
+            }
+          ]
+        },
+        {
+          "text": "NDICA BJECT",
+          "confidence": 1.0,
+          "left": 0.7823452341958729,
+          "top": 0.28892821031344795,
+          "right": 0.7964297412381265,
+          "bottom": 0.3104145601617796,
+          "alternatives": []
+        },
+        {
+          "text": "GREEN INDICATES COMPONENTS IN SCOPE PER 10CFR 54.4lo)2)",
+          "confidence": 1.0,
+          "left": 0.7622810967878705,
+          "top": 0.2894337715629505,
+          "right": 0.9142475203748137,
+          "bottom": 0.29701718915647934,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "GREEN INDICATES COMPONENTS IN SCOPE PER 10CFR 54.4lo)2)"
+            }
+          ]
+        },
+        {
+          "text": "vB52",
+          "confidence": 0.30000001192092896,
+          "left": 0.31356452662402556,
+          "top": 0.2902850641680174,
+          "right": 0.32712700641376513,
+          "bottom": 0.30116029646726666,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "vB52"
+            }
+          ]
+        },
+        {
+          "text": "INUICHIGO CUHEUIVEEO:",
+          "confidence": 0.5,
+          "left": 0.7796486877158861,
+          "top": 0.29322548029091744,
+          "right": 0.838264303815509,
+          "bottom": 0.29657200856656885,
+          "alternatives": [
+            {
+              "confidence": 0.5,
+              "text": "INUICHIGO CUHEUIVEEO:"
+            }
+          ]
+        },
+        {
+          "text": "UNSCN",
+          "confidence": 0.30000001192092896,
+          "left": 0.7628238334555718,
+          "top": 0.29322548029888534,
+          "right": 0.7801914241514549,
+          "bottom": 0.2965720086949982,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "UNSCN"
+            }
+          ]
+        },
+        {
+          "text": "7852",
+          "confidence": 0.5,
+          "left": 0.3130220272475926,
+          "top": 0.29322548031293927,
+          "right": 0.3265845070373321,
+          "bottom": 0.3024284334022496,
+          "alternatives": [
+            {
+              "confidence": 0.5,
+              "text": "7852"
+            }
+          ]
+        },
+        {
+          "text": "AND SUBJECT TO AMR PER 10CFR 54.21.",
+          "confidence": 1.0,
+          "left": 0.763909309986663,
+          "top": 0.2985338726395448,
+          "right": 0.8621447442355062,
+          "bottom": 0.30712841257887746,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "AND SUBJECT TO AMR PER 10CFR 54.21."
+            }
+          ]
+        },
+        {
+          "text": "3/8*",
+          "confidence": 1.0,
+          "left": 0.21601703242712086,
+          "top": 0.30080889787664306,
+          "right": 0.22682607271536193,
+          "bottom": 0.3177451971688574,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "3/8*"
+            }
+          ]
+        },
+        {
+          "text": "SAMF",
+          "confidence": 1.0,
+          "left": 0.10578734054923705,
+          "top": 0.30159180130822233,
+          "right": 0.11338232888178704,
+          "bottom": 0.30577496180336344,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "SAMF"
+            }
+          ]
+        },
+        {
+          "text": "R\u00c9 SSUR\u0130ZER",
+          "confidence": 1.0,
+          "left": 0.10198984653514158,
+          "top": 0.303589484217388,
+          "right": 0.12260481486634872,
+          "bottom": 0.310414560051564,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "R\u00c9 SSUR\u0130ZER"
+            }
+          ]
+        },
+        {
+          "text": "PRESSURIZER",
+          "confidence": 1.0,
+          "left": 0.10144734737938088,
+          "top": 0.3041016976033427,
+          "right": 0.12314731404380944,
+          "bottom": 0.3107947543955684,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "PRESSURIZER"
+            }
+          ]
+        },
+        {
+          "text": "3/8'-T",
+          "confidence": 1.0,
+          "left": 0.49691520559499286,
+          "top": 0.3055195237862103,
+          "right": 0.5077256737905289,
+          "bottom": 0.3101486073289907,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "3/8'-T"
+            }
+          ]
+        },
+        {
+          "text": "3/8-1",
+          "confidence": 1.0,
+          "left": 0.21808467087396136,
+          "top": 0.30617963522670344,
+          "right": 0.22784965587295425,
+          "bottom": 0.3111989735818498,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "3/8-1"
+            }
+          ]
+        },
+        {
+          "text": "G-320518A",
+          "confidence": 0.30000001192092896,
+          "left": 0.08788486814150002,
+          "top": 0.3070161917734711,
+          "right": 0.13128480147035715,
+          "bottom": 0.31789142407272036,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "G-320518A"
+            }
+          ]
+        },
+        {
+          "text": "PIPE ANCHOR",
+          "confidence": 1.0,
+          "left": 0.7774777386351972,
+          "top": 0.30940343783960583,
+          "right": 0.8094992346054775,
+          "bottom": 0.3170548681296814,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "PIPE ANCHOR"
+            }
+          ]
+        },
+        {
+          "text": "IG-3) |",
+          "confidence": 1.0,
+          "left": 0.08734236814512063,
+          "top": 0.31163138652134453,
+          "right": 0.0987348512684173,
+          "bottom": 0.31832444331357024,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "IG-3) |"
+            }
+          ]
+        },
+        {
+          "text": "20518",
+          "confidence": 1.0,
+          "left": 0.1068723393378602,
+          "top": 0.3124680186064289,
+          "right": 0.11826482121221349,
+          "bottom": 0.3174878112005982,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "20518"
+            }
+          ]
+        },
+        {
+          "text": "V113",
+          "confidence": 1.0,
+          "left": 0.20180969557914755,
+          "top": 0.31705486823835344,
+          "right": 0.21048968224491896,
+          "bottom": 0.323747319217835,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "V113"
+            }
+          ]
+        },
+        {
+          "text": "CATES SYS - SAMPLE : - DEMINERA - CHEMICA",
+          "confidence": 1.0,
+          "left": 0.7962659679004258,
+          "top": 0.31875631951466127,
+          "right": 0.822633475270226,
+          "bottom": 0.35945399393326594,
+          "alternatives": []
+        },
+        {
+          "text": "INDICATES SYSTEM BOUNDARY INTERFACE",
+          "confidence": 1.0,
+          "left": 0.7867042714445922,
+          "top": 0.32532861464579044,
+          "right": 0.8860251838604024,
+          "bottom": 0.3329494393670622,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "INDICATES SYSTEM BOUNDARY INTERFACE"
+            }
+          ]
+        },
+        {
+          "text": "RICO OTDI SAMPLE S DEMINERAI - CHEMICAL",
+          "confidence": 1.0,
+          "left": 0.7998689813298395,
+          "top": 0.32861476238624876,
+          "right": 0.8247625286603341,
+          "bottom": 0.3667846309403438,
+          "alternatives": []
+        },
+        {
+          "text": "(STEM JIZED",
+          "confidence": 1.0,
+          "left": 0.8254176220111366,
+          "top": 0.3351870576339737,
+          "right": 0.8395021290533901,
+          "bottom": 0.35667340748230536,
+          "alternatives": []
+        },
+        {
+          "text": "SS - SAMPLE SYSTEM",
+          "confidence": 1.0,
+          "left": 0.7888752197863409,
+          "top": 0.33619818001313695,
+          "right": 0.8388070455359877,
+          "bottom": 0.34382467229840735,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "SS - SAMPLE SYSTEM"
+            }
+          ]
+        },
+        {
+          "text": "F",
+          "confidence": 1.0,
+          "left": 0.9267304748158838,
+          "top": 0.3404784467867824,
+          "right": 0.9310723724898545,
+          "bottom": 0.3488440103905992,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "F"
+            }
+          ]
+        },
+        {
+          "text": "STEM TRAI",
+          "confidence": 1.0,
+          "left": 0.8624303963314772,
+          "top": 0.3420121334681496,
+          "right": 0.8730756632820177,
+          "bottom": 0.3584428715874621,
+          "alternatives": []
+        },
+        {
+          "text": "DM - DEMINERALIZED WATER SYSTEM",
+          "confidence": 1.0,
+          "left": 0.7894179597544682,
+          "top": 0.3445399394089467,
+          "right": 0.8729994887289144,
+          "bottom": 0.35136501524312264,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "DM - DEMINERALIZED WATER SYSTEM"
+            }
+          ]
+        },
+        {
+          "text": "F",
+          "confidence": 1.0,
+          "left": 0.07703488375189566,
+          "top": 0.34549778493474476,
+          "right": 0.08137487708478139,
+          "bottom": 0.3530267924674642,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "F"
+            }
+          ]
+        },
+        {
+          "text": "CS - CHEMICAL & VOLUME CONTROL SYSTEM",
+          "confidence": 1.0,
+          "left": 0.7894179612889997,
+          "top": 0.35302679246459545,
+          "right": 0.8925380272973317,
+          "bottom": 0.359719243444077,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CS - CHEMICAL & VOLUME CONTROL SYSTEM"
+            }
+          ]
+        },
+        {
+          "text": "PCV 2853",
+          "confidence": 1.0,
+          "left": 0.4590566655748444,
+          "top": 0.39838220424671383,
+          "right": 0.4831313462168359,
+          "bottom": 0.43554095045500507,
+          "alternatives": []
+        },
+        {
+          "text": "PCV 2848",
+          "confidence": 1.0,
+          "left": 0.3717654765804127,
+          "top": 0.4079878665318504,
+          "right": 0.39420242384539794,
+          "bottom": 0.44261880687563193,
+          "alternatives": []
+        },
+        {
+          "text": "2852",
+          "confidence": 1.0,
+          "left": 0.4400589584015722,
+          "top": 0.4082406471183013,
+          "right": 0.46298722567965933,
+          "bottom": 0.44337714863498484,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "2852"
+            }
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 1.0,
+          "left": 0.39962098855514555,
+          "top": 0.420179712355068,
+          "right": 0.40382505941599317,
+          "bottom": 0.4257397516469361,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "8"
+            }
+          ]
+        },
+        {
+          "text": "ON POFCOVERY 70-664 \u04338",
+          "confidence": 0.30000001192092896,
+          "left": 0.7066819521781854,
+          "top": 0.423154701718908,
+          "right": 0.7337045528987881,
+          "bottom": 0.4648634984833165,
+          "alternatives": []
+        },
+        {
+          "text": "PCV 2856",
+          "confidence": 1.0,
+          "left": 0.5566655748444154,
+          "top": 0.4320020222446916,
+          "right": 0.5743530953160826,
+          "bottom": 0.4595551061678463,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "2856"
+            }
+          ]
+        },
+        {
+          "text": "BORON RECOVERY",
+          "confidence": 1.0,
+          "left": 0.6998219377165651,
+          "top": 0.43343115438747887,
+          "right": 0.7292185021389826,
+          "bottom": 0.4433311458988497,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "BORON RECOVERY"
+            }
+          ]
+        },
+        {
+          "text": "\u0e3f288",
+          "confidence": 0.30000001192092896,
+          "left": 0.552898788077301,
+          "top": 0.43806875631951464,
+          "right": 0.5635440550278414,
+          "bottom": 0.4544994944388271,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "\u0e3f288"
+            }
+          ]
+        },
+        {
+          "text": "3/8-",
+          "confidence": 1.0,
+          "left": 0.21971216862579937,
+          "top": 0.4413093624754634,
+          "right": 0.23001965279140296,
+          "bottom": 0.4480024192676891,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "3/8-"
+            }
+          ]
+        },
+        {
+          "text": "3/8'-T",
+          "confidence": 1.0,
+          "left": 0.6098245438388391,
+          "top": 0.44149319644760265,
+          "right": 0.6206350120343751,
+          "bottom": 0.44705323573947076,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "3/8'-T"
+            }
+          ]
+        },
+        {
+          "text": "3/8*-T",
+          "confidence": 1.0,
+          "left": 0.4957140424289708,
+          "top": 0.4424198697300941,
+          "right": 0.5065245106245069,
+          "bottom": 0.4470532358066509,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "3/8*-T"
+            }
+          ]
+        },
+        {
+          "text": "3/8'-1",
+          "confidence": 1.0,
+          "left": 0.2848120708147982,
+          "top": 0.4429826266793722,
+          "right": 0.2983745493555944,
+          "bottom": 0.44883905137256963,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "3/8'-1"
+            }
+          ]
+        },
+        {
+          "text": "E",
+          "confidence": 1.0,
+          "left": 0.9272732120378218,
+          "top": 0.4438192587463228,
+          "right": 0.9310723725025463,
+          "bottom": 0.4521855797366049,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "E"
+            }
+          ]
+        },
+        {
+          "text": "-70854810-13",
+          "confidence": 0.30000001192092896,
+          "left": 0.6928107331101828,
+          "top": 0.4438192587541259,
+          "right": 0.7416570806928627,
+          "bottom": 0.4555321081405209,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "-70854810-13"
+            }
+          ]
+        },
+        {
+          "text": "F-3 20518",
+          "confidence": 1.0,
+          "left": 0.08734236787855079,
+          "top": 0.44800241938256496,
+          "right": 0.11934981933305461,
+          "bottom": 0.4546954761747906,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "F-3 20518"
+            }
+          ]
+        },
+        {
+          "text": "E",
+          "confidence": 1.0,
+          "left": 0.07757738298001761,
+          "top": 0.44883905152091086,
+          "right": 0.0813748771462926,
+          "bottom": 0.45636874041216474,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "E"
+            }
+          ]
+        },
+        {
+          "text": "1/2 \u00b755",
+          "confidence": 1.0,
+          "left": 0.6504772278684029,
+          "top": 0.45051231558259225,
+          "right": 0.6662166075612926,
+          "bottom": 0.4572053723748179,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "1/2 \u00b755"
+            }
+          ]
+        },
+        {
+          "text": "NOTES 1",
+          "confidence": 1.0,
+          "left": 0.7747640528678974,
+          "top": 0.4521272816286557,
+          "right": 0.7894179568928031,
+          "bottom": 0.4572053725293132,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "NOTES 1"
+            }
+          ]
+        },
+        {
+          "text": "NOTE 4",
+          "confidence": 1.0,
+          "left": 0.6488623473463593,
+          "top": 0.4563199680994144,
+          "right": 0.6674803754890059,
+          "bottom": 0.4637480809630166,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "NOTE 4"
+            }
+          ]
+        },
+        {
+          "text": "LR NOTE 4",
+          "confidence": 1.0,
+          "left": 0.6417934329174991,
+          "top": 0.45717980302390676,
+          "right": 0.6678448189613239,
+          "bottom": 0.4640007070513381,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "LR NOTE 4"
+            }
+          ]
+        },
+        {
+          "text": "LWORKTHISDRAMINGWITH DRAWING 20516,28518. 20528 THRU Z8522.",
+          "confidence": 1.0,
+          "left": 0.7807341652482349,
+          "top": 0.4597060638208152,
+          "right": 0.902307300119417,
+          "bottom": 0.46557169345905336,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "LWORKTHISDRAMINGWITH DRAWING 20516,28518. 20528 THRU Z8522."
+            }
+          ]
+        },
+        {
+          "text": "2. ALL LINES. EQUIPMENT, COMPONENTS AND INSTRUMENTS HAVE",
+          "confidence": 1.0,
+          "left": 0.7801914247779821,
+          "top": 0.47056898492571836,
+          "right": 0.887110654374767,
+          "bottom": 0.47644791086337407,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "2. ALL LINES. EQUIPMENT, COMPONENTS AND INSTRUMENTS HAVE"
+            }
+          ]
+        },
+        {
+          "text": "SYSTEM PREFIX * 5S *,UNLESS OTHERMISE NOTEO.",
+          "confidence": 1.0,
+          "left": 0.7845333250565857,
+          "top": 0.4763793847413128,
+          "right": 0.8702858003690346,
+          "bottom": 0.48320028876874416,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "SYSTEM PREFIX * 5S *,UNLESS OTHERMISE NOTEO."
+            }
+          ]
+        },
+        {
+          "text": "3/8\u00b0-1",
+          "confidence": 1.0,
+          "left": 0.4380582099896098,
+          "top": 0.4767067791272408,
+          "right": 0.44886867818514586,
+          "bottom": 0.4813401452037976,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "3/8\u00b0-1"
+            }
+          ]
+        },
+        {
+          "text": "\u2192\u2192 3/ CVCS CYCT",
+          "confidence": 0.30000001192092896,
+          "left": 0.6754431414142161,
+          "top": 0.48063107145816664,
+          "right": 0.7226612767444113,
+          "bottom": 0.49569044924067446,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "\u2192\u2192 3/ CVCS CYCT"
+            }
+          ]
+        },
+        {
+          "text": "(F-4)",
+          "confidence": 1.0,
+          "left": 0.7297168628010368,
+          "top": 0.4864874960484543,
+          "right": 0.7400288697767173,
+          "bottom": 0.4923439207416518,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "(F-4)"
+            }
+          ]
+        },
+        {
+          "text": "3. ALL TUBING 3/8\u00b0 T ANO MATL 2508 UNLESS OTHERVISE NOTED.",
+          "confidence": 1.0,
+          "left": 0.780191425446986,
+          "top": 0.4872423058760301,
+          "right": 0.8941662431371934,
+          "bottom": 0.49330533167819135,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "3. ALL TUBING 3/8\u00b0 T ANO MATL 2508 UNLESS OTHERVISE NOTED."
+            }
+          ]
+        },
+        {
+          "text": "* 3/8* Y68",
+          "confidence": 0.30000001192092896,
+          "left": 0.5565018015067147,
+          "top": 0.4962082912032356,
+          "right": 0.5682934818211595,
+          "bottom": 0.5141557128412538,
+          "alternatives": []
+        },
+        {
+          "text": "3/8",
+          "confidence": 1.0,
+          "left": 0.5353750409433344,
+          "top": 0.4972194135490394,
+          "right": 0.5460203078938749,
+          "bottom": 0.5136501516683518,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "3/8"
+            }
+          ]
+        },
+        {
+          "text": "4. DELETED",
+          "confidence": 1.0,
+          "left": 0.780734161313737,
+          "top": 0.4981052271222984,
+          "right": 0.8008154386805976,
+          "bottom": 0.5032201380440415,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "4. DELETED"
+            }
+          ]
+        },
+        {
+          "text": "1/4\u00b0-T",
+          "confidence": 1.0,
+          "left": 0.31974363706155373,
+          "top": 0.499873609392419,
+          "right": 0.3239477091713977,
+          "bottom": 0.5174804009651806,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "1/4\u00b0-T"
+            }
+          ]
+        },
+        {
+          "text": "1/4*-1",
+          "confidence": 1.0,
+          "left": 0.32007451641948337,
+          "top": 0.5007102417143027,
+          "right": 0.32387201152246586,
+          "bottom": 0.5166062515958387,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "1/4*-1"
+            }
+          ]
+        },
+        {
+          "text": "EVES Y67VGOY",
+          "confidence": 0.30000001192092896,
+          "left": 0.5323252146263833,
+          "top": 0.5052462228870664,
+          "right": 0.5708110441502926,
+          "bottom": 0.517667826780986,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "EVES Y67VGOY"
+            }
+          ]
+        },
+        {
+          "text": "V0159",
+          "confidence": 0.30000001192092896,
+          "left": 0.5695855782944466,
+          "top": 0.5054336494024123,
+          "right": 0.5924076769856916,
+          "bottom": 0.5174804007196139,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "V0159"
+            }
+          ]
+        },
+        {
+          "text": "5. DELETED",
+          "confidence": 1.0,
+          "left": 0.7807341613503718,
+          "top": 0.5082102702689321,
+          "right": 0.8008154387172324,
+          "bottom": 0.513262791770733,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "5. DELETED"
+            }
+          ]
+        },
+        {
+          "text": "1--87E",
+          "confidence": 1.0,
+          "left": 0.3482844736655146,
+          "top": 0.5082399310392693,
+          "right": 0.35099697074751157,
+          "bottom": 0.5258092041551697,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "1--87E"
+            }
+          ]
+        },
+        {
+          "text": "3/8-1",
+          "confidence": 1.0,
+          "left": 0.34737039000256453,
+          "top": 0.5091403419215169,
+          "right": 0.35157446211240856,
+          "bottom": 0.5276738062277438,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "3/8-1"
+            }
+          ]
+        },
+        {
+          "text": "3/8%-",
+          "confidence": 1.0,
+          "left": 0.43925937346244914,
+          "top": 0.5119203616578352,
+          "right": 0.44826809695872916,
+          "bottom": 0.516553727734392,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "3/8%-"
+            }
+          ]
+        },
+        {
+          "text": "6. THESE REDUCERS ARE TO BE AS CLOSE AS POSSIBLE TO RDOT VALVE.",
+          "confidence": 1.0,
+          "left": 0.7807341642012268,
+          "top": 0.517442883871498,
+          "right": 0.9055637235773782,
+          "bottom": 0.52336783477528,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "6. THESE REDUCERS ARE TO BE AS CLOSE AS POSSIBLE TO RDOT VALVE."
+            }
+          ]
+        },
+        {
+          "text": "7.*THIS VALVE TO BE REACH ROO OPERATED FROM THE SAMPLE RM SIOE",
+          "confidence": 1.0,
+          "left": 0.780191424280034,
+          "top": 0.529155733408587,
+          "right": 0.9077346690776716,
+          "bottom": 0.5358487902008128,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "7.*THIS VALVE TO BE REACH ROO OPERATED FROM THE SAMPLE RM SIOE"
+            }
+          ]
+        },
+        {
+          "text": "OF THE SAMPLE HX ROOM -SAMPLE WALL.",
+          "confidence": 1.0,
+          "left": 0.7850760586873418,
+          "top": 0.5366854221761359,
+          "right": 0.8567173728068426,
+          "bottom": 0.5425674165091129,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "OF THE SAMPLE HX ROOM -SAMPLE WALL."
+            }
+          ]
+        },
+        {
+          "text": "OEGAS CLR.",
+          "confidence": 1.0,
+          "left": 0.6764891005692987,
+          "top": 0.5369405390633042,
+          "right": 0.6975094545612878,
+          "bottom": 0.547133943949883,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "OEGAS CLR."
+            }
+          ]
+        },
+        {
+          "text": "LTON DEGAS CL",
+          "confidence": 1.0,
+          "left": 0.6672524514253636,
+          "top": 0.5387440125062386,
+          "right": 0.694488572734546,
+          "bottom": 0.547176313632847,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "LTON DEGAS CL"
+            }
+          ]
+        },
+        {
+          "text": "LTON",
+          "confidence": 1.0,
+          "left": 0.6668797945150549,
+          "top": 0.5406472317577491,
+          "right": 0.6770896809360061,
+          "bottom": 0.5462072710496172,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "LTON"
+            }
+          ]
+        },
+        {
+          "text": "CS",
+          "confidence": 1.0,
+          "left": 0.5707867401366754,
+          "top": 0.5415739043815432,
+          "right": 0.5755913933966058,
+          "bottom": 0.5489872910677259,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CS"
+            }
+          ]
+        },
+        {
+          "text": "CS 3/8\u00b0-T",
+          "confidence": 1.0,
+          "left": 0.5875827671004833,
+          "top": 0.5432554079272092,
+          "right": 0.6068418938352282,
+          "bottom": 0.5491591337556613,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CS 3/8\u00b0-T"
+            }
+          ]
+        },
+        {
+          "text": "CS-3/4",
+          "confidence": 1.0,
+          "left": 0.6140286151615899,
+          "top": 0.5434272512847302,
+          "right": 0.6302443174548938,
+          "bottom": 0.5508406370072211,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CS-3/4"
+            }
+          ]
+        },
+        {
+          "text": "8. THIS EQUIPMENT HAS [/4* TUBING CONNECTORS.",
+          "confidence": 1.0,
+          "left": 0.780191427541858,
+          "top": 0.5450517432681813,
+          "right": 0.8664866419377902,
+          "bottom": 0.5509081679613789,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "8. THIS EQUIPMENT HAS [/4* TUBING CONNECTORS."
+            }
+          ]
+        },
+        {
+          "text": "C5 3/8-T",
+          "confidence": 0.5,
+          "left": 0.43505530253722974,
+          "top": 0.5452805977740274,
+          "right": 0.4530727495297897,
+          "bottom": 0.5526939834965181,
+          "alternatives": [
+            {
+              "confidence": 0.5,
+              "text": "C5 3/8-T"
+            }
+          ]
+        },
+        {
+          "text": "20725 10-12",
+          "confidence": 1.0,
+          "left": 0.677071352239365,
+          "top": 0.5458515555737934,
+          "right": 0.7069218993726598,
+          "bottom": 0.5542546963442383,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "20725 10-12"
+            }
+          ]
+        },
+        {
+          "text": "D",
+          "confidence": 1.0,
+          "left": 0.9272732121032369,
+          "top": 0.5467250074465687,
+          "right": 0.9316151097772077,
+          "bottom": 0.5542546963378226,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "D"
+            }
+          ]
+        },
+        {
+          "text": "10-1",
+          "confidence": 1.0,
+          "left": 0.698710618281434,
+          "top": 0.5471339442015537,
+          "right": 0.705917597078458,
+          "bottom": 0.5526939834934218,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "10-1"
+            }
+          ]
+        },
+        {
+          "text": "pod",
+          "confidence": 1.0,
+          "left": 0.5047227660852244,
+          "top": 0.5480606174678209,
+          "right": 0.5107285819575771,
+          "bottom": 0.5545473299750002,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "pod"
+            }
+          ]
+        },
+        {
+          "text": "20724",
+          "confidence": 1.0,
+          "left": 0.6776902627620509,
+          "top": 0.5480606175265176,
+          "right": 0.6885007309575869,
+          "bottom": 0.5526939836030743,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "20724"
+            }
+          ]
+        },
+        {
+          "text": "A 8. DELE",
+          "confidence": 1.0,
+          "left": 0.7816901408450704,
+          "top": 0.551314459049545,
+          "right": 0.7941369145103178,
+          "bottom": 0.570273003033367,
+          "alternatives": []
+        },
+        {
+          "text": "D",
+          "confidence": 1.0,
+          "left": 0.0775773829818539,
+          "top": 0.5517448001812759,
+          "right": 0.08191737631473962,
+          "bottom": 0.5592744890725299,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "D"
+            }
+          ]
+        },
+        {
+          "text": "\u00b7826",
+          "confidence": 1.0,
+          "left": 0.5035216032256161,
+          "top": 0.5536206568229706,
+          "right": 0.5119297449473114,
+          "bottom": 0.5591806961148386,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "\u00b7826"
+            }
+          ]
+        },
+        {
+          "text": "9. A INDICATES REVISION LEVEL.",
+          "confidence": 1.0,
+          "left": 0.7801607506476804,
+          "top": 0.5541127872461341,
+          "right": 0.8410144107738626,
+          "bottom": 0.5618237721400257,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "9. A INDICATES REVISION LEVEL."
+            }
+          ]
+        },
+        {
+          "text": "E-63",
+          "confidence": 1.0,
+          "left": 0.676528614657467,
+          "top": 0.5550913285453113,
+          "right": 0.6846696727961623,
+          "bottom": 0.5601111211394806,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "E-63"
+            }
+          ]
+        },
+        {
+          "text": "6",
+          "confidence": 1.0,
+          "left": 0.626596790183068,
+          "top": 0.5576012247951141,
+          "right": 0.6320241622755316,
+          "bottom": 0.5651309136863679,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "6"
+            }
+          ]
+        },
+        {
+          "text": "-- NOTE 6",
+          "confidence": 1.0,
+          "left": 0.6128274516563564,
+          "top": 0.558230233063699,
+          "right": 0.6314454797990029,
+          "bottom": 0.5647985110160403,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "-- NOTE 6"
+            }
+          ]
+        },
+        {
+          "text": "10. DELETED.",
+          "confidence": 1.0,
+          "left": 0.7791059509045326,
+          "top": 0.5642932589259411,
+          "right": 0.8013581758588871,
+          "bottom": 0.5693457804277421,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "10. DELETED."
+            }
+          ]
+        },
+        {
+          "text": "3/8\u00b0-\u0422",
+          "confidence": 1.0,
+          "left": 0.5641803425078918,
+          "top": 0.5684474280075554,
+          "right": 0.5671832513808155,
+          "bottom": 0.586054219580317,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "3/8\u00b0-\u0422"
+            }
+          ]
+        },
+        {
+          "text": "3/8*-T",
+          "confidence": 1.0,
+          "left": 0.5527692922776091,
+          "top": 0.5684474281249341,
+          "right": 0.5563727829251175,
+          "bottom": 0.5860542196976957,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "3/8*-T"
+            }
+          ]
+        },
+        {
+          "text": "11. CONTINUATION CONNECTION. SEE FP-74B82.",
+          "confidence": 1.0,
+          "left": 0.7784937708763099,
+          "top": 0.5732289465144141,
+          "right": 0.8665417418302128,
+          "bottom": 0.5844826400299632,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "11. CONTINUATION CONNECTION. SEE FP-74B82."
+            }
+          ]
+        },
+        {
+          "text": "CAT &CYES OEMIN",
+          "confidence": 1.0,
+          "left": 0.6282250012534939,
+          "top": 0.5960863016778238,
+          "right": 0.6575328118022881,
+          "bottom": 0.6069870656459144,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CAT &CYES OEMIN"
+            }
+          ]
+        },
+        {
+          "text": "CATAOEMEN",
+          "confidence": 0.30000001192092896,
+          "left": 0.6266408287314381,
+          "top": 0.5962476255138184,
+          "right": 0.6572704886187901,
+          "bottom": 0.6064410304003972,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "CATAOEMEN"
+            }
+          ]
+        },
+        {
+          "text": "B6S 3/8-1065-24T 20723 (c-s",
+          "confidence": 0.30000001192092896,
+          "left": 0.5876030259908528,
+          "top": 0.6036610110655954,
+          "right": 0.6680809575562824,
+          "bottom": 0.614818473671159,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "B6S 3/8-1065-24T 20723 (c-s"
+            }
+          ]
+        },
+        {
+          "text": "20723 (c-5",
+          "confidence": 0.30000001192092896,
+          "left": 0.6265967912128247,
+          "top": 0.6044526225645783,
+          "right": 0.6683875557000478,
+          "bottom": 0.6136555756538887,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "20723 (c-5"
+            }
+          ]
+        },
+        {
+          "text": "553/8-",
+          "confidence": 0.30000001192092896,
+          "left": 0.48250124740216566,
+          "top": 0.6045876843473258,
+          "right": 0.49871694969546965,
+          "bottom": 0.6120010700698165,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "553/8-"
+            }
+          ]
+        },
+        {
+          "text": "PCV 2854",
+          "confidence": 1.0,
+          "left": 0.08548968227972487,
+          "top": 0.6076845298281092,
+          "right": 0.1107107762856207,
+          "bottom": 0.6466127401415571,
+          "alternatives": []
+        },
+        {
+          "text": "3/8* V118",
+          "confidence": 1.0,
+          "left": 0.5818866688503112,
+          "top": 0.6079373104145601,
+          "right": 0.5925319358008516,
+          "bottom": 0.6243680485338726,
+          "alternatives": []
+        },
+        {
+          "text": "3/8\u00b0 CS",
+          "confidence": 1.0,
+          "left": 0.582798372722498,
+          "top": 0.6129277433028257,
+          "right": 0.5960111667673765,
+          "bottom": 0.6194144558100051,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "3/8\u00b0 CS"
+            }
+          ]
+        },
+        {
+          "text": "KS PSIG",
+          "confidence": 0.30000001192092896,
+          "left": 0.12368981342047461,
+          "top": 0.61700210412023,
+          "right": 0.14484728154276413,
+          "bottom": 0.63123916882126,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "KS PSIG"
+            }
+          ]
+        },
+        {
+          "text": "PCV",
+          "confidence": 1.0,
+          "left": 0.09493735685056501,
+          "top": 0.6178387362020172,
+          "right": 0.10144734684989357,
+          "bottom": 0.624531792994243,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "PCV"
+            }
+          ]
+        },
+        {
+          "text": "V1181",
+          "confidence": 1.0,
+          "left": 0.5852006987701699,
+          "top": 0.6184877826355809,
+          "right": 0.5942094222664498,
+          "bottom": 0.624047821927449,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "V1181"
+            }
+          ]
+        },
+        {
+          "text": "NOTE 6",
+          "confidence": 1.0,
+          "left": 0.6056204725061519,
+          "top": 0.6212678023973266,
+          "right": 0.6182326854009439,
+          "bottom": 0.626944525516297,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "NOTE 6"
+            }
+          ]
+        },
+        {
+          "text": "45",
+          "confidence": 1.0,
+          "left": 0.12053717654765804,
+          "top": 0.621840242669363,
+          "right": 0.13756960366852278,
+          "bottom": 0.647876643073812,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "45"
+            }
+          ]
+        },
+        {
+          "text": "PORTIONS OF THIS DRAWING ARE",
+          "confidence": 1.0,
+          "left": 0.7796486901530001,
+          "top": 0.6244182648122583,
+          "right": 0.8892816051712711,
+          "bottom": 0.6337654295905901,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "PORTIONS OF THIS DRAWING ARE"
+            }
+          ]
+        },
+        {
+          "text": "2854",
+          "confidence": 1.0,
+          "left": 0.09330985938328279,
+          "top": 0.6262050572145826,
+          "right": 0.10307484438227565,
+          "bottom": 0.6328981140068084,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "2854"
+            }
+          ]
+        },
+        {
+          "text": "PORTIONS Or IHIS DRAWING ARC",
+          "confidence": 1.0,
+          "left": 0.7791059514186063,
+          "top": 0.6266430737559457,
+          "right": 0.8887388664368772,
+          "bottom": 0.6342213604850676,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "PORTIONS Or IHIS DRAWING ARC"
+            }
+          ]
+        },
+        {
+          "text": "PCV 2815",
+          "confidence": 1.0,
+          "left": 0.36930887651490335,
+          "top": 0.6274014155712841,
+          "right": 0.392892237143793,
+          "bottom": 0.6635490394337715,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "2815"
+            }
+          ]
+        },
+        {
+          "text": "SS-CP-419",
+          "confidence": 1.0,
+          "left": 0.6296437362859996,
+          "top": 0.6305345345457284,
+          "right": 0.648261764428646,
+          "bottom": 0.6370212470529077,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "SS-CP-419"
+            }
+          ]
+        },
+        {
+          "text": "RH J,SS",
+          "confidence": 0.5,
+          "left": 0.5383553347347021,
+          "top": 0.6323878813801842,
+          "right": 0.5539704558779196,
+          "bottom": 0.6426073420891555,
+          "alternatives": [
+            {
+              "confidence": 0.5,
+              "text": "RH J,SS"
+            }
+          ]
+        },
+        {
+          "text": "PSic",
+          "confidence": 0.30000001192092896,
+          "left": 0.265282099717579,
+          "top": 0.633340058898393,
+          "right": 0.27558958388318255,
+          "bottom": 0.6450597830777165,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "PSic"
+            }
+          ]
+        },
+        {
+          "text": "SET",
+          "confidence": 1.0,
+          "left": 0.262569603687846,
+          "top": 0.6333400591122882,
+          "right": 0.26907959368717455,
+          "bottom": 0.6400370440134627,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "SET"
+            }
+          ]
+        },
+        {
+          "text": "RH,1,S5",
+          "confidence": 1.0,
+          "left": 0.5383553346155859,
+          "top": 0.6340546256558022,
+          "right": 0.5533698746087168,
+          "bottom": 0.6414661775882516,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "RH,1,S5"
+            }
+          ]
+        },
+        {
+          "text": "3/8\u00b0-\u0422",
+          "confidence": 1.0,
+          "left": 0.5996146563564024,
+          "top": 0.6342412275668025,
+          "right": 0.6116262881011079,
+          "bottom": 0.6388745936433591,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "3/8\u00b0-\u0422"
+            }
+          ]
+        },
+        {
+          "text": "3/8*-T",
+          "confidence": 1.0,
+          "left": 0.5996146563377655,
+          "top": 0.6349810696566638,
+          "right": 0.6128274516316403,
+          "bottom": 0.6396132896144447,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "3/8*-T"
+            }
+          ]
+        },
+        {
+          "text": "3/8*-\u0422",
+          "confidence": 1.0,
+          "left": 0.42724774094187185,
+          "top": 0.6360945743162676,
+          "right": 0.4302506498147955,
+          "bottom": 0.6527746912281799,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "3/8*-\u0422"
+            }
+          ]
+        },
+        {
+          "text": "IG-30",
+          "confidence": 1.0,
+          "left": 0.6597037607272164,
+          "top": 0.636244642433289,
+          "right": 0.6678448188659116,
+          "bottom": 0.6412644350274582,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "IG-30"
+            }
+          ]
+        },
+        {
+          "text": "1G-3",
+          "confidence": 1.0,
+          "left": 0.6591610235202034,
+          "top": 0.6366885515782665,
+          "right": 0.667844818868145,
+          "bottom": 0.6425484136679283,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "1G-3"
+            }
+          ]
+        },
+        {
+          "text": "20520",
+          "confidence": 1.0,
+          "left": 0.6344483890337496,
+          "top": 0.6370212471710063,
+          "right": 0.645859438379372,
+          "bottom": 0.6435079596781857,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "20520"
+            }
+          ]
+        },
+        {
+          "text": "SET \u2022",
+          "confidence": 1.0,
+          "left": 0.09222486103370248,
+          "top": 0.6370495683760019,
+          "right": 0.10253234519930603,
+          "bottom": 0.6421020898778029,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "SET \u2022"
+            }
+          ]
+        },
+        {
+          "text": "20528",
+          "confidence": 1.0,
+          "left": 0.6350489702902126,
+          "top": 0.6377604016028712,
+          "right": 0.6458594384857487,
+          "bottom": 0.642392621560652,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "20528"
+            }
+          ]
+        },
+        {
+          "text": "30",
+          "confidence": 1.0,
+          "left": 0.2598571078223868,
+          "top": 0.6383627980296165,
+          "right": 0.2658245986551046,
+          "bottom": 0.645059782930791,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "30"
+            }
+          ]
+        },
+        {
+          "text": "48 PSIG",
+          "confidence": 1.0,
+          "left": 0.09222486115776894,
+          "top": 0.6421010671747134,
+          "right": 0.1063298394896475,
+          "bottom": 0.6471546113946473,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "48 PSIG"
+            }
+          ]
+        },
+        {
+          "text": "NUCLEAR SAFETY RELATED",
+          "confidence": 1.0,
+          "left": 0.7829051096986116,
+          "top": 0.6421010672772612,
+          "right": 0.8909098174623635,
+          "bottom": 0.652977284564628,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "NUCLEAR SAFETY RELATED"
+            }
+          ]
+        },
+        {
+          "text": "40 PSIG",
+          "confidence": 1.0,
+          "left": 0.09168236156524044,
+          "top": 0.6425484138052051,
+          "right": 0.105787339897119,
+          "bottom": 0.6476096671658709,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "40 PSIG"
+            }
+          ]
+        },
+        {
+          "text": "2815",
+          "confidence": 1.0,
+          "left": 0.3767988883378072,
+          "top": 0.6435079597236911,
+          "right": 0.38400586713483126,
+          "bottom": 0.650921345446182,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "2815"
+            }
+          ]
+        },
+        {
+          "text": "TO PASS PA",
+          "confidence": 1.0,
+          "left": 0.6278419918955243,
+          "top": 0.6435079597406878,
+          "right": 0.6482617647374268,
+          "bottom": 0.6491756200591872,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "TO PASS PA"
+            }
+          ]
+        },
+        {
+          "text": "-LR NOTE 1",
+          "confidence": 1.0,
+          "left": 0.3336369970710284,
+          "top": 0.6437743313844746,
+          "right": 0.35967695706834263,
+          "bottom": 0.6504673881767002,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "-LR NOTE 1"
+            }
+          ]
+        },
+        {
+          "text": "TO",
+          "confidence": 1.0,
+          "left": 0.6282250018933182,
+          "top": 0.643774331394517,
+          "right": 0.634195111195028,
+          "bottom": 0.6487941239886862,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "TO"
+            }
+          ]
+        },
+        {
+          "text": "LLR NOTE 2",
+          "confidence": 1.0,
+          "left": 0.5899604554503618,
+          "top": 0.6441202197603044,
+          "right": 0.621881070484407,
+          "bottom": 0.6558691247191077,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "LLR NOTE 2"
+            }
+          ]
+        },
+        {
+          "text": "TO PASS",
+          "confidence": 1.0,
+          "left": 0.6282250019746269,
+          "top": 0.6442226601109813,
+          "right": 0.6439643804180254,
+          "bottom": 0.6492453989073158,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "TO PASS"
+            }
+          ]
+        },
+        {
+          "text": "C",
+          "confidence": 1.0,
+          "left": 0.9272732121156422,
+          "top": 0.6487941240040042,
+          "right": 0.9316151097896129,
+          "bottom": 0.656323812895258,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "C"
+            }
+          ]
+        },
+        {
+          "text": "LR NOTE 2",
+          "confidence": 1.0,
+          "left": 0.5960111670278576,
+          "top": 0.6488727149526298,
+          "right": 0.6218361752165245,
+          "bottom": 0.6554405634512019,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "LR NOTE 2"
+            }
+          ]
+        },
+        {
+          "text": "PCV 2854",
+          "confidence": 1.0,
+          "left": 0.09908286930887651,
+          "top": 0.6521739130434783,
+          "right": 0.12201113658696364,
+          "bottom": 0.6875631951466128,
+          "alternatives": []
+        },
+        {
+          "text": "LOSAB",
+          "confidence": 0.30000001192092896,
+          "left": 0.6445071184749315,
+          "top": 0.6525938919017407,
+          "right": 0.6586182859153366,
+          "bottom": 0.6634764923059225,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "LOSAB"
+            }
+          ]
+        },
+        {
+          "text": "RES(DUAL",
+          "confidence": 1.0,
+          "left": 0.6309386882894665,
+          "top": 0.6534310147369415,
+          "right": 0.6461353301483643,
+          "bottom": 0.658453753533276,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "RES(DUAL"
+            }
+          ]
+        },
+        {
+          "text": "21",
+          "confidence": 1.0,
+          "left": 0.1333114968883066,
+          "top": 0.653437815975733,
+          "right": 0.15558467081559121,
+          "bottom": 0.6880687563195147,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "21"
+            }
+          ]
+        },
+        {
+          "text": "C",
+          "confidence": 1.0,
+          "left": 0.077577382916754,
+          "top": 0.6542681379898382,
+          "right": 0.08191737624963973,
+          "bottom": 0.66180224618434,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "C"
+            }
+          ]
+        },
+        {
+          "text": "V835",
+          "confidence": 1.0,
+          "left": 0.22133966593177204,
+          "top": 0.6546505487978589,
+          "right": 0.23001965259754348,
+          "bottom": 0.6613436055900846,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "V835"
+            }
+          ]
+        },
+        {
+          "text": "*3/9- R4-471 RH 3/8-1",
+          "confidence": 1.0,
+          "left": 0.5839995355358726,
+          "top": 0.6582701586341091,
+          "right": 0.6254396636187606,
+          "bottom": 0.6694548098820087,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "*3/9- R4-471 RH 3/8-1"
+            }
+          ]
+        },
+        {
+          "text": "*3/8 RH-Y71 RH 3/8*-1",
+          "confidence": 1.0,
+          "left": 0.5848924357060834,
+          "top": 0.6587652423421926,
+          "right": 0.6250357333633872,
+          "bottom": 0.6712189892220747,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "*3/8 RH-Y71 RH 3/8*-1"
+            }
+          ]
+        },
+        {
+          "text": "H-E",
+          "confidence": 0.30000001192092896,
+          "left": 0.6336523739285054,
+          "top": 0.6626393694945039,
+          "right": 0.6407079576487079,
+          "bottom": 0.6659878619450911,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "H-E"
+            }
+          ]
+        },
+        {
+          "text": "PC",
+          "confidence": 1.0,
+          "left": 0.2321896496935678,
+          "top": 0.6630168697433528,
+          "right": 0.23869963969289634,
+          "bottom": 0.6705465586346068,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "PC"
+            }
+          ]
+        },
+        {
+          "text": "RH 3/8",
+          "confidence": 1.0,
+          "left": 0.536553590319923,
+          "top": 0.6638279324868508,
+          "right": 0.5497663843648015,
+          "bottom": 0.6686278279135617,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "RH 3/8"
+            }
+          ]
+        },
+        {
+          "text": "TH-12",
+          "confidence": 1.0,
+          "left": 0.6596728150801295,
+          "top": 0.6666747904862317,
+          "right": 0.6692821203509943,
+          "bottom": 0.6722348297780998,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "TH-12"
+            }
+          ]
+        },
+        {
+          "text": "tH-I2)",
+          "confidence": 1.0,
+          "left": 0.6591610234334775,
+          "top": 0.6672000303323268,
+          "right": 0.6700157676184044,
+          "bottom": 0.6722198229264961,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "tH-I2)"
+            }
+          ]
+        },
+        {
+          "text": "(H-12)",
+          "confidence": 1.0,
+          "left": 0.6602464979497188,
+          "top": 0.6676621083974273,
+          "right": 0.670015767716153,
+          "bottom": 0.672684847193762,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "(H-12)"
+            }
+          ]
+        },
+        {
+          "text": "285",
+          "confidence": 1.0,
+          "left": 0.10687233874869802,
+          "top": 0.6676621083974406,
+          "right": 0.11338232874802658,
+          "bottom": 0.6743590932986151,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "285"
+            }
+          ]
+        },
+        {
+          "text": "2854",
+          "confidence": 1.0,
+          "left": 0.10578734052397638,
+          "top": 0.6680366623674879,
+          "right": 0.11446732718974781,
+          "bottom": 0.6738930870606855,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "2854"
+            }
+          ]
+        },
+        {
+          "text": "2855",
+          "confidence": 1.0,
+          "left": 0.23218964972535347,
+          "top": 0.671383190781158,
+          "right": 0.2414121355577356,
+          "bottom": 0.6780762475733838,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "2855"
+            }
+          ]
+        },
+        {
+          "text": "3/8-1",
+          "confidence": 1.0,
+          "left": 0.34496806417963866,
+          "top": 0.6785239369435472,
+          "right": 0.35878144062360007,
+          "bottom": 0.687788376859109,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "3/8-1"
+            }
+          ]
+        },
+        {
+          "text": "\u2022LR NOTE 2",
+          "confidence": 1.0,
+          "left": 0.5852006990243552,
+          "top": 0.687061601471567,
+          "right": 0.6116262871141123,
+          "bottom": 0.6944749871940576,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "\u2022LR NOTE 2"
+            }
+          ]
+        },
+        {
+          "text": "1/4 POLY FLOM",
+          "confidence": 1.0,
+          "left": 0.23544464496231976,
+          "top": 0.6906062964124924,
+          "right": 0.2636546016260769,
+          "bottom": 0.6964821539548269,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "1/4 POLY FLOM"
+            }
+          ]
+        },
+        {
+          "text": "139-1",
+          "confidence": 0.30000001192092896,
+          "left": 0.3314578205989857,
+          "top": 0.6970819254911722,
+          "right": 0.3600868031403806,
+          "bottom": 0.7158477636178974,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "139-1"
+            }
+          ]
+        },
+        {
+          "text": "3/8-T",
+          "confidence": 0.30000001192092896,
+          "left": 0.3439444817752079,
+          "top": 0.698155418097778,
+          "right": 0.3726969369811041,
+          "bottom": 0.705685106989032,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "3/8-T"
+            }
+          ]
+        },
+        {
+          "text": "VBI",
+          "confidence": 0.30000001192092896,
+          "left": 0.36130445470445766,
+          "top": 0.7019841579147134,
+          "right": 0.3710694397034505,
+          "bottom": 0.7153781277170624,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "VBI"
+            }
+          ]
+        },
+        {
+          "text": "LFON HX",
+          "confidence": 1.0,
+          "left": 0.6332472255996804,
+          "top": 0.7165081405644427,
+          "right": 0.6494629278929844,
+          "bottom": 0.7266990239897462,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "LFON HX"
+            }
+          ]
+        },
+        {
+          "text": "55-3/8-1",
+          "confidence": 1.0,
+          "left": 0.3439444806167193,
+          "top": 0.719563744123018,
+          "right": 0.3618469537393445,
+          "bottom": 0.7304463445271997,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "55-3/8-1"
+            }
+          ]
+        },
+        {
+          "text": "HX",
+          "confidence": 1.0,
+          "left": 0.6445071184527182,
+          "top": 0.720400866867071,
+          "right": 0.648849016126689,
+          "bottom": 0.7262607289567328,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "HX"
+            }
+          ]
+        },
+        {
+          "text": "_C5-3/8-1",
+          "confidence": 1.0,
+          "left": 0.3406687082391071,
+          "top": 0.721354990714825,
+          "right": 0.3624229300280473,
+          "bottom": 0.7295259805805979,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "_C5-3/8-1"
+            }
+          ]
+        },
+        {
+          "text": "CS-3/8-1",
+          "confidence": 1.0,
+          "left": 0.5918070962337616,
+          "top": 0.7229932482686625,
+          "right": 0.6098245432263215,
+          "bottom": 0.730404800201112,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CS-3/8-1"
+            }
+          ]
+        },
+        {
+          "text": "CS 3/8%-T",
+          "confidence": 1.0,
+          "left": 0.48250124737802336,
+          "top": 0.7238977535487593,
+          "right": 0.4999181132204968,
+          "bottom": 0.7313312441814892,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CS 3/8%-T"
+            }
+          ]
+        },
+        {
+          "text": "CS-3/4",
+          "confidence": 1.0,
+          "left": 0.6134280328411847,
+          "top": 0.7239196922569006,
+          "right": 0.6284425728343156,
+          "bottom": 0.73133124418935,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CS-3/4"
+            }
+          ]
+        },
+        {
+          "text": "CS-3/8'-T",
+          "confidence": 1.0,
+          "left": 0.5449617320896097,
+          "top": 0.72391969227444,
+          "right": 0.5617780167819967,
+          "bottom": 0.7285519122322209,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CS-3/8'-T"
+            }
+          ]
+        },
+        {
+          "text": "1-SS-",
+          "confidence": 1.0,
+          "left": 0.23652964327859483,
+          "top": 0.7262607290544979,
+          "right": 0.24954962327725194,
+          "bottom": 0.7337948372489996,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "1-SS-"
+            }
+          ]
+        },
+        {
+          "text": "(H-3)",
+          "confidence": 1.0,
+          "left": 0.6602733968504005,
+          "top": 0.7266990242216306,
+          "right": 0.6692821203466806,
+          "bottom": 0.7313312441794115,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "(H-3)"
+            }
+          ]
+        },
+        {
+          "text": "20722",
+          "confidence": 1.0,
+          "left": 0.635649551889891,
+          "top": 0.7276254682134445,
+          "right": 0.648261764784683,
+          "bottom": 0.7322576881712255,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "20722"
+            }
+          ]
+        },
+        {
+          "text": "CS",
+          "confidence": 1.0,
+          "left": 0.36455944973994836,
+          "top": 0.7287720985415256,
+          "right": 0.3699844414060556,
+          "bottom": 0.7354690834427001,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CS"
+            }
+          ]
+        },
+        {
+          "text": "3/8\u00b0 CS",
+          "confidence": 1.0,
+          "left": 0.5827983723409913,
+          "top": 0.7331841321216095,
+          "right": 0.5954105852357833,
+          "bottom": 0.7388017174063733,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "3/8\u00b0 CS"
+            }
+          ]
+        },
+        {
+          "text": "FLEX HOSE",
+          "confidence": 1.0,
+          "left": 0.23652964332188722,
+          "top": 0.7345073549726657,
+          "right": 0.2620271047770625,
+          "bottom": 0.7413289455338444,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "FLEX HOSE"
+            }
+          ]
+        },
+        {
+          "text": "Y756",
+          "confidence": 1.0,
+          "left": 0.3629319523666994,
+          "top": 0.7346319604898864,
+          "right": 0.3716119390324708,
+          "bottom": 0.7404918225795482,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "Y756"
+            }
+          ]
+        },
+        {
+          "text": "V757",
+          "confidence": 1.0,
+          "left": 0.33146699993330053,
+          "top": 0.734631960567082,
+          "right": 0.34014698659907194,
+          "bottom": 0.7396546993634165,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "V757"
+            }
+          ]
+        },
+        {
+          "text": "V825",
+          "confidence": 1.0,
+          "left": 0.5839995354559658,
+          "top": 0.7387427960341488,
+          "right": 0.5930082589522458,
+          "bottom": 0.7433750159919298,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "V825"
+            }
+          ]
+        },
+        {
+          "text": "NOTE 6",
+          "confidence": 1.0,
+          "left": 0.6044193090273656,
+          "top": 0.7405699842604684,
+          "right": 0.6176321043212406,
+          "bottom": 0.7461543479540292,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "NOTE 6"
+            }
+          ]
+        },
+        {
+          "text": "CS-3/8*-1",
+          "confidence": 1.0,
+          "left": 0.34340198175752473,
+          "top": 0.7413289459725387,
+          "right": 0.36238945321337146,
+          "bottom": 0.7522115463767205,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CS-3/8*-1"
+            }
+          ]
+        },
+        {
+          "text": "CS-3/8*-T",
+          "confidence": 1.0,
+          "left": 0.34316631951446847,
+          "top": 0.7424485719817056,
+          "right": 0.3623849300561979,
+          "bottom": 0.7480072359310427,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CS-3/8*-T"
+            }
+          ]
+        },
+        {
+          "text": "NO.3-",
+          "confidence": 1.0,
+          "left": 0.23707214234501103,
+          "top": 0.7430031922482914,
+          "right": 0.252262119010111,
+          "bottom": 0.7505373004427932,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "NO.3-"
+            }
+          ]
+        },
+        {
+          "text": "CS",
+          "confidence": 0.5,
+          "left": 0.3330944973572388,
+          "top": 0.747188807757188,
+          "right": 0.3396044873565674,
+          "bottom": 0.7563971625383442,
+          "alternatives": [
+            {
+              "confidence": 0.5,
+              "text": "CS"
+            }
+          ]
+        },
+        {
+          "text": "B",
+          "confidence": 1.0,
+          "left": 0.9272732120450864,
+          "top": 0.7513744237839228,
+          "right": 0.9316151097190573,
+          "bottom": 0.7597456547899374,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "B"
+            }
+          ]
+        },
+        {
+          "text": "V841",
+          "confidence": 1.0,
+          "left": 0.3629855118915936,
+          "top": 0.7554187877458653,
+          "right": 0.3719942353878736,
+          "bottom": 0.7619038956867586,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "V841"
+            }
+          ]
+        },
+        {
+          "text": "V755",
+          "confidence": 1.0,
+          "left": 0.331154687843846,
+          "top": 0.7554187877593761,
+          "right": 0.340163411340126,
+          "bottom": 0.7619038957002693,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "V755"
+            }
+          ]
+        },
+        {
+          "text": "\u00b7755",
+          "confidence": 1.0,
+          "left": 0.330924500499481,
+          "top": 0.755560039399288,
+          "right": 0.3401469863318632,
+          "bottom": 0.7614199014889497,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "\u00b7755"
+            }
+          ]
+        },
+        {
+          "text": "\u00b7841",
+          "confidence": 1.0,
+          "left": 0.36401695061498524,
+          "top": 0.7563971626253463,
+          "right": 0.3716119389475353,
+          "bottom": 0.7605827781283536,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "\u00b7841"
+            }
+          ]
+        },
+        {
+          "text": "B",
+          "confidence": 1.0,
+          "left": 0.07811988217383721,
+          "top": 0.7563971628547238,
+          "right": 0.08245987550672293,
+          "bottom": 0.7647683938607382,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "B"
+            }
+          ]
+        },
+        {
+          "text": "NITROGEN",
+          "confidence": 1.0,
+          "left": 0.09113693953551555,
+          "top": 0.7572108816404866,
+          "right": 0.1079602593799587,
+          "bottom": 0.7622804287149516,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "NITROGEN"
+            }
+          ]
+        },
+        {
+          "text": "LR NOTE 1",
+          "confidence": 1.0,
+          "left": 0.23381714741622076,
+          "top": 0.7597456552402394,
+          "right": 0.25931460887139596,
+          "bottom": 0.7664426401414139,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "LR NOTE 1"
+            }
+          ]
+        },
+        {
+          "text": "PCV 2657",
+          "confidence": 1.0,
+          "left": 0.262364886996397,
+          "top": 0.7704752275025278,
+          "right": 0.2882410743530953,
+          "bottom": 0.8101617795753286,
+          "alternatives": []
+        },
+        {
+          "text": "PCV 2658",
+          "confidence": 1.0,
+          "left": 0.24287585981002294,
+          "top": 0.7707280080889788,
+          "right": 0.26875204716672124,
+          "bottom": 0.8104145601617796,
+          "alternatives": []
+        },
+        {
+          "text": "PCV 2659",
+          "confidence": 1.0,
+          "left": 0.21945627251883393,
+          "top": 0.7709807886754297,
+          "right": 0.24533245987553226,
+          "bottom": 0.8106673407482305,
+          "alternatives": []
+        },
+        {
+          "text": "RH",
+          "confidence": 1.0,
+          "left": 0.3656444481821497,
+          "top": 0.7723025024330921,
+          "right": 0.3694419423484247,
+          "bottom": 0.7773252412294267,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "RH"
+            }
+          ]
+        },
+        {
+          "text": "Y. BEMIN",
+          "confidence": 1.0,
+          "left": 0.6412506950894383,
+          "top": 0.7764405416680755,
+          "right": 0.6548191259453426,
+          "bottom": 0.7848593494463391,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "Y. BEMIN"
+            }
+          ]
+        },
+        {
+          "text": "TH. R\u00c9C. BEM",
+          "confidence": 1.0,
+          "left": 0.630230090476918,
+          "top": 0.7766473622166101,
+          "right": 0.6518794815031291,
+          "bottom": 0.7860710765132131,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "TH. R\u00c9C. BEM"
+            }
+          ]
+        },
+        {
+          "text": "VI24T",
+          "confidence": 0.30000001192092896,
+          "left": 0.340163411439286,
+          "top": 0.7767269993779914,
+          "right": 0.3503732984847355,
+          "bottom": 0.7878443272766655,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "VI24T"
+            }
+          ]
+        },
+        {
+          "text": "V72",
+          "confidence": 1.0,
+          "left": 0.33295643264903235,
+          "top": 0.7767269994006564,
+          "right": 0.3395628296714716,
+          "bottom": 0.7832121073415497,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "V72"
+            }
+          ]
+        },
+        {
+          "text": "V123",
+          "confidence": 1.0,
+          "left": 0.36293195239385234,
+          "top": 0.7773252414592596,
+          "right": 0.37215443822623445,
+          "bottom": 0.7840222263604341,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "V123"
+            }
+          ]
+        },
+        {
+          "text": "Oz CS",
+          "confidence": 1.0,
+          "left": 0.25931460841809933,
+          "top": 0.7789666369471665,
+          "right": 0.270707091541396,
+          "bottom": 0.7865449236762884,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "Oz CS"
+            }
+          ]
+        },
+        {
+          "text": "TH, R\u00c9G.",
+          "confidence": 1.0,
+          "left": 0.6309386878716283,
+          "top": 0.7789666371835502,
+          "right": 0.6445071187275327,
+          "bottom": 0.7857870952397599,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "TH, R\u00c9G."
+            }
+          ]
+        },
+        {
+          "text": "* CS-3/8-T",
+          "confidence": 1.0,
+          "left": 0.5876030247690545,
+          "top": 0.7812401230168458,
+          "right": 0.6098245435592093,
+          "bottom": 0.7888184097459675,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "* CS-3/8-T"
+            }
+          ]
+        },
+        {
+          "text": "CS-3/4",
+          "confidence": 1.0,
+          "left": 0.6128274516316403,
+          "top": 0.7822856633319538,
+          "right": 0.6254396645264323,
+          "bottom": 0.7915501032475156,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CS-3/4"
+            }
+          ]
+        },
+        {
+          "text": "CS-3/8'-T",
+          "confidence": 1.0,
+          "left": 0.5359530085207137,
+          "top": 0.7832121073417379,
+          "right": 0.5533698743631872,
+          "bottom": 0.789697215282631,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CS-3/8'-T"
+            }
+          ]
+        },
+        {
+          "text": "-LR N",
+          "confidence": 1.0,
+          "left": 0.3602194569054727,
+          "top": 0.7847766568149048,
+          "right": 0.3726969371130474,
+          "bottom": 0.7923934578674506,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "-LR N"
+            }
+          ]
+        },
+        {
+          "text": "174\u00b0T",
+          "confidence": 1.0,
+          "left": 0.3227870128362512,
+          "top": 0.7848593498519811,
+          "right": 0.33146699950202263,
+          "bottom": 0.7898820886483158,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "174\u00b0T"
+            }
+          ]
+        },
+        {
+          "text": "- LR NOTE 2",
+          "confidence": 1.0,
+          "left": 0.3599826042552285,
+          "top": 0.7850292663577895,
+          "right": 0.3870087747440685,
+          "bottom": 0.7924765472440707,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "- LR NOTE 2"
+            }
+          ]
+        },
+        {
+          "text": "10-12)",
+          "confidence": 1.0,
+          "left": 0.6614745600778484,
+          "top": 0.7869178832295662,
+          "right": 0.6716844464987997,
+          "bottom": 0.7924765471789033,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "10-12)"
+            }
+          ]
+        },
+        {
+          "text": "20727",
+          "confidence": 1.0,
+          "left": 0.6374512962147132,
+          "top": 0.7869178832836088,
+          "right": 0.6488623468093321,
+          "bottom": 0.7924765472329459,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "20727"
+            }
+          ]
+        },
+        {
+          "text": "3/8 cS",
+          "confidence": 0.5,
+          "left": 0.5852006988974671,
+          "top": 0.7895762385302053,
+          "right": 0.5984134929423456,
+          "bottom": 0.7980352108465362,
+          "alternatives": [
+            {
+              "confidence": 0.5,
+              "text": "3/8 cS"
+            }
+          ]
+        },
+        {
+          "text": "Vi248",
+          "confidence": 1.0,
+          "left": 0.23869963963384586,
+          "top": 0.7974161969816472,
+          "right": 0.25009212275714254,
+          "bottom": 0.8091359211609708,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "Vi248"
+            }
+          ]
+        },
+        {
+          "text": "\u00b7758",
+          "confidence": 1.0,
+          "left": 0.5870024433848806,
+          "top": 0.7980352111135378,
+          "right": 0.5960111668811606,
+          "bottom": 0.8026674310713188,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "\u00b7758"
+            }
+          ]
+        },
+        {
+          "text": "NOTE 6",
+          "confidence": 1.0,
+          "left": 0.605019890609812,
+          "top": 0.8006910590729667,
+          "right": 0.618232685903687,
+          "bottom": 0.8063732070181651,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "NOTE 6"
+            }
+          ]
+        },
+        {
+          "text": "CS-3/8*-T",
+          "confidence": 1.0,
+          "left": 0.3755977251512732,
+          "top": 0.8017409870580091,
+          "right": 0.3948163356930026,
+          "bottom": 0.8072996510073461,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CS-3/8*-T"
+            }
+          ]
+        },
+        {
+          "text": "HOSE",
+          "confidence": 1.0,
+          "left": 0.26202710451309774,
+          "top": 0.8032760592825013,
+          "right": 0.26962209284564775,
+          "bottom": 0.8099730441836759,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "HOSE"
+            }
+          ]
+        },
+        {
+          "text": "CS",
+          "confidence": 1.0,
+          "left": 0.30271454322685576,
+          "top": 0.8074616749548581,
+          "right": 0.3086820340595736,
+          "bottom": 0.8141586598560325,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CS"
+            }
+          ]
+        },
+        {
+          "text": "CS",
+          "confidence": 1.0,
+          "left": 0.2755895841453256,
+          "top": 0.8082987979440345,
+          "right": 0.28155707497804344,
+          "bottom": 0.8141586600336962,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CS"
+            }
+          ]
+        },
+        {
+          "text": "X1249",
+          "confidence": 0.30000001192092896,
+          "left": 0.29674705184167827,
+          "top": 0.8082987981514872,
+          "right": 0.31139452996463923,
+          "bottom": 0.8183442757441562,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "X1249"
+            }
+          ]
+        },
+        {
+          "text": "V1258",
+          "confidence": 1.0,
+          "left": 0.273419587425565,
+          "top": 0.8124844138470727,
+          "right": 0.28426957075777926,
+          "bottom": 0.8191813987482472,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "V1258"
+            }
+          ]
+        },
+        {
+          "text": "V1182",
+          "confidence": 1.0,
+          "left": 0.33146699970367055,
+          "top": 0.8158329063967631,
+          "right": 0.34068948553605266,
+          "bottom": 0.8216927684864249,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "V1182"
+            }
+          ]
+        },
+        {
+          "text": "CS-3/8'-T",
+          "confidence": 1.0,
+          "left": 0.34502947981949705,
+          "top": 0.8233670147174067,
+          "right": 0.3618469533599575,
+          "bottom": 0.8283897535137413,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CS-3/8'-T"
+            }
+          ]
+        },
+        {
+          "text": "PRIMARY",
+          "confidence": 1.0,
+          "left": 0.23648717415947346,
+          "top": 0.8305529309363505,
+          "right": 0.2642395704227827,
+          "bottom": 0.839620546740065,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "PRIMARY"
+            }
+          ]
+        },
+        {
+          "text": "SM.\u0423E-L M",
+          "confidence": 0.30000001192092896,
+          "left": 0.34065664488155883,
+          "top": 0.8328214142419794,
+          "right": 0.37494591340160394,
+          "bottom": 0.866280848352026,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "SM.\u0423E-L M"
+            }
+          ]
+        },
+        {
+          "text": "1-1/2-T 1-V399",
+          "confidence": 1.0,
+          "left": 0.5548640681297085,
+          "top": 0.8359453993933266,
+          "right": 0.5725515886013757,
+          "bottom": 0.8634984833164813,
+          "alternatives": []
+        },
+        {
+          "text": "\u00b7759",
+          "confidence": 1.0,
+          "left": 0.3320094990782672,
+          "top": 0.8375981084390433,
+          "right": 0.34068948574403857,
+          "bottom": 0.8417837239420506,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "\u00b7759"
+            }
+          ]
+        },
+        {
+          "text": "V842",
+          "confidence": 1.0,
+          "left": 0.36298551189451306,
+          "top": 0.8378723024749765,
+          "right": 0.371994235390793,
+          "bottom": 0.8434309664243136,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "V842"
+            }
+          ]
+        },
+        {
+          "text": "SAMPLE SINK",
+          "confidence": 1.0,
+          "left": 0.22893465445590208,
+          "top": 0.8417837240056332,
+          "right": 0.272877088824785,
+          "bottom": 0.8509920787867894,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "SAMPLE SINK"
+            }
+          ]
+        },
+        {
+          "text": "ORIGINAL ISSUE",
+          "confidence": 1.0,
+          "left": 0.8322941981689802,
+          "top": 0.8426208474012564,
+          "right": 0.8588883207973055,
+          "bottom": 0.8476764367916333,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "ORIGINAL ISSUE"
+            }
+          ]
+        },
+        {
+          "text": "1/2 OM-Y408",
+          "confidence": 1.0,
+          "left": 0.5244022273173927,
+          "top": 0.8440343781597573,
+          "right": 0.5373403209957419,
+          "bottom": 0.8640040444893832,
+          "alternatives": []
+        },
+        {
+          "text": "OM-3/8'-1",
+          "confidence": 1.0,
+          "left": 0.4806995028525363,
+          "top": 0.844357410393789,
+          "right": 0.49871694984509624,
+          "bottom": 0.8499160743431261,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "OM-3/8'-1"
+            }
+          ]
+        },
+        {
+          "text": "DM-3/8*-T",
+          "confidence": 1.0,
+          "left": 0.3437669011035057,
+          "top": 0.8452838543852017,
+          "right": 0.3629855116452352,
+          "bottom": 0.8499160743429827,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "DM-3/8*-T"
+            }
+          ]
+        },
+        {
+          "text": "Do4-",
+          "confidence": 0.30000001192092896,
+          "left": 0.33295643237333694,
+          "top": 0.8480631862949196,
+          "right": 0.3413645747195304,
+          "bottom": 0.8554747382273691,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "Do4-"
+            }
+          ]
+        },
+        {
+          "text": "OSGN",
+          "confidence": 1.0,
+          "left": 0.7894179574163219,
+          "top": 0.8509920787343489,
+          "right": 0.7997299643920025,
+          "bottom": 0.8568519408240106,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "OSGN"
+            }
+          ]
+        },
+        {
+          "text": "DATE",
+          "confidence": 1.0,
+          "left": 0.7731358406740882,
+          "top": 0.8509920787413249,
+          "right": 0.7829051104405225,
+          "bottom": 0.8568519408309866,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "DATE"
+            }
+          ]
+        },
+        {
+          "text": "REV",
+          "confidence": 1.0,
+          "left": 0.7590246727047562,
+          "top": 0.8509920788631804,
+          "right": 0.766622993634205,
+          "bottom": 0.8576890637643548,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "REV"
+            }
+          ]
+        },
+        {
+          "text": "DESCRIPTION",
+          "confidence": 1.0,
+          "left": 0.8637729573400694,
+          "top": 0.8509920788966653,
+          "right": 0.8854824457099234,
+          "bottom": 0.8576890637978398,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "DESCRIPTION"
+            }
+          ]
+        },
+        {
+          "text": "CE",
+          "confidence": 1.0,
+          "left": 0.8198112418126801,
+          "top": 0.8509920789050364,
+          "right": 0.8246958766958972,
+          "bottom": 0.8576890638062109,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CE"
+            }
+          ]
+        },
+        {
+          "text": "CHKD",
+          "confidence": 1.0,
+          "left": 0.8040718624840355,
+          "top": 0.8509920789050366,
+          "right": 0.8143838694597162,
+          "bottom": 0.857689063806211,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CHKD"
+            }
+          ]
+        },
+        {
+          "text": "DM-V399",
+          "confidence": 1.0,
+          "left": 0.5515681295346522,
+          "top": 0.8517689622659086,
+          "right": 0.5683844142270391,
+          "bottom": 0.8591805141983581,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "DM-V399"
+            }
+          ]
+        },
+        {
+          "text": "\u041e\u043c-3/4",
+          "confidence": 1.0,
+          "left": 0.5803960458090578,
+          "top": 0.8526954062559097,
+          "right": 0.5942094222530192,
+          "bottom": 0.8591805141968029,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "\u041e\u043c-3/4"
+            }
+          ]
+        },
+        {
+          "text": "DM",
+          "confidence": 1.0,
+          "left": 0.3385194890437131,
+          "top": 0.8551776946443498,
+          "right": 0.3434019815432095,
+          "bottom": 0.8602004334406844,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "DM"
+            }
+          ]
+        },
+        {
+          "text": "\u043e\u0456\u04420 \u0434 \u043e\u043d\u043e",
+          "confidence": 0.30000001192092896,
+          "left": 0.5231954896452324,
+          "top": 0.8563474077971818,
+          "right": 0.5650415390480632,
+          "bottom": 0.8786377343684705,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "\u043e\u0456\u04420 \u0434 \u043e\u043d\u043e"
+            }
+          ]
+        },
+        {
+          "text": "MM-13B",
+          "confidence": 1.0,
+          "left": 0.23381714718903804,
+          "top": 0.8576890643123212,
+          "right": 0.25768711051990945,
+          "bottom": 0.8660602953183356,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "MM-13B"
+            }
+          ]
+        },
+        {
+          "text": "\u00b7494",
+          "confidence": 1.0,
+          "left": 0.3371605034913346,
+          "top": 0.8591805141278374,
+          "right": 0.345568645837528,
+          "bottom": 0.8647391780771745,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "\u00b7494"
+            }
+          ]
+        },
+        {
+          "text": "VI6",
+          "confidence": 1.0,
+          "left": 0.36538783807847797,
+          "top": 0.859180514139418,
+          "right": 0.37139365395083074,
+          "bottom": 0.864739178088755,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "VI6"
+            }
+          ]
+        },
+        {
+          "text": "NEXTera ENERGY\u00ae",
+          "confidence": 1.0,
+          "left": 0.7991872291755409,
+          "top": 0.8592964763016072,
+          "right": 0.880055072728501,
+          "bottom": 0.8711691255105647,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "NEXTera ENERGY\u00ae"
+            }
+          ]
+        },
+        {
+          "text": "VIS",
+          "confidence": 1.0,
+          "left": 0.36564444819085123,
+          "top": 0.8593633102915929,
+          "right": 0.3716119390235691,
+          "bottom": 0.8643860490879274,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "VIS"
+            }
+          ]
+        },
+        {
+          "text": "A",
+          "confidence": 1.0,
+          "left": 0.0786623812898706,
+          "top": 0.8593633103302124,
+          "right": 0.08300237462275632,
+          "bottom": 0.8668974185247142,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "A"
+            }
+          ]
+        },
+        {
+          "text": "OUTLEr +",
+          "confidence": 0.5,
+          "left": 0.3005250271144162,
+          "top": 0.8600543048850008,
+          "right": 0.3203442188062322,
+          "bottom": 0.8731900018821454,
+          "alternatives": [
+            {
+              "confidence": 0.5,
+              "text": "OUTLEr +"
+            }
+          ]
+        },
+        {
+          "text": "V49/",
+          "confidence": 1.0,
+          "left": 0.3368919915604062,
+          "top": 0.8602004335823142,
+          "right": 0.34448697989295624,
+          "bottom": 0.8643860490853216,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "V49/"
+            }
+          ]
+        },
+        {
+          "text": "HOSE",
+          "confidence": 1.0,
+          "left": 0.3037995416122625,
+          "top": 0.8618746798004843,
+          "right": 0.31139452994481254,
+          "bottom": 0.8668974185968188,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "HOSE"
+            }
+          ]
+        },
+        {
+          "text": "OUTLET",
+          "confidence": 1.0,
+          "left": 0.30162954459654095,
+          "top": 0.8660602956430693,
+          "right": 0.31410702605305907,
+          "bottom": 0.8727572805442438,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "OUTLET"
+            }
+          ]
+        },
+        {
+          "text": "SUID SEABROOK IPLE SYSTE Y SAMPLE F CP-166A E RENEWAL",
+          "confidence": 0.30000001192092896,
+          "left": 0.8450704225352113,
+          "top": 0.8675429726996967,
+          "right": 0.8824107435309532,
+          "bottom": 0.9249241658240647,
+          "alternatives": []
+        },
+        {
+          "text": "SEABROOK",
+          "confidence": 1.0,
+          "left": 0.8599737967228748,
+          "top": 0.87192015755655,
+          "right": 0.8795123362557433,
+          "bottom": 0.8777800196462118,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "SEABROOK"
+            }
+          ]
+        },
+        {
+          "text": "OM-3/8*-T",
+          "confidence": 1.0,
+          "left": 0.3461144777868485,
+          "top": 0.873594403961184,
+          "right": 0.3634744511183914,
+          "bottom": 0.8786171427575187,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "OM-3/8*-T"
+            }
+          ]
+        },
+        {
+          "text": "X1/2 0M-v435",
+          "confidence": 1.0,
+          "left": 0.5197373062105672,
+          "top": 0.8786358379407424,
+          "right": 0.5479646389995804,
+          "bottom": 0.8906796093491582,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "X1/2 0M-v435"
+            }
+          ]
+        },
+        {
+          "text": "SAMPLE SYSTEM",
+          "confidence": 1.0,
+          "left": 0.8328369343777695,
+          "top": 0.881965635508196,
+          "right": 0.8871106578013872,
+          "bottom": 0.8911739902893522,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "SAMPLE SYSTEM"
+            }
+          ]
+        },
+        {
+          "text": "AMPLE SYS \u041eM-378*-T 20521",
+          "confidence": 1.0,
+          "left": 0.5424172944644612,
+          "top": 0.8842264914054601,
+          "right": 0.5620700949885359,
+          "bottom": 0.9148129423660263,
+          "alternatives": []
+        },
+        {
+          "text": "-LR NOTE 3",
+          "confidence": 1.0,
+          "left": 0.20723468659245622,
+          "top": 0.8844770051251988,
+          "right": 0.2343596461719353,
+          "bottom": 0.8911739900263733,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "-LR NOTE 3"
+            }
+          ]
+        },
+        {
+          "text": "T 344",
+          "confidence": 1.0,
+          "left": 0.26853709477182885,
+          "top": 0.8860730895503787,
+          "right": 0.2788445789374324,
+          "bottom": 0.8911739899803447,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "T 344"
+            }
+          ]
+        },
+        {
+          "text": "11/2",
+          "confidence": 1.0,
+          "left": 0.249007124148831,
+          "top": 0.889499743921131,
+          "right": 0.25877210914782384,
+          "bottom": 0.8945224827174656,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "11/2"
+            }
+          ]
+        },
+        {
+          "text": "P TYPE",
+          "confidence": 1.0,
+          "left": 0.2674520966638286,
+          "top": 0.8928482364489708,
+          "right": 0.28155707499570715,
+          "bottom": 0.8979457386413079,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "P TYPE"
+            }
+          ]
+        },
+        {
+          "text": "PRIMARY SAMPLE PANEL",
+          "confidence": 1.0,
+          "left": 0.8192685066862786,
+          "top": 0.8928482366582781,
+          "right": 0.9001363502392388,
+          "bottom": 0.901229662858994,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "PRIMARY SAMPLE PANEL"
+            }
+          ]
+        },
+        {
+          "text": "SS-MM-156",
+          "confidence": 1.0,
+          "left": 0.21482967562515248,
+          "top": 0.8928482368580439,
+          "right": 0.23598714374744204,
+          "bottom": 0.9037308372622257,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "SS-MM-156"
+            }
+          ]
+        },
+        {
+          "text": "PCV 1661",
+          "confidence": 1.0,
+          "left": 0.8429413691451032,
+          "top": 0.8940849342770475,
+          "right": 0.8702915165411071,
+          "bottom": 0.9362992922143579,
+          "alternatives": []
+        },
+        {
+          "text": "](8-5)",
+          "confidence": 1.0,
+          "left": 0.24195463468769962,
+          "top": 0.8978709753442273,
+          "right": 0.25443211614421773,
+          "bottom": 0.9054050835387291,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "](8-5)"
+            }
+          ]
+        },
+        {
+          "text": "TRAP",
+          "confidence": 1.0,
+          "left": 0.2669095970855429,
+          "top": 0.8978709754360593,
+          "right": 0.27667458208453577,
+          "bottom": 0.9028937142323938,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "TRAP"
+            }
+          ]
+        },
+        {
+          "text": "I8-5) WASTE PR LIOUID DI _2022",
+          "confidence": 1.0,
+          "left": 0.5578119882083197,
+          "top": 0.897876643073812,
+          "right": 0.5799213887979037,
+          "bottom": 0.9320020222446916,
+          "alternatives": []
+        },
+        {
+          "text": "L3/8 T 28521",
+          "confidence": 1.0,
+          "left": 0.5216138881588072,
+          "top": 0.8980209396643593,
+          "right": 0.558595121708153,
+          "bottom": 0.9143361613461443,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "L3/8 T 28521"
+            }
+          ]
+        },
+        {
+          "text": "20518",
+          "confidence": 1.0,
+          "left": 0.22296716348461865,
+          "top": 0.8995452215913916,
+          "right": 0.23652964327435813,
+          "bottom": 0.9054050836810533,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "20518"
+            }
+          ]
+        },
+        {
+          "text": "ELR NOTE 3",
+          "confidence": 0.5,
+          "left": 0.32100632345804014,
+          "top": 0.9008971747054526,
+          "right": 0.3609757583236385,
+          "bottom": 0.9297443451322616,
+          "alternatives": [
+            {
+              "confidence": 0.5,
+              "text": "ELR NOTE 3"
+            }
+          ]
+        },
+        {
+          "text": "D B-5",
+          "confidence": 0.30000001192092896,
+          "left": 0.5611493324531823,
+          "top": 0.9034979649588014,
+          "right": 0.5798235666811549,
+          "bottom": 0.91213968132201,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "D B-5"
+            }
+          ]
+        },
+        {
+          "text": "CP-166A",
+          "confidence": 1.0,
+          "left": 0.8469313518985391,
+          "top": 0.9036023420423281,
+          "right": 0.8735589783894523,
+          "bottom": 0.912230564226992,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "CP-166A"
+            }
+          ]
+        },
+        {
+          "text": "VB2",
+          "confidence": 1.0,
+          "left": 0.25551711443709185,
+          "top": 0.9054050838678599,
+          "right": 0.2620271044364204,
+          "bottom": 0.9104278226641944,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "VB2"
+            }
+          ]
+        },
+        {
+          "text": "NG PRESS. V774",
+          "confidence": 1.0,
+          "left": 0.2926629544710121,
+          "top": 0.909757330637007,
+          "right": 0.30871274156567313,
+          "bottom": 0.9347826086956522,
+          "alternatives": []
+        },
+        {
+          "text": "\u2022LR NOTE 3",
+          "confidence": 1.0,
+          "left": 0.3325519977450469,
+          "top": 0.9103236069311605,
+          "right": 0.35804945920022213,
+          "bottom": 0.916386236314458,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "\u2022LR NOTE 3"
+            }
+          ]
+        },
+        {
+          "text": "IG PRESS.",
+          "confidence": 1.0,
+          "left": 0.29331804783285276,
+          "top": 0.9128497026607689,
+          "right": 0.30893316897607015,
+          "bottom": 0.9194175511593413,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "IG PRESS."
+            }
+          ]
+        },
+        {
+          "text": "P&ID",
+          "confidence": 1.0,
+          "left": 0.8843969716894761,
+          "top": 0.9129391921787807,
+          "right": 0.9006790879668666,
+          "bottom": 0.9229846697714498,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "P&ID"
+            }
+          ]
+        },
+        {
+          "text": "LICENSE RENEWAL",
+          "confidence": 1.0,
+          "left": 0.8198112428865643,
+          "top": 0.9137763150877328,
+          "right": 0.8805978103221553,
+          "bottom": 0.922984669868889,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "LICENSE RENEWAL"
+            }
+          ]
+        },
+        {
+          "text": "LOW CRACKING PRESS.",
+          "confidence": 1.0,
+          "left": 0.27016459223895345,
+          "top": 0.9137763152742007,
+          "right": 0.3092245322349248,
+          "bottom": 0.919670160703781,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "LOW CRACKING PRESS."
+            }
+          ]
+        },
+        {
+          "text": "MASUTO ORENE",
+          "confidence": 0.30000001192092896,
+          "left": 0.561177434590798,
+          "top": 0.9138407092453275,
+          "right": 0.5894047698778039,
+          "bottom": 0.9268109251271139,
+          "alternatives": [
+            {
+              "confidence": 0.30000001192092896,
+              "text": "MASUTO ORENE"
+            }
+          ]
+        },
+        {
+          "text": "Y774",
+          "confidence": 1.0,
+          "left": 0.2957203740888453,
+          "top": 0.9193993732135903,
+          "right": 0.3059302611342947,
+          "bottom": 0.9249580371629275,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "Y774"
+            }
+          ]
+        },
+        {
+          "text": "11/2",
+          "confidence": 1.0,
+          "left": 0.5341512638670293,
+          "top": 0.9193993732182225,
+          "right": 0.5449617320625653,
+          "bottom": 0.9249580371675595,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "11/2"
+            }
+          ]
+        },
+        {
+          "text": "\u00b7774",
+          "confidence": 1.0,
+          "left": 0.2962045531375112,
+          "top": 0.9196361773413883,
+          "right": 0.30542703896989337,
+          "bottom": 0.9246589161377228,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "\u00b7774"
+            }
+          ]
+        },
+        {
+          "text": "11/2*",
+          "confidence": 1.0,
+          "left": 0.35262446804640846,
+          "top": 0.9221475467861004,
+          "right": 0.3629319522120121,
+          "bottom": 0.9271702855824349,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "11/2*"
+            }
+          ]
+        },
+        {
+          "text": "20222",
+          "confidence": 1.0,
+          "left": 0.5707867404670784,
+          "top": 0.9240315931346329,
+          "right": 0.5864018616102958,
+          "bottom": 0.9305167010755262,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "20222"
+            }
+          ]
+        },
+        {
+          "text": "N",
+          "confidence": 1.0,
+          "left": 0.2969215374046515,
+          "top": 0.9240315933132035,
+          "right": 0.30412851620167547,
+          "bottom": 0.9323695887553947,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "N"
+            }
+          ]
+        },
+        {
+          "text": "18-41",
+          "confidence": 1.0,
+          "left": 0.5966117485395597,
+          "top": 0.9249580371366666,
+          "right": 0.605019890885753,
+          "bottom": 0.9295902570944475,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "18-41"
+            }
+          ]
+        },
+        {
+          "text": "PID-1-SS-LR20519",
+          "confidence": 1.0,
+          "left": 0.8024074718597208,
+          "top": 0.9258072774028395,
+          "right": 0.8801998022695509,
+          "bottom": 0.9401671590310531,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "PID-1-SS-LR20519"
+            }
+          ]
+        },
+        {
+          "text": "SEABROOK STATION",
+          "confidence": 1.0,
+          "left": 0.764994782509398,
+          "top": 0.9280062761243925,
+          "right": 0.7926743808057075,
+          "bottom": 0.9330584672771404,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "SEABROOK STATION"
+            }
+          ]
+        },
+        {
+          "text": "SAMPLE SYSTEM PRIMARY",
+          "confidence": 1.0,
+          "left": 0.6620751418307039,
+          "top": 0.9286638130761857,
+          "right": 0.7059175970119307,
+          "bottom": 0.9343215149584747,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "SAMPLE SYSTEM PRIMARY"
+            }
+          ]
+        },
+        {
+          "text": "SAMPLE SYSTEMPRIMARY SAMPLE SYSTEM CP-166A",
+          "confidence": 1.0,
+          "left": 0.6624174512883001,
+          "top": 0.9287641047573333,
+          "right": 0.7508836120222349,
+          "bottom": 0.935584562813543,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "SAMPLE SYSTEMPRIMARY SAMPLE SYSTEM CP-166A"
+            }
+          ]
+        },
+        {
+          "text": "28519",
+          "confidence": 1.0,
+          "left": 0.6265967902783269,
+          "top": 0.9288445321236248,
+          "right": 0.637451534463254,
+          "bottom": 0.9355415170247994,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "28519"
+            }
+          ]
+        },
+        {
+          "text": "PIO-1-SS-B28519",
+          "confidence": 1.0,
+          "left": 0.6092239615360141,
+          "top": 0.929590257076174,
+          "right": 0.6374512968230198,
+          "bottom": 0.934222477033955,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "PIO-1-SS-B28519"
+            }
+          ]
+        },
+        {
+          "text": "10",
+          "confidence": 1.0,
+          "left": 0.6542763884861014,
+          "top": 0.9296816552619604,
+          "right": 0.6586182861600721,
+          "bottom": 0.9338672707649678,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "10"
+            }
+          ]
+        },
+        {
+          "text": "TO SUMP A",
+          "confidence": 1.0,
+          "left": 0.5707775468817019,
+          "top": 0.9322905001407691,
+          "right": 0.5906151262979723,
+          "bottom": 0.9380073418613581,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "TO SUMP A"
+            }
+          ]
+        },
+        {
+          "text": "P",
+          "confidence": 1.0,
+          "left": 0.3661869472814281,
+          "top": 0.933867270919557,
+          "right": 0.3694419422810924,
+          "bottom": 0.9388900097158915,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "P"
+            }
+          ]
+        },
+        {
+          "text": "TI",
+          "confidence": 1.0,
+          "left": 0.7011129445788393,
+          "top": 0.9370018088932565,
+          "right": 0.7059175972142717,
+          "bottom": 0.9425604728425935,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "TI"
+            }
+          ]
+        },
+        {
+          "text": "NING NO.",
+          "confidence": 1.0,
+          "left": 0.6265967900982721,
+          "top": 0.9371002202925156,
+          "right": 0.6423361697911618,
+          "bottom": 0.945688945252187,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "NING NO."
+            }
+          ]
+        },
+        {
+          "text": "TITLE",
+          "confidence": 1.0,
+          "left": 0.7020372643631119,
+          "top": 0.9372157635604085,
+          "right": 0.7112637969202997,
+          "bottom": 0.942238502356743,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "TITLE"
+            }
+          ]
+        },
+        {
+          "text": "REF, DRAWING NO.",
+          "confidence": 1.0,
+          "left": 0.6122268694927241,
+          "top": 0.9378580487161785,
+          "right": 0.6422559494789859,
+          "bottom": 0.9434869168918649,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "REF, DRAWING NO."
+            }
+          ]
+        },
+        {
+          "text": "REV",
+          "confidence": 1.0,
+          "left": 0.6518652544055477,
+          "top": 0.9379282529281457,
+          "right": 0.658471652052485,
+          "bottom": 0.9425604728859267,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "REV"
+            }
+          ]
+        },
+        {
+          "text": "3",
+          "confidence": 1.0,
+          "left": 0.7351442348358882,
+          "top": 0.9480983643791637,
+          "right": 0.7400288697191053,
+          "bottom": 0.95730671916032,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "3"
+            }
+          ]
+        },
+        {
+          "text": "1",
+          "confidence": 1.0,
+          "left": 0.8681148546245188,
+          "top": 0.9480983645175102,
+          "right": 0.8702858034615042,
+          "bottom": 0.955632472712012,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "1"
+            }
+          ]
+        },
+        {
+          "text": "2",
+          "confidence": 1.0,
+          "left": 0.80135817613464,
+          "top": 0.9480983646986617,
+          "right": 0.8057000738086108,
+          "bottom": 0.9564695957046762,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "2"
+            }
+          ]
+        },
+        {
+          "text": "5",
+          "confidence": 1.0,
+          "left": 0.6026175645898217,
+          "top": 0.9481191366850797,
+          "right": 0.6068216354506694,
+          "bottom": 0.9573835766006414,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "5"
+            }
+          ]
+        },
+        {
+          "text": "4",
+          "confidence": 1.0,
+          "left": 0.6692821205500055,
+          "top": 0.9490455806912054,
+          "right": 0.6728856099485175,
+          "bottom": 0.9555306886320986,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "4"
+            }
+          ]
+        },
+        {
+          "text": "7",
+          "confidence": 1.0,
+          "left": 0.4716907788214089,
+          "top": 0.9490455806951648,
+          "right": 0.47529426821992093,
+          "bottom": 0.9564571326276142,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "7"
+            }
+          ]
+        },
+        {
+          "text": "8",
+          "confidence": 1.0,
+          "left": 0.4044256412814479,
+          "top": 0.9499720249093969,
+          "right": 0.4086297121422956,
+          "bottom": 0.9583100203515881,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "8"
+            }
+          ]
+        },
+        {
+          "text": "10",
+          "confidence": 1.0,
+          "left": 0.26962209308131596,
+          "top": 0.9506097339665356,
+          "right": 0.2777595805804767,
+          "bottom": 0.9598180887476918,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "10"
+            }
+          ]
+        },
+        {
+          "text": "9",
+          "confidence": 1.0,
+          "left": 0.33851948912867663,
+          "top": 0.9506097340284944,
+          "right": 0.34285948246156234,
+          "bottom": 0.9581438422229962,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "9"
+            }
+          ]
+        },
+        {
+          "text": "12",
+          "confidence": 1.0,
+          "left": 0.13779479208448087,
+          "top": 0.9514468570473826,
+          "right": 0.14538978041703085,
+          "bottom": 0.9606552118285389,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "12"
+            }
+          ]
+        },
+        {
+          "text": "11",
+          "confidence": 1.0,
+          "left": 0.2039796921433745,
+          "top": 0.9522839804179829,
+          "right": 0.2099471829760923,
+          "bottom": 0.9598180886124846,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "11"
+            }
+          ]
+        },
+        {
+          "text": "05/17/10",
+          "confidence": 1.0,
+          "left": 0.08624282848121248,
+          "top": 0.9571984621887032,
+          "right": 0.1068868797080704,
+          "bottom": 0.9641119615146675,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "text": "05/17/10"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

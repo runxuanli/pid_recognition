@@ -1,0 +1,125 @@
+{
+  "documents": [
+    {
+      "document_id": 1,
+      "answers": {
+        "pid": "PID-1-SS_LR20519",
+        "valves": [
+          "V76",
+          "V760",
+          "V57",
+          "V68",
+          "V841",
+          "V123",
+          "V1182",
+          "V848",
+          "V842",
+          "V399"
+        ],
+        "flexible_hoses": [
+          "1-SS-FLEX HOSE NO. 3"
+        ],
+        "tubing_sizes": [
+          "3/8-T"
+        ],
+        "gas_cylinders": [
+          "NITROGEN"
+        ],
+        "sample_panels": [
+          "PRIMARY SAMPLE PANEL CP-166A"
+        ],
+        "continuation_connections (hexagon)": [
+          "3",
+          "6",
+          "7",
+          "5",
+          "10",
+          "12",
+          "11",
+          "9",
+          "8"
+        ],
+        "system_boundary_interfaces": [
+          "SS",
+          "DM",
+          "CS"
+        ]
+      }
+    },
+    {
+      "document_id": 2,
+      "answers": {
+        "pid": "PID-1-SS_LR20521",
+        "valves": [
+          "V8073",
+          "V791",
+          "V8084",
+          "V768",
+          "V769",
+          "V26"
+        ],
+        "pressure_control_valves (U-bend_pipe)": [
+          "PCV2816",
+          "PCV2817",
+          "PCV2818",
+          "PCV2819"
+        ],
+        "filters": [
+          "F-121",
+          "F-177",
+          "F-11"
+        ],
+        "continuation_connections (hexagon)": [
+          "5",
+          "10",
+          "6",
+          "12",
+          "9",
+          "8"
+        ],
+        "system_boundary_interfaces": [
+          "SS",
+          "DM"
+        ],
+        "instrument_bubbles": [
+          "PCV"
+        ]
+      }
+    },
+    {
+      "document_id": 3,
+      "answers": {
+        "valves": [
+          "V231",
+          "V232",
+          "V230",
+          "V243",
+          "V523",
+          "V524",
+          "V525",
+          "V526",
+          "V527",
+          "V528",
+          "V542",
+          "V521"
+        ],
+        "vacuum_pumps": [
+          "P-414",
+          "P-418",
+          "P-410"
+        ],
+        "continuation_connections (hexagon)": [
+          "3",
+          "5",
+          "12",
+          "10",
+          "11",
+          "4",
+          "6",
+          "9",
+          "8"
+        ]
+      }
+    }
+  ]
+}

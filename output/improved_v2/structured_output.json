@@ -1,0 +1,305 @@
+{
+  "documents": [
+    {
+      "document_id": 1,
+      "answers": {
+        "pid": "PID-1-SS_LR20519",
+        "valves": [
+          "V827",
+          "V760",
+          "V832",
+          "V83",
+          "V834",
+          "V995",
+          "V956",
+          "V57",
+          "V113",
+          "V0159",
+          "V1181",
+          "V835",
+          "V757",
+          "V825",
+          "V841",
+          "V755",
+          "V72",
+          "V123",
+          "V1258",
+          "V1182",
+          "V842",
+          "V399",
+          "V49",
+          "V435"
+        ],
+        "pressure_control_valves (U-bend_pipe)": [
+          "PCV2847",
+          "PCV2848"
+        ],
+        "compound_gauge": [
+          "PI2888"
+        ],
+        "pressure_indicators": [
+          "PI2889",
+          "PI2888",
+          "PI2793",
+          "PI2851",
+          "PI2853",
+          "PI2856",
+          "PI2815",
+          "PI2854",
+          "PI2657",
+          "PI4399",
+          "PI1661",
+          "PI280",
+          "PI833",
+          "PI192",
+          "PI174"
+        ],
+        "temperature_indicators": [
+          "TI2850",
+          "TI2852",
+          "TI166"
+        ],
+        "vacuum_pumps": [
+          "P-392"
+        ],
+        "filters": [
+          "F-193",
+          "F-192"
+        ],
+        "flexible_hoses": [
+          "1-SS-FLEX HOSE NO. 4",
+          "1-SS-FLEX HOSE NO. 3"
+        ],
+        "tubing_sizes": [
+          "1/4-T",
+          "3/8-T"
+        ],
+        "gas_cylinders": [
+          "NITROGEN"
+        ],
+        "sample_panels": [
+          "PRIMARY SAMPLE PANEL CP-166A"
+        ],
+        "sample_sinks": [
+          "PRIMARY SAMPLE SINK MM-13B"
+        ],
+        "system_boundary_interfaces": [
+          "SS",
+          "DM",
+          "CS"
+        ],
+        "instrument_bubbles": [
+          "PI",
+          "TI",
+          "PCV"
+        ]
+      }
+    },
+    {
+      "document_id": 2,
+      "answers": {
+        "pid": "PID-1-SS_LR20521",
+        "valves": [
+          "V8070",
+          "V8071",
+          "V8077",
+          "V956",
+          "V8076",
+          "V8078",
+          "V145",
+          "V8079",
+          "V8879",
+          "V83",
+          "V803",
+          "V8082",
+          "V8081",
+          "V8083",
+          "V8884",
+          "V8084",
+          "V842",
+          "V8886",
+          "V133",
+          "V16",
+          "V142",
+          "V8088",
+          "V79",
+          "V84",
+          "V768",
+          "V808",
+          "V818",
+          "V1883",
+          "V811",
+          "V90",
+          "V132",
+          "V139",
+          "V98",
+          "V805",
+          "V26",
+          "V853"
+        ],
+        "pressure_control_valves (U-bend_pipe)": [
+          "PCV2826",
+          "PCV2827",
+          "PCV2828",
+          "PCV2829"
+        ],
+        "pressure_indicators": [
+          "PI6510",
+          "PI0169",
+          "PI6518",
+          "PI2819",
+          "PI2770",
+          "PI2810",
+          "PI2760",
+          "PI2800",
+          "PI2820",
+          "PI6511",
+          "PI9082",
+          "PI2776",
+          "PI7939",
+          "PI2816",
+          "PI2761",
+          "PI6512",
+          "PI2772",
+          "PI2768",
+          "PI2786",
+          "PI2801",
+          "PI2762",
+          "PI3742",
+          "PI2821",
+          "PI1082",
+          "PI0222",
+          "PI2092",
+          "PI6513",
+          "PI2763",
+          "PI2779",
+          "PI2508",
+          "PI2817",
+          "PI9636",
+          "PI9640",
+          "PI2812",
+          "PI9641",
+          "PI2764",
+          "PI2822",
+          "PI2808",
+          "PI9631",
+          "PI2818",
+          "PI1805",
+          "PI9639",
+          "PI2765",
+          "PI2781",
+          "PI9635",
+          "PI2774",
+          "PI8182",
+          "PI2788",
+          "PI6082",
+          "PI2766",
+          "PI2883",
+          "PI9642",
+          "PI2823",
+          "PI0626",
+          "PI2809",
+          "PI2782",
+          "PI2784",
+          "PI2703",
+          "PI2775"
+        ],
+        "temperature_indicators": [
+          "TI2811",
+          "TI2813",
+          "TI2784"
+        ],
+        "vacuum_pumps": [
+          "P-375"
+        ],
+        "filters": [
+          "F-12",
+          "F-178",
+          "F-177",
+          "F-31",
+          "F-11"
+        ],
+        "tubing_sizes": [
+          "3/4-T",
+          "3/8-T",
+          "1/2-T"
+        ],
+        "sample_sinks": [
+          "PRIMARY SAMPLE SINK MM-741"
+        ],
+        "continuation_connections (hexagon)": [
+          "8"
+        ],
+        "system_boundary_interfaces": [
+          "SS",
+          "DM"
+        ],
+        "instrument_bubbles": [
+          "PI",
+          "TI",
+          "PCV"
+        ],
+        "demineralized_water": [
+          "Z20350"
+        ]
+      }
+    },
+    {
+      "document_id": 3,
+      "answers": {
+        "pid": "PID-1-SW_LR20794",
+        "valves": [
+          "V64",
+          "V231",
+          "V232",
+          "V230",
+          "V243",
+          "V24",
+          "V524",
+          "V527",
+          "V528",
+          "V520",
+          "V542",
+          "V522",
+          "V180",
+          "V139"
+        ],
+        "pressure_indicators": [
+          "PI8274",
+          "PI8273",
+          "PI6104",
+          "PI6166",
+          "PI8283",
+          "PI8284",
+          "PI2312",
+          "PI6107",
+          "PI8282",
+          "PI8286",
+          "PI8288",
+          "PI8287",
+          "PI6129",
+          "PI6163",
+          "PI6173",
+          "PI2137",
+          "PI8294",
+          "PI1810",
+          "PI6183",
+          "PI6194",
+          "PI6152",
+          "PI828"
+        ],
+        "temperature_indicators": [
+          "TI8260"
+        ],
+        "vacuum_pumps": [
+          "P-418",
+          "P-410"
+        ],
+        "instrument_bubbles": [
+          "PI",
+          "TI"
+        ]
+      }
+    }
+  ]
+}

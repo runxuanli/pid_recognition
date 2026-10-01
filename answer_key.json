@@ -1,0 +1,85 @@
+{
+  "documents": [
+    {
+      "document_id": 1,
+      "answers": {
+        "pid": "PID-1-SS_LR20519",
+        "valves": [
+          "V113",
+          "V116"
+        ],
+        "pressure_control_valves (U-bend_pipe)": [
+          "PCV2848",
+          "PCV2847"
+        ],
+        "compound_gauge": [
+          "PI2793"
+        ],
+        "pressure_indicators": [
+          "PI2793",
+          "PI2851",
+          "PI2888"
+        ],
+        "temperature_indicators": [
+          "TI2850"
+        ],
+        "vacuum_pumps": [
+          "P-392"
+        ],
+        "filters": [
+          "F-192",
+          "F-193"
+        ],
+        "flexible_hoses": [
+          "1-SS-FLEX HOSE NO. 3",
+          "1-SS-FLEX HOSE NO. 4"
+        ],
+        "tubing_sizes": [
+          "1/4-T",
+          "3/8-T",
+          "1/2-T"
+        ],
+        "gas_cylinders": [
+          "NITROGEN"
+        ],
+        "sample_panels": [
+          "PRIMARY SAMPLE PANEL CP-166A"
+        ],
+        "sample_sinks": [
+          "PRIMARY SAMPLE SINK MM-13B"
+        ],
+        "continuation_connections (hexagon)": [
+          "5",
+          "6",
+          "7",
+          "8",
+          "9A",
+          "2A"
+        ],
+        "system_boundary_interfaces": [
+          "SS",
+          "DM",
+          "CS"
+        ],
+        "instrument_bubbles": [
+          "PI",
+          "TI",
+          "PCV"
+        ]
+      }
+    },
+    {
+      "document_id": 2,
+      "answers": {
+         "pid": "PID-1-SS_LR20521",
+        "pressure_control_valves (U-bend_pipe)": [
+          "PCV2828",
+          "PCV2829"
+        ],
+        "demineralized_water": [
+          "Z20350"
+        ]
+      }
+    }
+  ]
+}

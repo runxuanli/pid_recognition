@@ -1,0 +1,2697 @@
+{
+  "documents": [
+    {
+      "document_id": 1,
+      "page": 1,
+      "fields": {
+        "pid": [
+          {
+            "value": "PID-1-SS_LR20519",
+            "confidence": 1.0,
+            "review_threshold": 0.8,
+            "source": "page_ocr",
+            "bbox": [
+              0.80082,
+              0.04266,
+              0.80516,
+              0.05103
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          }
+        ],
+        "valves": [
+          {
+            "value": "V827",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.80082,
+              0.04266,
+              0.80516,
+              0.05103
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "V760",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.53535,
+              0.04351,
+              0.54016,
+              0.05277
+            ],
+            "evidence_text": "6",
+            "reasons": []
+          },
+          {
+            "value": "V832",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.7346,
+              0.04266,
+              0.73894,
+              0.05103
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "V83",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.7346,
+              0.04266,
+              0.73894,
+              0.05103
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "V834",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.7346,
+              0.04266,
+              0.73894,
+              0.05103
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "V995",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.60142,
+              0.04351,
+              0.60622,
+              0.05185
+            ],
+            "evidence_text": "5",
+            "reasons": []
+          },
+          {
+            "value": "V956",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.60142,
+              0.04351,
+              0.60622,
+              0.05185
+            ],
+            "evidence_text": "5",
+            "reasons": []
+          },
+          {
+            "value": "V57",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.60142,
+              0.04351,
+              0.60622,
+              0.05185
+            ],
+            "evidence_text": "5",
+            "reasons": []
+          },
+          {
+            "value": "V113",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.7346,
+              0.04266,
+              0.73894,
+              0.05103
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "V0159",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.86757,
+              0.04266,
+              0.87083,
+              0.05019
+            ],
+            "evidence_text": "1",
+            "reasons": []
+          },
+          {
+            "value": "V1181",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.86757,
+              0.04266,
+              0.87083,
+              0.05019
+            ],
+            "evidence_text": "1",
+            "reasons": []
+          },
+          {
+            "value": "V835",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.7346,
+              0.04266,
+              0.73894,
+              0.05103
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "V757",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.60142,
+              0.04351,
+              0.60622,
+              0.05185
+            ],
+            "evidence_text": "5",
+            "reasons": []
+          },
+          {
+            "value": "V825",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.80082,
+              0.04266,
+              0.80516,
+              0.05103
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "V841",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.86757,
+              0.04266,
+              0.87083,
+              0.05019
+            ],
+            "evidence_text": "1",
+            "reasons": []
+          },
+          {
+            "value": "V755",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.60142,
+              0.04351,
+              0.60622,
+              0.05185
+            ],
+            "evidence_text": "5",
+            "reasons": []
+          },
+          {
+            "value": "V72",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.80082,
+              0.04266,
+              0.80516,
+              0.05103
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "V123",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.7346,
+              0.04266,
+              0.73894,
+              0.05103
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "V1258",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.80082,
+              0.04266,
+              0.80516,
+              0.05103
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "V1182",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.80082,
+              0.04266,
+              0.80516,
+              0.05103
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "V842",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.80082,
+              0.04266,
+              0.80516,
+              0.05103
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "V399",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.7346,
+              0.04266,
+              0.73894,
+              0.05103
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "V49",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.66748,
+              0.04351,
+              0.67229,
+              0.05092
+            ],
+            "evidence_text": "4",
+            "reasons": []
+          },
+          {
+            "value": "V435",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.7346,
+              0.04266,
+              0.73894,
+              0.05103
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          }
+        ],
+        "compound_gauge": [
+          {
+            "value": "PI2888",
+            "confidence": 1.0,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.80082,
+              0.04266,
+              0.80516,
+              0.05103
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          }
+        ],
+        "pressure_indicators": [
+          {
+            "value": "PI2889",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.80082,
+              0.04266,
+              0.80516,
+              0.05103
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI2888",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.80082,
+              0.04266,
+              0.80516,
+              0.05103
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI2053",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.7346,
+              0.04266,
+              0.73894,
+              0.05103
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "PI2815",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.80082,
+              0.04266,
+              0.80516,
+              0.05103
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI2854",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.80082,
+              0.04266,
+              0.80516,
+              0.05103
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI1661",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.86757,
+              0.04266,
+              0.87083,
+              0.05019
+            ],
+            "evidence_text": "1",
+            "reasons": []
+          },
+          {
+            "value": "PI280",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.80082,
+              0.04266,
+              0.80516,
+              0.05103
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI833",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.7346,
+              0.04266,
+              0.73894,
+              0.05103
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "PI192",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.80082,
+              0.04266,
+              0.80516,
+              0.05103
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI174",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.86757,
+              0.04266,
+              0.87083,
+              0.05019
+            ],
+            "evidence_text": "1",
+            "reasons": []
+          }
+        ],
+        "temperature_indicators": [
+          {
+            "value": "TI2852",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.80082,
+              0.04266,
+              0.80516,
+              0.05103
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "TI166",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.86757,
+              0.04266,
+              0.87083,
+              0.05019
+            ],
+            "evidence_text": "1",
+            "reasons": []
+          }
+        ],
+        "vacuum_pumps": [
+          {
+            "value": "P-392",
+            "confidence": 1.0,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.7346,
+              0.04266,
+              0.73894,
+              0.05103
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          }
+        ],
+        "filters": [
+          {
+            "value": "F-193",
+            "confidence": 1.0,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.7346,
+              0.04266,
+              0.73894,
+              0.05103
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "F-192",
+            "confidence": 1.0,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.80082,
+              0.04266,
+              0.80516,
+              0.05103
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          }
+        ],
+        "flexible_hoses": [
+          {
+            "value": "1-SS-FLEX HOSE NO. 4",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.86757,
+              0.04266,
+              0.87083,
+              0.05019
+            ],
+            "evidence_text": "1",
+            "reasons": []
+          },
+          {
+            "value": "1-SS-FLEX HOSE NO. 3",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.7346,
+              0.04266,
+              0.73894,
+              0.05103
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          }
+        ],
+        "tubing_sizes": [
+          {
+            "value": "1/4-T",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.86757,
+              0.04266,
+              0.87083,
+              0.05019
+            ],
+            "evidence_text": "1",
+            "reasons": []
+          },
+          {
+            "value": "3/8-T",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.7346,
+              0.04266,
+              0.73894,
+              0.05103
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          }
+        ],
+        "gas_cylinders": [
+          {
+            "value": "NITROGEN",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.92673,
+              0.23842,
+              0.93162,
+              0.24678
+            ],
+            "evidence_text": "G",
+            "reasons": []
+          }
+        ],
+        "sample_panels": [
+          {
+            "value": "PRIMARY SAMPLE PANEL CP-166A",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.86757,
+              0.04266,
+              0.87083,
+              0.05019
+            ],
+            "evidence_text": "1",
+            "reasons": []
+          }
+        ],
+        "sample_sinks": [
+          {
+            "value": "PRIMARY SAMPLE SINK MM-13B",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.7346,
+              0.04266,
+              0.73894,
+              0.05103
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          }
+        ],
+        "system_boundary_interfaces": [
+          {
+            "value": "SS",
+            "confidence": 0.94,
+            "review_threshold": 0.8,
+            "source": "page_ocr",
+            "bbox": [
+              0.76662,
+              0.0594,
+              0.90828,
+              0.06699
+            ],
+            "evidence_text": "FOR P&ID REFERENCE DRAWINGS, SYMBOLS AND ABBREVIATIONS",
+            "reasons": []
+          },
+          {
+            "value": "DM",
+            "confidence": 0.94,
+            "review_threshold": 0.8,
+            "source": "page_ocr",
+            "bbox": [
+              0.76662,
+              0.19818,
+              0.81981,
+              0.20579
+            ],
+            "evidence_text": "AND MCD 503.20-CALC.",
+            "reasons": []
+          },
+          {
+            "value": "CS",
+            "confidence": 0.94,
+            "review_threshold": 0.8,
+            "source": "page_ocr",
+            "bbox": [
+              0.78942,
+              0.35303,
+              0.89254,
+              0.35972
+            ],
+            "evidence_text": "CS - CHEMICAL & VOLUME CONTROL SYSTEM",
+            "reasons": []
+          }
+        ],
+        "instrument_bubbles": [
+          {
+            "value": "PI",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.76662,
+              0.0594,
+              0.90828,
+              0.06699
+            ],
+            "evidence_text": "FOR P&ID REFERENCE DRAWINGS, SYMBOLS AND ABBREVIATIONS",
+            "reasons": []
+          },
+          {
+            "value": "TI",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.76662,
+              0.0594,
+              0.90828,
+              0.06699
+            ],
+            "evidence_text": "FOR P&ID REFERENCE DRAWINGS, SYMBOLS AND ABBREVIATIONS",
+            "reasons": []
+          }
+        ]
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "fields": {
+        "pid": [
+          {
+            "value": "PID-1-SS_LR20521",
+            "confidence": 1.0,
+            "review_threshold": 0.8,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          }
+        ],
+        "valves": [
+          {
+            "value": "V8070",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.46989,
+              0.04537,
+              0.47409,
+              0.0537
+            ],
+            "evidence_text": "7",
+            "reasons": []
+          },
+          {
+            "value": "V8071",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.46989,
+              0.04537,
+              0.47409,
+              0.0537
+            ],
+            "evidence_text": "7",
+            "reasons": []
+          },
+          {
+            "value": "V8077",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.46989,
+              0.04537,
+              0.47409,
+              0.0537
+            ],
+            "evidence_text": "7",
+            "reasons": []
+          },
+          {
+            "value": "V956",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.60142,
+              0.04537,
+              0.60562,
+              0.0537
+            ],
+            "evidence_text": "5",
+            "reasons": []
+          },
+          {
+            "value": "V8076",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.46989,
+              0.04537,
+              0.47409,
+              0.0537
+            ],
+            "evidence_text": "7",
+            "reasons": []
+          },
+          {
+            "value": "V8078",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.46989,
+              0.04537,
+              0.47409,
+              0.0537
+            ],
+            "evidence_text": "7",
+            "reasons": []
+          },
+          {
+            "value": "V145",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.60142,
+              0.04537,
+              0.60562,
+              0.0537
+            ],
+            "evidence_text": "5",
+            "reasons": []
+          },
+          {
+            "value": "V8079",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.46989,
+              0.04537,
+              0.47409,
+              0.0537
+            ],
+            "evidence_text": "7",
+            "reasons": []
+          },
+          {
+            "value": "V8879",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.46989,
+              0.04537,
+              0.47409,
+              0.0537
+            ],
+            "evidence_text": "7",
+            "reasons": []
+          },
+          {
+            "value": "V83",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.73352,
+              0.04434,
+              0.73786,
+              0.0527
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "V803",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.73352,
+              0.04434,
+              0.73786,
+              0.0527
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "V8082",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "V8081",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.64288,
+              0.30702,
+              0.65373,
+              0.31287
+            ],
+            "evidence_text": "V8081",
+            "reasons": []
+          },
+          {
+            "value": "V8083",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.73352,
+              0.04434,
+              0.73786,
+              0.0527
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "V8884",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.63745,
+              0.34903,
+              0.64826,
+              0.35459
+            ],
+            "evidence_text": "V8884",
+            "reasons": []
+          },
+          {
+            "value": "V8084",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.63745,
+              0.34975,
+              0.64886,
+              0.35531
+            ],
+            "evidence_text": "V8084",
+            "reasons": []
+          },
+          {
+            "value": "V842",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "V8886",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "V133",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.73352,
+              0.04434,
+              0.73786,
+              0.0527
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "V16",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.32224,
+              0.41286,
+              0.32875,
+              0.41872
+            ],
+            "evidence_text": "V16",
+            "reasons": []
+          },
+          {
+            "value": "V142",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "V8088",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "V79",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.46989,
+              0.04537,
+              0.47409,
+              0.0537
+            ],
+            "evidence_text": "7",
+            "reasons": []
+          },
+          {
+            "value": "V84",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "V768",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.46989,
+              0.04537,
+              0.47409,
+              0.0537
+            ],
+            "evidence_text": "7",
+            "reasons": []
+          },
+          {
+            "value": "V808",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.64288,
+              0.30702,
+              0.65373,
+              0.31287
+            ],
+            "evidence_text": "V8081",
+            "reasons": []
+          },
+          {
+            "value": "V818",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "continuation_hexagon",
+            "bbox": [
+              0.63872,
+              0.35541,
+              0.6469,
+              0.36552
+            ],
+            "evidence_text": "8",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 1.0,
+              "vote_agreement": 1.0
+            }
+          },
+          {
+            "value": "V1883",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.73352,
+              0.04434,
+              0.73786,
+              0.0527
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "V811",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.20344,
+              0.04768,
+              0.2094,
+              0.05521
+            ],
+            "evidence_text": "11",
+            "reasons": []
+          },
+          {
+            "value": "V90",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.33798,
+              0.04601,
+              0.34232,
+              0.05354
+            ],
+            "evidence_text": "9",
+            "reasons": []
+          },
+          {
+            "value": "V132",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.73352,
+              0.04434,
+              0.73786,
+              0.0527
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "V139",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.73352,
+              0.04434,
+              0.73786,
+              0.0527
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "V98",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.33798,
+              0.04601,
+              0.34232,
+              0.05354
+            ],
+            "evidence_text": "9",
+            "reasons": []
+          },
+          {
+            "value": "V805",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.60142,
+              0.04537,
+              0.60562,
+              0.0537
+            ],
+            "evidence_text": "5",
+            "reasons": []
+          },
+          {
+            "value": "V26",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "V853",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.73352,
+              0.04434,
+              0.73786,
+              0.0527
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          }
+        ],
+        "pressure_indicators": [
+          {
+            "value": "PI6510",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.60142,
+              0.04537,
+              0.60562,
+              0.0537
+            ],
+            "evidence_text": "5",
+            "reasons": []
+          },
+          {
+            "value": "PI6518",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.60142,
+              0.04537,
+              0.60562,
+              0.0537
+            ],
+            "evidence_text": "5",
+            "reasons": []
+          },
+          {
+            "value": "PI2819",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI2958",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI2810",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI2760",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI2800",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI2820",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI2776",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI1959",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.60142,
+              0.04537,
+              0.60562,
+              0.0537
+            ],
+            "evidence_text": "5",
+            "reasons": []
+          },
+          {
+            "value": "PI2815",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI6511",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.60142,
+              0.04537,
+              0.60562,
+              0.0537
+            ],
+            "evidence_text": "5",
+            "reasons": []
+          },
+          {
+            "value": "PI2816",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI6512",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI2772",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI2768",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI2786",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI2762",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI6513",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.73352,
+              0.04434,
+              0.73786,
+              0.0527
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "PI2508",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI2817",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI9636",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.73352,
+              0.04434,
+              0.73786,
+              0.0527
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "PI9648",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.33798,
+              0.04601,
+              0.34232,
+              0.05354
+            ],
+            "evidence_text": "9",
+            "reasons": []
+          },
+          {
+            "value": "PI2812",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI9641",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.33798,
+              0.04601,
+              0.34232,
+              0.05354
+            ],
+            "evidence_text": "9",
+            "reasons": []
+          },
+          {
+            "value": "PI2764",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI2822",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI9631",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.73352,
+              0.04434,
+              0.73786,
+              0.0527
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "PI2818",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI9639",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.73352,
+              0.04434,
+              0.73786,
+              0.0527
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "PI2765",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI2781",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI9635",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.73352,
+              0.04434,
+              0.73786,
+              0.0527
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "PI2774",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI2788",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI2766",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI2823",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.73352,
+              0.04434,
+              0.73786,
+              0.0527
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "PI2784",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI2783",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.73352,
+              0.04434,
+              0.73786,
+              0.0527
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "PI2775",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          }
+        ],
+        "temperature_indicators": [
+          {
+            "value": "TI2811",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "TI2784",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          }
+        ],
+        "vacuum_pumps": [
+          {
+            "value": "P-375",
+            "confidence": 1.0,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.73352,
+              0.04434,
+              0.73786,
+              0.0527
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          }
+        ],
+        "filters": [
+          {
+            "value": "F-12",
+            "confidence": 1.0,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "F-178",
+            "confidence": 1.0,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.46989,
+              0.04537,
+              0.47409,
+              0.0537
+            ],
+            "evidence_text": "7",
+            "reasons": []
+          },
+          {
+            "value": "F-177",
+            "confidence": 1.0,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.46989,
+              0.04537,
+              0.47409,
+              0.0537
+            ],
+            "evidence_text": "7",
+            "reasons": []
+          },
+          {
+            "value": "F-31",
+            "confidence": 1.0,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.73352,
+              0.04434,
+              0.73786,
+              0.0527
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "F-11",
+            "confidence": 1.0,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.20344,
+              0.04768,
+              0.2094,
+              0.05521
+            ],
+            "evidence_text": "11",
+            "reasons": []
+          }
+        ],
+        "tubing_sizes": [
+          {
+            "value": "3/4-T",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.73352,
+              0.04434,
+              0.73786,
+              0.0527
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "3/8-T",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.73352,
+              0.04434,
+              0.73786,
+              0.0527
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          },
+          {
+            "value": "1/2-T",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.79973,
+              0.04434,
+              0.80407,
+              0.0527
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          }
+        ],
+        "sample_sinks": [
+          {
+            "value": "PRIMARY SAMPLE SINK MM-741",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.46989,
+              0.04537,
+              0.47409,
+              0.0537
+            ],
+            "evidence_text": "7",
+            "reasons": []
+          }
+        ],
+        "continuation_connections (hexagon)": [
+          {
+            "value": "8",
+            "confidence": 1.0,
+            "review_threshold": 0.7,
+            "source": "page_ocr",
+            "bbox": [
+              0.65366,
+              0.06934,
+              0.68791,
+              0.07879
+            ],
+            "evidence_text": "5/4- RM-SKD-83",
+            "reasons": []
+          }
+        ],
+        "system_boundary_interfaces": [
+          {
+            "value": "SS",
+            "confidence": 0.94,
+            "review_threshold": 0.8,
+            "source": "page_ocr",
+            "bbox": [
+              0.76604,
+              0.0596,
+              0.90724,
+              0.07063
+            ],
+            "evidence_text": "FOR P&ID REFERENCE DRAWINGS. SYMBOLS AND ABBREVIATIONS",
+            "reasons": []
+          },
+          {
+            "value": "DM",
+            "confidence": 0.94,
+            "review_threshold": 0.8,
+            "source": "page_ocr",
+            "bbox": [
+              0.79702,
+              0.35303,
+              0.873,
+              0.35972
+            ],
+            "evidence_text": "- DEMINERALIZED WATER SYSTEM",
+            "reasons": []
+          }
+        ],
+        "instrument_bubbles": [
+          {
+            "value": "PI",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.76604,
+              0.0596,
+              0.90724,
+              0.07063
+            ],
+            "evidence_text": "FOR P&ID REFERENCE DRAWINGS. SYMBOLS AND ABBREVIATIONS",
+            "reasons": []
+          },
+          {
+            "value": "TI",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.76604,
+              0.0596,
+              0.90724,
+              0.07063
+            ],
+            "evidence_text": "FOR P&ID REFERENCE DRAWINGS. SYMBOLS AND ABBREVIATIONS",
+            "reasons": []
+          }
+        ],
+        "demineralized_water": [
+          {
+            "value": "Z20350",
+            "confidence": 1.0,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.73352,
+              0.04434,
+              0.73786,
+              0.0527
+            ],
+            "evidence_text": "3",
+            "reasons": []
+          }
+        ]
+      }
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "fields": {
+        "pid": [
+          {
+            "value": "PID-1-SW_LR20794",
+            "confidence": 1.0,
+            "review_threshold": 0.8,
+            "source": "page_ocr",
+            "bbox": [
+              0.86486,
+              0.04099,
+              0.86757,
+              0.04768
+            ],
+            "evidence_text": "1",
+            "reasons": []
+          }
+        ],
+        "valves": [
+          {
+            "value": "V64",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.66676,
+              0.04099,
+              0.6711,
+              0.04852
+            ],
+            "evidence_text": "4",
+            "reasons": []
+          },
+          {
+            "value": "V231",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.86486,
+              0.04099,
+              0.86757,
+              0.04768
+            ],
+            "evidence_text": "1",
+            "reasons": []
+          },
+          {
+            "value": "V232",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "V230",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "V243",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "V24",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "V524",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "V527",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "V528",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "V520",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "V542",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "V522",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "V180",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.86486,
+              0.04099,
+              0.86757,
+              0.04768
+            ],
+            "evidence_text": "1",
+            "reasons": []
+          },
+          {
+            "value": "V139",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.86486,
+              0.04099,
+              0.86757,
+              0.04768
+            ],
+            "evidence_text": "1",
+            "reasons": []
+          }
+        ],
+        "pressure_indicators": [
+          {
+            "value": "PI8273",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI8283",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI8284",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI8282",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI2002",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI8286",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI8288",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI8287",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI6129",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.86486,
+              0.04099,
+              0.86757,
+              0.04768
+            ],
+            "evidence_text": "1",
+            "reasons": []
+          },
+          {
+            "value": "PI6163",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.86486,
+              0.04099,
+              0.86757,
+              0.04768
+            ],
+            "evidence_text": "1",
+            "reasons": []
+          },
+          {
+            "value": "PI6173",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.86486,
+              0.04099,
+              0.86757,
+              0.04768
+            ],
+            "evidence_text": "1",
+            "reasons": []
+          },
+          {
+            "value": "PI2035",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI8294",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          },
+          {
+            "value": "PI5183",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.86486,
+              0.04099,
+              0.86757,
+              0.04768
+            ],
+            "evidence_text": "1",
+            "reasons": []
+          },
+          {
+            "value": "PI6194",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.86486,
+              0.04099,
+              0.86757,
+              0.04768
+            ],
+            "evidence_text": "1",
+            "reasons": []
+          },
+          {
+            "value": "PI6152",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.86486,
+              0.04099,
+              0.86757,
+              0.04768
+            ],
+            "evidence_text": "1",
+            "reasons": []
+          },
+          {
+            "value": "PI828",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          }
+        ],
+        "temperature_indicators": [
+          {
+            "value": "TI8268",
+            "confidence": 1.0,
+            "review_threshold": 0.78,
+            "source": "page_ocr",
+            "bbox": [
+              0.79919,
+              0.04099,
+              0.80407,
+              0.04936
+            ],
+            "evidence_text": "2",
+            "reasons": []
+          }
+        ],
+        "vacuum_pumps": [
+          {
+            "value": "P-418",
+            "confidence": 1.0,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.86486,
+              0.04099,
+              0.86757,
+              0.04768
+            ],
+            "evidence_text": "1",
+            "reasons": []
+          },
+          {
+            "value": "P-410",
+            "confidence": 1.0,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.86486,
+              0.04099,
+              0.86757,
+              0.04768
+            ],
+            "evidence_text": "1",
+            "reasons": []
+          }
+        ],
+        "instrument_bubbles": [
+          {
+            "value": "PI",
+            "confidence": 0.94,
+            "review_threshold": 0.72,
+            "source": "page_ocr",
+            "bbox": [
+              0.76499,
+              0.05763,
+              0.90611,
+              0.06525
+            ],
+            "evidence_text": "FOR P&ID REFERENCE DRAWINGS, SYMBOLS AND ABBREVIATIONS",
+            "reasons": []
+          },
+          {
+            "value": "TI",
+            "confidence": 0.7406,
+            "review_threshold": 0.72,
+            "source": "instrument_bubble",
+            "bbox": [
+              0.51245,
+              0.05106,
+              0.53538,
+              0.0862
+            ],
+            "evidence_text": "TI 8268",
+            "reasons": [],
+            "signals": {
+              "geometry_score": 0.7188,
+              "vote_agreement": 0.5,
+              "u_bend": false
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

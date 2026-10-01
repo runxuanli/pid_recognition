@@ -1,0 +1,727 @@
+{
+  "tables": [
+    {
+      "table_id": "page_3_table_1",
+      "page": 3,
+      "bbox": [
+        0.59761,
+        0.51719,
+        0.72535,
+        0.60996
+      ],
+      "rows": [
+        [
+          "PUMP NO.",
+          "TOP DRAIN",
+          "BOTTOM DRAIN",
+          "VIBRATION MONITOR INSTRUMENT TAG *",
+          "",
+          "",
+          "",
+          "A"
+        ],
+        [
+          "P-41A",
+          "V523",
+          "V524",
+          "21350",
+          "21356",
+          "21362",
+          "21368",
+          ""
+        ],
+        [
+          "P-41B",
+          "V525",
+          "V526",
+          "21351",
+          "21357",
+          "21363",
+          "21369",
+          ""
+        ],
+        [
+          "P-41C",
+          "V527",
+          "V528",
+          "21352",
+          "21358",
+          "21364",
+          "21370",
+          ""
+        ],
+        [
+          "P-41D",
+          "V529",
+          "V530",
+          "21353",
+          "21359",
+          "21365",
+          "21371",
+          ""
+        ],
+        [
+          "P-110A",
+          "V542",
+          "V520",
+          "21354",
+          "21360",
+          "21366",
+          "21372",
+          "V179"
+        ],
+        [
+          "P-110B",
+          "V521",
+          "V522",
+          "21355",
+          "21361",
+          "21367",
+          "21373",
+          "V180"
+        ]
+      ],
+      "cells": [
+        {
+          "row": 0,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "PUMP NO."
+        },
+        {
+          "row": 0,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "TOP DRAIN"
+        },
+        {
+          "row": 0,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "BOTTOM DRAIN"
+        },
+        {
+          "row": 0,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 4,
+          "text": "VIBRATION MONITOR INSTRUMENT TAG *"
+        },
+        {
+          "row": 0,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "A"
+        },
+        {
+          "row": 1,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "P-41A"
+        },
+        {
+          "row": 1,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "V523"
+        },
+        {
+          "row": 1,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "V524"
+        },
+        {
+          "row": 1,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21350"
+        },
+        {
+          "row": 1,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21356"
+        },
+        {
+          "row": 1,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21362"
+        },
+        {
+          "row": 1,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21368"
+        },
+        {
+          "row": 1,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": ""
+        },
+        {
+          "row": 2,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "P-41B"
+        },
+        {
+          "row": 2,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "V525"
+        },
+        {
+          "row": 2,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "V526"
+        },
+        {
+          "row": 2,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21351"
+        },
+        {
+          "row": 2,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21357"
+        },
+        {
+          "row": 2,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21363"
+        },
+        {
+          "row": 2,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21369"
+        },
+        {
+          "row": 2,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": ""
+        },
+        {
+          "row": 3,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "P-41C"
+        },
+        {
+          "row": 3,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "V527"
+        },
+        {
+          "row": 3,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "V528"
+        },
+        {
+          "row": 3,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21352"
+        },
+        {
+          "row": 3,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21358"
+        },
+        {
+          "row": 3,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21364"
+        },
+        {
+          "row": 3,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21370"
+        },
+        {
+          "row": 3,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": ""
+        },
+        {
+          "row": 4,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "P-41D"
+        },
+        {
+          "row": 4,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "V529"
+        },
+        {
+          "row": 4,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "V530"
+        },
+        {
+          "row": 4,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21353"
+        },
+        {
+          "row": 4,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21359"
+        },
+        {
+          "row": 4,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21365"
+        },
+        {
+          "row": 4,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21371"
+        },
+        {
+          "row": 4,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": ""
+        },
+        {
+          "row": 5,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "P-110A"
+        },
+        {
+          "row": 5,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "V542"
+        },
+        {
+          "row": 5,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "V520"
+        },
+        {
+          "row": 5,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21354"
+        },
+        {
+          "row": 5,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21360"
+        },
+        {
+          "row": 5,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21366"
+        },
+        {
+          "row": 5,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21372"
+        },
+        {
+          "row": 5,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "V179"
+        },
+        {
+          "row": 6,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "P-110B"
+        },
+        {
+          "row": 6,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "V521"
+        },
+        {
+          "row": 6,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "V522"
+        },
+        {
+          "row": 6,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21355"
+        },
+        {
+          "row": 6,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21361"
+        },
+        {
+          "row": 6,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21367"
+        },
+        {
+          "row": 6,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21373"
+        },
+        {
+          "row": 6,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "V180"
+        }
+      ]
+    },
+    {
+      "table_id": "page_3_table_3",
+      "page": 3,
+      "bbox": [
+        0.09859,
+        0.22776,
+        0.21946,
+        0.26264
+      ],
+      "rows": [
+        [
+          "",
+          "1",
+          "2",
+          "3"
+        ],
+        [
+          "EQUIP. NO",
+          "VALVE. NO",
+          "INSTR. NO",
+          "VALVE. NO"
+        ],
+        [
+          "1-SW-FN-51B",
+          "1-SW-V231",
+          "1-SW-LG-6116B",
+          "1-SW-V232"
+        ],
+        [
+          "2-SW-FN-51B",
+          "2-SW-V231",
+          "2-SW-LG-6116B",
+          "2-SW-V232"
+        ]
+      ],
+      "cells": [
+        {
+          "row": 0,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": ""
+        },
+        {
+          "row": 0,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "1"
+        },
+        {
+          "row": 0,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "2"
+        },
+        {
+          "row": 0,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "3"
+        },
+        {
+          "row": 1,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "EQUIP. NO"
+        },
+        {
+          "row": 1,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "VALVE. NO"
+        },
+        {
+          "row": 1,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "INSTR. NO"
+        },
+        {
+          "row": 1,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "VALVE. NO"
+        },
+        {
+          "row": 2,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "1-SW-FN-51B"
+        },
+        {
+          "row": 2,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "1-SW-V231"
+        },
+        {
+          "row": 2,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "1-SW-LG-6116B"
+        },
+        {
+          "row": 2,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "1-SW-V232"
+        },
+        {
+          "row": 3,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "2-SW-FN-51B"
+        },
+        {
+          "row": 3,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "2-SW-V231"
+        },
+        {
+          "row": 3,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "2-SW-LG-6116B"
+        },
+        {
+          "row": 3,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "2-SW-V232"
+        }
+      ]
+    },
+    {
+      "table_id": "page_3_table_4",
+      "page": 3,
+      "bbox": [
+        0.10563,
+        0.3731,
+        0.19948,
+        0.40774
+      ],
+      "rows": [
+        [
+          "",
+          "1",
+          "2"
+        ],
+        [
+          "EQUIP. NO",
+          "VALVE. NO",
+          "INSTR. NO"
+        ],
+        [
+          "1-SW-FN-51A",
+          "1-SW-V230",
+          "1-SW-LG-6116A"
+        ],
+        [
+          "2-SW-FN-51A",
+          "2-SW-V230",
+          "2-SW-LG-6116A"
+        ]
+      ],
+      "cells": [
+        {
+          "row": 0,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": ""
+        },
+        {
+          "row": 0,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "1"
+        },
+        {
+          "row": 0,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "2"
+        },
+        {
+          "row": 1,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "EQUIP. NO"
+        },
+        {
+          "row": 1,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "VALVE. NO"
+        },
+        {
+          "row": 1,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "INSTR. NO"
+        },
+        {
+          "row": 2,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "1-SW-FN-51A"
+        },
+        {
+          "row": 2,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "1-SW-V230"
+        },
+        {
+          "row": 2,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "1-SW-LG-6116A"
+        },
+        {
+          "row": 3,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "2-SW-FN-51A"
+        },
+        {
+          "row": 3,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "2-SW-V230"
+        },
+        {
+          "row": 3,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "2-SW-LG-6116A"
+        }
+      ]
+    }
+  ]
+}

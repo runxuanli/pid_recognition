@@ -1,0 +1,3305 @@
+{
+  "items": [
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "valves",
+      "value": "V827",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.39301,
+        0.07499,
+        0.40202,
+        0.07962
+      ],
+      "evidence_text": "V827",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "valves",
+      "value": "V760",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.43085,
+        0.07684,
+        0.44527,
+        0.08703
+      ],
+      "evidence_text": "\u2192 V760",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "valves",
+      "value": "V832",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.30922,
+        0.11294,
+        0.31845,
+        0.11879
+      ],
+      "evidence_text": "V832",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "valves",
+      "value": "V83",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.32935,
+        0.15554,
+        0.33776,
+        0.16294
+      ],
+      "evidence_text": "V83-",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "valves",
+      "value": "V834",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.32875,
+        0.15644,
+        0.33798,
+        0.16229
+      ],
+      "evidence_text": "V834",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "valves",
+      "value": "V995",
+      "confidence": 0.545,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.35758,
+        0.16109,
+        0.3762,
+        0.17683
+      ],
+      "evidence_text": "v995",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "valves",
+      "value": "V956",
+      "confidence": 0.675,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.3762,
+        0.16387,
+        0.39301,
+        0.17498
+      ],
+      "evidence_text": "v956",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "valves",
+      "value": "V57",
+      "confidence": 0.2,
+      "review_threshold": 0.78,
+      "source": "derived_rule",
+      "bbox": null,
+      "evidence_text": null,
+      "reasons": [
+        "no_direct_spatial_evidence",
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "valves",
+      "value": "V113",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.20181,
+        0.31705,
+        0.21049,
+        0.32375
+      ],
+      "evidence_text": "V113",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "valves",
+      "value": "V0159",
+      "confidence": 0.545,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.56959,
+        0.50543,
+        0.59241,
+        0.51748
+      ],
+      "evidence_text": "V0159",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "valves",
+      "value": "V1181",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.5852,
+        0.61849,
+        0.59421,
+        0.62405
+      ],
+      "evidence_text": "V1181",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "valves",
+      "value": "V835",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.22134,
+        0.65465,
+        0.23002,
+        0.66134
+      ],
+      "evidence_text": "V835",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "valves",
+      "value": "V757",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.33147,
+        0.73463,
+        0.34015,
+        0.73965
+      ],
+      "evidence_text": "V757",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "valves",
+      "value": "V825",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.584,
+        0.73874,
+        0.59301,
+        0.74338
+      ],
+      "evidence_text": "V825",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "valves",
+      "value": "V841",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.36299,
+        0.75542,
+        0.37199,
+        0.7619
+      ],
+      "evidence_text": "V841",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "valves",
+      "value": "V755",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.33115,
+        0.75542,
+        0.34016,
+        0.7619
+      ],
+      "evidence_text": "V755",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "valves",
+      "value": "V72",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.33296,
+        0.77673,
+        0.33956,
+        0.78321
+      ],
+      "evidence_text": "V72",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "valves",
+      "value": "V123",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.36293,
+        0.77733,
+        0.37215,
+        0.78402
+      ],
+      "evidence_text": "V123",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "valves",
+      "value": "V1258",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.27342,
+        0.81248,
+        0.28427,
+        0.81918
+      ],
+      "evidence_text": "V1258",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "valves",
+      "value": "V1182",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.33147,
+        0.81583,
+        0.34069,
+        0.82169
+      ],
+      "evidence_text": "V1182",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "valves",
+      "value": "V842",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.36299,
+        0.83787,
+        0.37199,
+        0.84343
+      ],
+      "evidence_text": "V842",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "valves",
+      "value": "V399",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.55157,
+        0.85177,
+        0.56838,
+        0.85918
+      ],
+      "evidence_text": "DM-V399",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "valves",
+      "value": "V49",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.33689,
+        0.8602,
+        0.34449,
+        0.86439
+      ],
+      "evidence_text": "V49/",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "valves",
+      "value": "V435",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.51974,
+        0.87864,
+        0.54796,
+        0.89068
+      ],
+      "evidence_text": "X1/2 0M-v435",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "pressure_indicators",
+      "value": "PI2889",
+      "confidence": 0.7312,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.37717,
+        0.10238,
+        0.40059,
+        0.13852
+      ],
+      "evidence_text": "PI 2889",
+      "reasons": [
+        "confidence_below_0.78"
+      ],
+      "signals": {
+        "geometry_score": 0.6875,
+        "vote_agreement": 0.5,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "pressure_indicators",
+      "value": "PI2856",
+      "confidence": 0.6729,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.55667,
+        0.432,
+        0.57435,
+        0.45956
+      ],
+      "evidence_text": "PI 2856",
+      "reasons": [
+        "confidence_below_0.78",
+        "preprocessing_variants_disagree"
+      ],
+      "signals": {
+        "geometry_score": 0.6875,
+        "vote_agreement": 0.3333,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "pressure_indicators",
+      "value": "PI2815",
+      "confidence": 0.7062,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.36931,
+        0.6274,
+        0.39289,
+        0.66355
+      ],
+      "evidence_text": "PI 2815",
+      "reasons": [
+        "confidence_below_0.78",
+        "preprocessing_variants_disagree"
+      ],
+      "signals": {
+        "geometry_score": 0.75,
+        "vote_agreement": 0.375,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "pressure_indicators",
+      "value": "PI4399",
+      "confidence": 0.7594,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.55486,
+        0.83595,
+        0.57255,
+        0.8635
+      ],
+      "evidence_text": "PI 4399",
+      "reasons": [
+        "confidence_below_0.78"
+      ],
+      "signals": {
+        "geometry_score": 0.7812,
+        "vote_agreement": 0.5,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "pressure_indicators",
+      "value": "PI1661",
+      "confidence": 0.7312,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.84294,
+        0.89408,
+        0.87029,
+        0.9363
+      ],
+      "evidence_text": "PI 1661",
+      "reasons": [
+        "confidence_below_0.78"
+      ],
+      "signals": {
+        "geometry_score": 0.6875,
+        "vote_agreement": 0.5,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "pressure_indicators",
+      "value": "PI280",
+      "confidence": 0.76,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.36836,
+        0.11126,
+        0.3727,
+        0.11795
+      ],
+      "evidence_text": "PI",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "pressure_indicators",
+      "value": "PI833",
+      "confidence": 0.76,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.34774,
+        0.12967,
+        0.35208,
+        0.13385
+      ],
+      "evidence_text": "PI",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "pressure_indicators",
+      "value": "PI192",
+      "confidence": 0.76,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.36836,
+        0.11126,
+        0.3727,
+        0.11795
+      ],
+      "evidence_text": "PI",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "pressure_indicators",
+      "value": "PI174",
+      "confidence": 0.76,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.34774,
+        0.12967,
+        0.35208,
+        0.13385
+      ],
+      "evidence_text": "PI",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "temperature_indicators",
+      "value": "TI2852",
+      "confidence": 0.75,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.44006,
+        0.40824,
+        0.46299,
+        0.44338
+      ],
+      "evidence_text": "TI 2852",
+      "reasons": [
+        "confidence_below_0.78"
+      ],
+      "signals": {
+        "geometry_score": 0.75,
+        "vote_agreement": 0.5,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "temperature_indicators",
+      "value": "TI166",
+      "confidence": 0.76,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.70111,
+        0.937,
+        0.70592,
+        0.94256
+      ],
+      "evidence_text": "TI",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "flexible_hoses",
+      "value": "1-SS-FLEX HOSE NO. 4",
+      "confidence": 0.14,
+      "review_threshold": 0.72,
+      "source": "derived_rule",
+      "bbox": null,
+      "evidence_text": null,
+      "reasons": [
+        "no_direct_spatial_evidence",
+        "confidence_below_0.72"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "flexible_hoses",
+      "value": "1-SS-FLEX HOSE NO. 3",
+      "confidence": 0.14,
+      "review_threshold": 0.72,
+      "source": "derived_rule",
+      "bbox": null,
+      "evidence_text": null,
+      "reasons": [
+        "no_direct_spatial_evidence",
+        "confidence_below_0.72"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "sample_panels",
+      "value": "PRIMARY SAMPLE PANEL CP-166A",
+      "confidence": 0.14,
+      "review_threshold": 0.72,
+      "source": "derived_rule",
+      "bbox": null,
+      "evidence_text": null,
+      "reasons": [
+        "no_direct_spatial_evidence",
+        "confidence_below_0.72"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "sample_sinks",
+      "value": "PRIMARY SAMPLE SINK MM-13B",
+      "confidence": 0.14,
+      "review_threshold": 0.72,
+      "source": "derived_rule",
+      "bbox": null,
+      "evidence_text": null,
+      "reasons": [
+        "no_direct_spatial_evidence",
+        "confidence_below_0.72"
+      ]
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "continuation_connections (hexagon)",
+      "value": "5",
+      "confidence": 0.9492,
+      "review_threshold": 0.7,
+      "source": "continuation_hexagon",
+      "bbox": [
+        0.10694,
+        0.30182,
+        0.11595,
+        0.31294
+      ],
+      "evidence_text": "5",
+      "reasons": [
+        "template_only_short_code"
+      ],
+      "signals": {
+        "geometry_score": 0.9508,
+        "vote_agreement": 1.0,
+        "template_score": 0.8855,
+        "template_margin": 0.0522,
+        "ocr_vote_count": 0
+      }
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "continuation_connections (hexagon)",
+      "value": "17",
+      "confidence": 0.9358,
+      "review_threshold": 0.7,
+      "source": "continuation_hexagon",
+      "bbox": [
+        0.15133,
+        0.45475,
+        0.16066,
+        0.46663
+      ],
+      "evidence_text": "17",
+      "reasons": [
+        "template_only_short_code"
+      ],
+      "signals": {
+        "geometry_score": 1.0,
+        "vote_agreement": 1.0,
+        "template_score": 0.7431,
+        "template_margin": 0.0129,
+        "ocr_vote_count": 0
+      }
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "continuation_connections (hexagon)",
+      "value": "7",
+      "confidence": 0.9569,
+      "review_threshold": 0.7,
+      "source": "continuation_hexagon",
+      "bbox": [
+        0.52047,
+        0.5364,
+        0.52964,
+        0.54828
+      ],
+      "evidence_text": "7",
+      "reasons": [
+        "template_only_short_code"
+      ],
+      "signals": {
+        "geometry_score": 1.0,
+        "vote_agreement": 1.0,
+        "template_score": 0.8277,
+        "template_margin": 0.1032,
+        "ocr_vote_count": 0
+      }
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "continuation_connections (hexagon)",
+      "value": "6",
+      "confidence": 0.9662,
+      "review_threshold": 0.7,
+      "source": "continuation_hexagon",
+      "bbox": [
+        0.51965,
+        0.59631,
+        0.52899,
+        0.60794
+      ],
+      "evidence_text": "6",
+      "reasons": [
+        "template_only_short_code"
+      ],
+      "signals": {
+        "geometry_score": 1.0,
+        "vote_agreement": 1.0,
+        "template_score": 0.8649,
+        "template_margin": 0.0291,
+        "ocr_vote_count": 0
+      }
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "continuation_connections (hexagon)",
+      "value": "11",
+      "confidence": 0.9272,
+      "review_threshold": 0.7,
+      "source": "continuation_hexagon",
+      "bbox": [
+        0.15165,
+        0.65268,
+        0.16083,
+        0.66456
+      ],
+      "evidence_text": "11",
+      "reasons": [
+        "template_only_short_code"
+      ],
+      "signals": {
+        "geometry_score": 1.0,
+        "vote_agreement": 1.0,
+        "template_score": 0.7087,
+        "template_margin": 0.0115,
+        "ocr_vote_count": 0
+      }
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "continuation_connections (hexagon)",
+      "value": "9",
+      "confidence": 0.9392,
+      "review_threshold": 0.7,
+      "source": "continuation_hexagon",
+      "bbox": [
+        0.52047,
+        0.65597,
+        0.52981,
+        0.66785
+      ],
+      "evidence_text": "9",
+      "reasons": [
+        "template_only_short_code"
+      ],
+      "signals": {
+        "geometry_score": 1.0,
+        "vote_agreement": 1.0,
+        "template_score": 0.7569,
+        "template_margin": 0.0465,
+        "ocr_vote_count": 0
+      }
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "continuation_connections (hexagon)",
+      "value": "8",
+      "confidence": 0.9705,
+      "review_threshold": 0.7,
+      "source": "continuation_hexagon",
+      "bbox": [
+        0.52064,
+        0.77098,
+        0.52997,
+        0.78311
+      ],
+      "evidence_text": "8",
+      "reasons": [
+        "template_only_short_code"
+      ],
+      "signals": {
+        "geometry_score": 1.0,
+        "vote_agreement": 1.0,
+        "template_score": 0.882,
+        "template_margin": 0.0265,
+        "ocr_vote_count": 0
+      }
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "continuation_connections (hexagon)",
+      "value": "2A",
+      "confidence": 0.9519,
+      "review_threshold": 0.7,
+      "source": "continuation_hexagon",
+      "bbox": [
+        0.52064,
+        0.83089,
+        0.52997,
+        0.84277
+      ],
+      "evidence_text": "2A",
+      "reasons": [
+        "template_only_short_code"
+      ],
+      "signals": {
+        "geometry_score": 1.0,
+        "vote_agreement": 1.0,
+        "template_score": 0.8076,
+        "template_margin": 0.0204,
+        "ocr_vote_count": 0
+      }
+    },
+    {
+      "document_id": 1,
+      "page": 1,
+      "category": "continuation_connections (hexagon)",
+      "value": "13",
+      "confidence": 0.9551,
+      "review_threshold": 0.7,
+      "source": "continuation_hexagon",
+      "bbox": [
+        0.5208,
+        0.92695,
+        0.53013,
+        0.93908
+      ],
+      "evidence_text": "13",
+      "reasons": [
+        "template_only_short_code"
+      ],
+      "signals": {
+        "geometry_score": 1.0,
+        "vote_agreement": 1.0,
+        "template_score": 0.8202,
+        "template_margin": 0.0661,
+        "ocr_vote_count": 0
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V8070",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.63265,
+        0.08425,
+        0.64346,
+        0.08888
+      ],
+      "evidence_text": "V8070",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V8071",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.64406,
+        0.09906,
+        0.65427,
+        0.10369
+      ],
+      "evidence_text": "V8071",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V8077",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.65367,
+        0.18794,
+        0.66388,
+        0.1935
+      ],
+      "evidence_text": "V8077",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V956",
+      "confidence": 0.675,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.41343,
+        0.19905,
+        0.42064,
+        0.20553
+      ],
+      "evidence_text": "V956",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V8076",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.64234,
+        0.20328,
+        0.65373,
+        0.20914
+      ],
+      "evidence_text": "V8076",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V8078",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.63365,
+        0.22001,
+        0.64559,
+        0.22503
+      ],
+      "evidence_text": "1V8078",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V145",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.31302,
+        0.23675,
+        0.32713,
+        0.24511
+      ],
+      "evidence_text": "V-145",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V8079",
+      "confidence": 0.545,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.63745,
+        0.2426,
+        0.6635,
+        0.25607
+      ],
+      "evidence_text": "V8079 314",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V8879",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.63685,
+        0.24534,
+        0.64886,
+        0.2509
+      ],
+      "evidence_text": "V8879",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V83",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.3613,
+        0.25766,
+        0.36836,
+        0.26435
+      ],
+      "evidence_text": "V83",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V803",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.33836,
+        0.27123,
+        0.35398,
+        0.27781
+      ],
+      "evidence_text": "O\u043c V803",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V8082",
+      "confidence": 0.6779,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.48706,
+        0.56168,
+        0.51294,
+        0.60137
+      ],
+      "evidence_text": "PCV 8082",
+      "reasons": [
+        "confidence_below_0.78",
+        "preprocessing_variants_disagree"
+      ],
+      "signals": {
+        "geometry_score": 0.9375,
+        "vote_agreement": 0.25,
+        "u_bend": true
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V8081",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.64288,
+        0.30702,
+        0.65373,
+        0.31287
+      ],
+      "evidence_text": "V8081",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V8083",
+      "confidence": 0.675,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.63325,
+        0.32404,
+        0.64646,
+        0.32959
+      ],
+      "evidence_text": ")V8083",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V8884",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.63745,
+        0.34903,
+        0.64826,
+        0.35459
+      ],
+      "evidence_text": "V8884",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V8084",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.63745,
+        0.34975,
+        0.64886,
+        0.35531
+      ],
+      "evidence_text": "V8084",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V842",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.15226,
+        0.36338,
+        0.1688,
+        0.38092
+      ],
+      "evidence_text": "V842 g",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V8886",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.64234,
+        0.41119,
+        0.65373,
+        0.41705
+      ],
+      "evidence_text": "V8886",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V133",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.36719,
+        0.41277,
+        0.375,
+        0.4174
+      ],
+      "evidence_text": "V133",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V16",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.32224,
+        0.41286,
+        0.32875,
+        0.41872
+      ],
+      "evidence_text": "V16",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V142",
+      "confidence": 0.545,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.31134,
+        0.42481,
+        0.32755,
+        0.43686
+      ],
+      "evidence_text": "\u2192v-142",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V8088",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.63505,
+        0.4313,
+        0.64586,
+        0.43686
+      ],
+      "evidence_text": "V8088",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V79",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.22025,
+        0.43294,
+        0.22948,
+        0.43964
+      ],
+      "evidence_text": "V79",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V84",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.36238,
+        0.44427,
+        0.37079,
+        0.44983
+      ],
+      "evidence_text": "V84",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V768",
+      "confidence": 0.545,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.19204,
+        0.44466,
+        0.20506,
+        0.45637
+      ],
+      "evidence_text": "V768",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V808",
+      "confidence": 0.6779,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.48706,
+        0.56168,
+        0.51294,
+        0.60137
+      ],
+      "evidence_text": "PCV 8082",
+      "reasons": [
+        "confidence_below_0.78",
+        "preprocessing_variants_disagree"
+      ],
+      "signals": {
+        "geometry_score": 0.9375,
+        "vote_agreement": 0.25,
+        "u_bend": true
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V818",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.60742,
+        0.51377,
+        0.61583,
+        0.51841
+      ],
+      "evidence_text": "V818",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V1883",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.5834,
+        0.51377,
+        0.59481,
+        0.52026
+      ],
+      "evidence_text": "V1883",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V811",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.5804,
+        0.52119,
+        0.5882,
+        0.52582
+      ],
+      "evidence_text": "V811",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V90",
+      "confidence": 0.545,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.32658,
+        0.55258,
+        0.33418,
+        0.56346
+      ],
+      "evidence_text": "V90-",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V132",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.36659,
+        0.58605,
+        0.375,
+        0.59254
+      ],
+      "evidence_text": "V132",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V139",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.31134,
+        0.59717,
+        0.32755,
+        0.60737
+      ],
+      "evidence_text": "\u2192v-139",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V98",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.33798,
+        0.60362,
+        0.34394,
+        0.6078
+      ],
+      "evidence_text": "V98",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V805",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.33852,
+        0.63206,
+        0.35317,
+        0.63875
+      ],
+      "evidence_text": "DM-V805",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V26",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.32224,
+        0.76812,
+        0.3293,
+        0.77314
+      ],
+      "evidence_text": "V26",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "valves",
+      "value": "V853",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.29332,
+        0.9194,
+        0.30953,
+        0.92588
+      ],
+      "evidence_text": "OM-V853",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI6510",
+      "confidence": 0.7812,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.66083,
+        0.07659,
+        0.6849,
+        0.11375
+      ],
+      "evidence_text": "PI 6510",
+      "reasons": [
+        "preprocessing_variants_disagree"
+      ],
+      "signals": {
+        "geometry_score": 1.0,
+        "vote_agreement": 0.375,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI0169",
+      "confidence": 0.7375,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.65919,
+        0.11754,
+        0.68375,
+        0.15571
+      ],
+      "evidence_text": "PI 0169",
+      "reasons": [
+        "confidence_below_0.78",
+        "preprocessing_variants_disagree"
+      ],
+      "signals": {
+        "geometry_score": 1.0,
+        "vote_agreement": 0.25,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI6518",
+      "confidence": 0.7375,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.68949,
+        0.11906,
+        0.71356,
+        0.15622
+      ],
+      "evidence_text": "PI 6518",
+      "reasons": [
+        "confidence_below_0.78",
+        "preprocessing_variants_disagree"
+      ],
+      "signals": {
+        "geometry_score": 1.0,
+        "vote_agreement": 0.25,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI2820",
+      "confidence": 0.6729,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.39027,
+        0.18099,
+        0.40698,
+        0.20652
+      ],
+      "evidence_text": "PI 2820",
+      "reasons": [
+        "confidence_below_0.78",
+        "preprocessing_variants_disagree"
+      ],
+      "signals": {
+        "geometry_score": 0.6875,
+        "vote_agreement": 0.3333,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI6511",
+      "confidence": 0.7312,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.66901,
+        0.18504,
+        0.68506,
+        0.21006
+      ],
+      "evidence_text": "PI 6511",
+      "reasons": [
+        "confidence_below_0.78"
+      ],
+      "signals": {
+        "geometry_score": 0.6875,
+        "vote_agreement": 0.5,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI9082",
+      "confidence": 0.7655,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.43973,
+        0.20172,
+        0.4643,
+        0.23989
+      ],
+      "evidence_text": "PI 9082",
+      "reasons": [
+        "confidence_below_0.78"
+      ],
+      "signals": {
+        "geometry_score": 1.0,
+        "vote_agreement": 0.5,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI7939",
+      "confidence": 0.7594,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.40861,
+        0.21031,
+        0.4245,
+        0.23483
+      ],
+      "evidence_text": "PI 7939",
+      "reasons": [
+        "confidence_below_0.78"
+      ],
+      "signals": {
+        "geometry_score": 0.7812,
+        "vote_agreement": 0.5,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI2772",
+      "confidence": 0.7594,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.35228,
+        0.2955,
+        0.36816,
+        0.32002
+      ],
+      "evidence_text": "PI 2772",
+      "reasons": [
+        "confidence_below_0.78"
+      ],
+      "signals": {
+        "geometry_score": 0.7812,
+        "vote_agreement": 0.5,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI2801",
+      "confidence": 0.7312,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.33705,
+        0.35718,
+        0.36063,
+        0.39333
+      ],
+      "evidence_text": "PI 2801",
+      "reasons": [
+        "confidence_below_0.78"
+      ],
+      "signals": {
+        "geometry_score": 0.6875,
+        "vote_agreement": 0.5,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI3742",
+      "confidence": 0.7312,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.67082,
+        0.36021,
+        0.68556,
+        0.38271
+      ],
+      "evidence_text": "PI 3742",
+      "reasons": [
+        "confidence_below_0.78"
+      ],
+      "signals": {
+        "geometry_score": 0.6875,
+        "vote_agreement": 0.5,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI2821",
+      "confidence": 0.7406,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.38126,
+        0.3678,
+        0.40305,
+        0.40142
+      ],
+      "evidence_text": "PI 2821",
+      "reasons": [
+        "confidence_below_0.78"
+      ],
+      "signals": {
+        "geometry_score": 0.7188,
+        "vote_agreement": 0.5,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI0222",
+      "confidence": 0.7406,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.59564,
+        0.42442,
+        0.6094,
+        0.4454
+      ],
+      "evidence_text": "PI 0222",
+      "reasons": [
+        "confidence_below_0.78"
+      ],
+      "signals": {
+        "geometry_score": 0.7188,
+        "vote_agreement": 0.5,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI2092",
+      "confidence": 0.7725,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.47642,
+        0.42745,
+        0.50164,
+        0.46638
+      ],
+      "evidence_text": "PI 2092",
+      "reasons": [
+        "confidence_below_0.78"
+      ],
+      "signals": {
+        "geometry_score": 1.0,
+        "vote_agreement": 0.5,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI2763",
+      "confidence": 0.75,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.31297,
+        0.45374,
+        0.33492,
+        0.48736
+      ],
+      "evidence_text": "PI 2763",
+      "reasons": [
+        "confidence_below_0.78"
+      ],
+      "signals": {
+        "geometry_score": 0.75,
+        "vote_agreement": 0.5,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI2779",
+      "confidence": 0.7406,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.38388,
+        0.45854,
+        0.4019,
+        0.4866
+      ],
+      "evidence_text": "PI 2779",
+      "reasons": [
+        "confidence_below_0.78"
+      ],
+      "signals": {
+        "geometry_score": 0.7188,
+        "vote_agreement": 0.5,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI2508",
+      "confidence": 0.7406,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.78447,
+        0.4775,
+        0.81772,
+        0.52882
+      ],
+      "evidence_text": "PI 2508",
+      "reasons": [
+        "confidence_below_0.78"
+      ],
+      "signals": {
+        "geometry_score": 0.7188,
+        "vote_agreement": 0.5,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI9636",
+      "confidence": 0.7781,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.72388,
+        0.52401,
+        0.74975,
+        0.5637
+      ],
+      "evidence_text": "PI 9636",
+      "reasons": [
+        "confidence_below_0.78"
+      ],
+      "signals": {
+        "geometry_score": 0.8438,
+        "vote_agreement": 0.5,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI9640",
+      "confidence": 0.7104,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.67294,
+        0.53008,
+        0.6926,
+        0.56067
+      ],
+      "evidence_text": "PI 9640",
+      "reasons": [
+        "confidence_below_0.78",
+        "preprocessing_variants_disagree"
+      ],
+      "signals": {
+        "geometry_score": 0.8125,
+        "vote_agreement": 0.3333,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI9641",
+      "confidence": 0.75,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.68834,
+        0.5321,
+        0.70554,
+        0.55865
+      ],
+      "evidence_text": "PI 9641",
+      "reasons": [
+        "confidence_below_0.78"
+      ],
+      "signals": {
+        "geometry_score": 0.75,
+        "vote_agreement": 0.5,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI2822",
+      "confidence": 0.7104,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.38487,
+        0.54828,
+        0.40026,
+        0.5723
+      ],
+      "evidence_text": "PI 2822",
+      "reasons": [
+        "confidence_below_0.78",
+        "preprocessing_variants_disagree"
+      ],
+      "signals": {
+        "geometry_score": 0.8125,
+        "vote_agreement": 0.3333,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI1805",
+      "confidence": 0.7312,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.34638,
+        0.59808,
+        0.38634,
+        0.66001
+      ],
+      "evidence_text": "PI 1805",
+      "reasons": [
+        "confidence_below_0.78"
+      ],
+      "signals": {
+        "geometry_score": 0.6875,
+        "vote_agreement": 0.5,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI2781",
+      "confidence": 0.7312,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.38143,
+        0.62841,
+        0.4037,
+        0.66304
+      ],
+      "evidence_text": "PI 2781",
+      "reasons": [
+        "confidence_below_0.78"
+      ],
+      "signals": {
+        "geometry_score": 0.6875,
+        "vote_agreement": 0.5,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI2774",
+      "confidence": 0.6729,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.34966,
+        0.65066,
+        0.3716,
+        0.68428
+      ],
+      "evidence_text": "PI 2774",
+      "reasons": [
+        "confidence_below_0.78",
+        "preprocessing_variants_disagree"
+      ],
+      "signals": {
+        "geometry_score": 0.6875,
+        "vote_agreement": 0.3333,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI8182",
+      "confidence": 0.7229,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.42204,
+        0.66608,
+        0.44661,
+        0.70425
+      ],
+      "evidence_text": "PI 8182",
+      "reasons": [
+        "confidence_below_0.78",
+        "preprocessing_variants_disagree"
+      ],
+      "signals": {
+        "geometry_score": 1.0,
+        "vote_agreement": 0.3333,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI9642",
+      "confidence": 0.7312,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.61366,
+        0.71916,
+        0.63708,
+        0.75531
+      ],
+      "evidence_text": "PI 9642",
+      "reasons": [
+        "confidence_below_0.78"
+      ],
+      "signals": {
+        "geometry_score": 0.6875,
+        "vote_agreement": 0.5,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI2823",
+      "confidence": 0.7312,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.38094,
+        0.72346,
+        0.39699,
+        0.74823
+      ],
+      "evidence_text": "PI 2823",
+      "reasons": [
+        "confidence_below_0.78"
+      ],
+      "signals": {
+        "geometry_score": 0.6875,
+        "vote_agreement": 0.5,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI0626",
+      "confidence": 0.6424,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.10547,
+        0.72851,
+        0.13413,
+        0.77275
+      ],
+      "evidence_text": "PI 0626",
+      "reasons": [
+        "confidence_below_0.78",
+        "preprocessing_variants_disagree"
+      ],
+      "signals": {
+        "geometry_score": 0.7188,
+        "vote_agreement": 0.3333,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI2782",
+      "confidence": 0.6729,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.38192,
+        0.74823,
+        0.40387,
+        0.78185
+      ],
+      "evidence_text": "PI 2782",
+      "reasons": [
+        "confidence_below_0.78",
+        "preprocessing_variants_disagree"
+      ],
+      "signals": {
+        "geometry_score": 0.6875,
+        "vote_agreement": 0.3333,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI2784",
+      "confidence": 0.7046,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.50442,
+        0.77629,
+        0.52637,
+        0.80991
+      ],
+      "evidence_text": "PI 2784",
+      "reasons": [
+        "confidence_below_0.78",
+        "preprocessing_variants_disagree"
+      ],
+      "signals": {
+        "geometry_score": 0.8125,
+        "vote_agreement": 0.375,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI2703",
+      "confidence": 0.6729,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.38519,
+        0.81572,
+        0.40124,
+        0.84075
+      ],
+      "evidence_text": "PI 2703",
+      "reasons": [
+        "confidence_below_0.78",
+        "preprocessing_variants_disagree"
+      ],
+      "signals": {
+        "geometry_score": 0.6875,
+        "vote_agreement": 0.3333,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "pressure_indicators",
+      "value": "PI2775",
+      "confidence": 0.6729,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.3531,
+        0.84353,
+        0.36882,
+        0.86805
+      ],
+      "evidence_text": "PI 2775",
+      "reasons": [
+        "confidence_below_0.78",
+        "preprocessing_variants_disagree"
+      ],
+      "signals": {
+        "geometry_score": 0.6875,
+        "vote_agreement": 0.3333,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "filters",
+      "value": "F-12",
+      "confidence": 0.2,
+      "review_threshold": 0.72,
+      "source": "derived_rule",
+      "bbox": null,
+      "evidence_text": null,
+      "reasons": [
+        "no_direct_spatial_evidence",
+        "confidence_below_0.72"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "sample_sinks",
+      "value": "PRIMARY SAMPLE SINK MM-741",
+      "confidence": 0.14,
+      "review_threshold": 0.72,
+      "source": "derived_rule",
+      "bbox": null,
+      "evidence_text": null,
+      "reasons": [
+        "no_direct_spatial_evidence",
+        "confidence_below_0.72"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "continuation_connections (hexagon)",
+      "value": "7",
+      "confidence": 0.9127,
+      "review_threshold": 0.7,
+      "source": "continuation_hexagon",
+      "bbox": [
+        0.24058,
+        0.24494,
+        0.25237,
+        0.25961
+      ],
+      "evidence_text": "7",
+      "reasons": [
+        "template_only_short_code"
+      ],
+      "signals": {
+        "geometry_score": 0.9003,
+        "vote_agreement": 1.0,
+        "template_score": 0.8301,
+        "template_margin": 0.1712,
+        "ocr_vote_count": 0
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "continuation_connections (hexagon)",
+      "value": "2",
+      "confidence": 0.9602,
+      "review_threshold": 0.7,
+      "source": "continuation_hexagon",
+      "bbox": [
+        0.18293,
+        0.39687,
+        0.19047,
+        0.40647
+      ],
+      "evidence_text": "2",
+      "reasons": [
+        "template_only_short_code"
+      ],
+      "signals": {
+        "geometry_score": 1.0,
+        "vote_agreement": 1.0,
+        "template_score": 0.8407,
+        "template_margin": 0.0492,
+        "ocr_vote_count": 0
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "continuation_connections (hexagon)",
+      "value": "6",
+      "confidence": 0.9713,
+      "review_threshold": 0.7,
+      "source": "continuation_hexagon",
+      "bbox": [
+        0.1926,
+        0.91532,
+        0.20013,
+        0.92492
+      ],
+      "evidence_text": "6",
+      "reasons": [
+        "template_only_short_code"
+      ],
+      "signals": {
+        "geometry_score": 1.0,
+        "vote_agreement": 1.0,
+        "template_score": 0.8854,
+        "template_margin": 0.0299,
+        "ocr_vote_count": 0
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "continuation_connections (hexagon)",
+      "value": "4",
+      "confidence": 0.9516,
+      "review_threshold": 0.7,
+      "source": "continuation_hexagon",
+      "bbox": [
+        0.18343,
+        0.74975,
+        0.19096,
+        0.75935
+      ],
+      "evidence_text": "4",
+      "reasons": [
+        "template_only_short_code"
+      ],
+      "signals": {
+        "geometry_score": 1.0,
+        "vote_agreement": 1.0,
+        "template_score": 0.8064,
+        "template_margin": 0.0372,
+        "ocr_vote_count": 0
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "continuation_connections (hexagon)",
+      "value": "5",
+      "confidence": 0.967,
+      "review_threshold": 0.7,
+      "source": "continuation_hexagon",
+      "bbox": [
+        0.58451,
+        0.78337,
+        0.59204,
+        0.79297
+      ],
+      "evidence_text": "5",
+      "reasons": [
+        "template_only_short_code"
+      ],
+      "signals": {
+        "geometry_score": 1.0,
+        "vote_agreement": 1.0,
+        "template_score": 0.8679,
+        "template_margin": 0.0348,
+        "ocr_vote_count": 0
+      }
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "instrument_bubbles",
+      "value": "TI",
+      "confidence": 0.14,
+      "review_threshold": 0.72,
+      "source": "derived_rule",
+      "bbox": null,
+      "evidence_text": null,
+      "reasons": [
+        "no_direct_spatial_evidence",
+        "confidence_below_0.72"
+      ]
+    },
+    {
+      "document_id": 2,
+      "page": 2,
+      "category": "demineralized_water",
+      "value": "Z20350",
+      "confidence": 0.2,
+      "review_threshold": 0.72,
+      "source": "derived_rule",
+      "bbox": null,
+      "evidence_text": null,
+      "reasons": [
+        "no_direct_spatial_evidence",
+        "confidence_below_0.72"
+      ]
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "valves",
+      "value": "V64",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.63325,
+        0.17128,
+        0.63925,
+        0.17683
+      ],
+      "evidence_text": "V64",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "valves",
+      "value": "V231",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.13235,
+        0.24666,
+        0.15517,
+        0.2536
+      ],
+      "evidence_text": "1-SW-V231",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "valves",
+      "value": "V232",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.19367,
+        0.24678,
+        0.217,
+        0.25264
+      ],
+      "evidence_text": "1-SW-V232",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "valves",
+      "value": "V230",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.13888,
+        0.39278,
+        0.16221,
+        0.39864
+      ],
+      "evidence_text": "1-SW-V230",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "valves",
+      "value": "V243",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.63311,
+        0.41621,
+        0.64505,
+        0.42207
+      ],
+      "evidence_text": "2-V243",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "valves",
+      "value": "V24",
+      "confidence": 0.2,
+      "review_threshold": 0.78,
+      "source": "derived_rule",
+      "bbox": null,
+      "evidence_text": null,
+      "reasons": [
+        "no_direct_spatial_evidence",
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "valves",
+      "value": "V524",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.65126,
+        0.53231,
+        0.66027,
+        0.53787
+      ],
+      "evidence_text": "V524",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "valves",
+      "value": "V527",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.62424,
+        0.55918,
+        0.63385,
+        0.56474
+      ],
+      "evidence_text": "V527",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "valves",
+      "value": "V528",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.65247,
+        0.55918,
+        0.66147,
+        0.56474
+      ],
+      "evidence_text": "V528",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "valves",
+      "value": "V520",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.65373,
+        0.58605,
+        0.66296,
+        0.5919
+      ],
+      "evidence_text": "v520",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "valves",
+      "value": "V542",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.62484,
+        0.58605,
+        0.63385,
+        0.59069
+      ],
+      "evidence_text": "V542",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "valves",
+      "value": "V522",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.65367,
+        0.5981,
+        0.66268,
+        0.60366
+      ],
+      "evidence_text": "V522",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "valves",
+      "value": "V180",
+      "confidence": 0.545,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.71506,
+        0.60111,
+        0.72375,
+        0.60613
+      ],
+      "evidence_text": "V180",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "valves",
+      "value": "V139",
+      "confidence": 0.74,
+      "review_threshold": 0.78,
+      "source": "page_ocr",
+      "bbox": [
+        0.29078,
+        0.66134,
+        0.29837,
+        0.66804
+      ],
+      "evidence_text": "V139",
+      "reasons": [
+        "confidence_below_0.78"
+      ]
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "pressure_indicators",
+      "value": "PI8274",
+      "confidence": 0.7667,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.35703,
+        0.08114,
+        0.38339,
+        0.12184
+      ],
+      "evidence_text": "PI 8274",
+      "reasons": [
+        "confidence_below_0.78",
+        "preprocessing_variants_disagree"
+      ],
+      "signals": {
+        "geometry_score": 1.0,
+        "vote_agreement": 0.3333,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "pressure_indicators",
+      "value": "PI8273",
+      "confidence": 0.7228,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.41484,
+        0.08493,
+        0.43777,
+        0.12007
+      ],
+      "evidence_text": "PI 8273",
+      "reasons": [
+        "confidence_below_0.78"
+      ],
+      "signals": {
+        "geometry_score": 0.75,
+        "vote_agreement": 0.5,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "pressure_indicators",
+      "value": "PI6166",
+      "confidence": 0.6442,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.45791,
+        0.18352,
+        0.48149,
+        0.21967
+      ],
+      "evidence_text": "PI 6166",
+      "reasons": [
+        "confidence_below_0.78",
+        "preprocessing_variants_disagree"
+      ],
+      "signals": {
+        "geometry_score": 1.0,
+        "vote_agreement": 0.3333,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "pressure_indicators",
+      "value": "PI8283",
+      "confidence": 0.7594,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.39125,
+        0.19894,
+        0.41533,
+        0.2361
+      ],
+      "evidence_text": "PI 8283",
+      "reasons": [
+        "confidence_below_0.78"
+      ],
+      "signals": {
+        "geometry_score": 0.7812,
+        "vote_agreement": 0.5,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "pressure_indicators",
+      "value": "PI2312",
+      "confidence": 0.6713,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.14854,
+        0.22472,
+        0.18097,
+        0.27452
+      ],
+      "evidence_text": "PI 2312",
+      "reasons": [
+        "confidence_below_0.78"
+      ],
+      "signals": {
+        "geometry_score": 0.6875,
+        "vote_agreement": 0.5,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "pressure_indicators",
+      "value": "PI6107",
+      "confidence": 0.7667,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.45791,
+        0.24317,
+        0.48149,
+        0.27932
+      ],
+      "evidence_text": "PI 6107",
+      "reasons": [
+        "confidence_below_0.78",
+        "preprocessing_variants_disagree"
+      ],
+      "signals": {
+        "geometry_score": 1.0,
+        "vote_agreement": 0.3333,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "pressure_indicators",
+      "value": "PI8282",
+      "confidence": 0.7062,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.37488,
+        0.32053,
+        0.39846,
+        0.35667
+      ],
+      "evidence_text": "PI 8282",
+      "reasons": [
+        "confidence_below_0.78",
+        "preprocessing_variants_disagree"
+      ],
+      "signals": {
+        "geometry_score": 0.75,
+        "vote_agreement": 0.375,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "pressure_indicators",
+      "value": "PI8288",
+      "confidence": 0.7812,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.17344,
+        0.46259,
+        0.19866,
+        0.50152
+      ],
+      "evidence_text": "PI 8288",
+      "reasons": [
+        "preprocessing_variants_disagree"
+      ],
+      "signals": {
+        "geometry_score": 1.0,
+        "vote_agreement": 0.375,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "pressure_indicators",
+      "value": "PI2137",
+      "confidence": 0.6558,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.67589,
+        0.53413,
+        0.71209,
+        0.58999
+      ],
+      "evidence_text": "PI 2137",
+      "reasons": [
+        "confidence_below_0.78",
+        "preprocessing_variants_disagree"
+      ],
+      "signals": {
+        "geometry_score": 0.6875,
+        "vote_agreement": 0.3125,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "pressure_indicators",
+      "value": "PI1810",
+      "confidence": 0.6729,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.84867,
+        0.67265,
+        0.87258,
+        0.7093
+      ],
+      "evidence_text": "PI 1810",
+      "reasons": [
+        "confidence_below_0.78",
+        "preprocessing_variants_disagree"
+      ],
+      "signals": {
+        "geometry_score": 0.6875,
+        "vote_agreement": 0.3333,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "pressure_indicators",
+      "value": "PI6183",
+      "confidence": 0.7594,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.38798,
+        0.68402,
+        0.41091,
+        0.71941
+      ],
+      "evidence_text": "PI 6183",
+      "reasons": [
+        "confidence_below_0.78"
+      ],
+      "signals": {
+        "geometry_score": 0.7812,
+        "vote_agreement": 0.5,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "pressure_indicators",
+      "value": "PI6194",
+      "confidence": 0.7812,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.48673,
+        0.6906,
+        0.51032,
+        0.72674
+      ],
+      "evidence_text": "PI 6194",
+      "reasons": [
+        "preprocessing_variants_disagree"
+      ],
+      "signals": {
+        "geometry_score": 1.0,
+        "vote_agreement": 0.375,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "pressure_indicators",
+      "value": "PI828",
+      "confidence": 0.7594,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.39125,
+        0.19894,
+        0.41533,
+        0.2361
+      ],
+      "evidence_text": "PI 8283",
+      "reasons": [
+        "confidence_below_0.78"
+      ],
+      "signals": {
+        "geometry_score": 0.7812,
+        "vote_agreement": 0.5,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "temperature_indicators",
+      "value": "TI8260",
+      "confidence": 0.6823,
+      "review_threshold": 0.78,
+      "source": "instrument_bubble",
+      "bbox": [
+        0.51245,
+        0.05106,
+        0.53538,
+        0.0862
+      ],
+      "evidence_text": "TI 8260",
+      "reasons": [
+        "confidence_below_0.78",
+        "preprocessing_variants_disagree"
+      ],
+      "signals": {
+        "geometry_score": 0.7188,
+        "vote_agreement": 0.3333,
+        "u_bend": false
+      }
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "continuation_connections (hexagon)",
+      "value": "6",
+      "confidence": 0.9429,
+      "review_threshold": 0.7,
+      "source": "continuation_hexagon",
+      "bbox": [
+        0.46512,
+        0.29398,
+        0.47445,
+        0.30586
+      ],
+      "evidence_text": "6",
+      "reasons": [
+        "template_only_short_code"
+      ],
+      "signals": {
+        "geometry_score": 1.0,
+        "vote_agreement": 1.0,
+        "template_score": 0.7716,
+        "template_margin": 0.0088,
+        "ocr_vote_count": 0
+      }
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "continuation_connections (hexagon)",
+      "value": "9",
+      "confidence": 0.9369,
+      "review_threshold": 0.7,
+      "source": "continuation_hexagon",
+      "bbox": [
+        0.4625,
+        0.62563,
+        0.47167,
+        0.63726
+      ],
+      "evidence_text": "9",
+      "reasons": [
+        "template_only_short_code"
+      ],
+      "signals": {
+        "geometry_score": 1.0,
+        "vote_agreement": 1.0,
+        "template_score": 0.7476,
+        "template_margin": 0.0132,
+        "ocr_vote_count": 0
+      }
+    },
+    {
+      "document_id": 3,
+      "page": 3,
+      "category": "instrument_bubbles",
+      "value": "TI",
+      "confidence": 0.14,
+      "review_threshold": 0.72,
+      "source": "derived_rule",
+      "bbox": null,
+      "evidence_text": null,
+      "reasons": [
+        "no_direct_spatial_evidence",
+        "confidence_below_0.72"
+      ]
+    }
+  ]
+}

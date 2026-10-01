@@ -1,0 +1,748 @@
+{
+  "tables": [
+    {
+      "table_id": "page_3_table_1",
+      "page": 3,
+      "bbox": [
+        0.59761,
+        0.51719,
+        0.72535,
+        0.60996
+      ],
+      "rows": [
+        [
+          "PUMP NO.",
+          "TOP DRAIN",
+          "\u0412OTTOM ORAIN",
+          "VIE IN",
+          "RATIOI TRUME",
+          "MONI NT TA",
+          "OR",
+          "A"
+        ],
+        [
+          "P-41A",
+          "Y523",
+          "V524",
+          "21350",
+          "21356",
+          "21362",
+          "21368",
+          ""
+        ],
+        [
+          "P-418",
+          "V525",
+          "V526",
+          "21351",
+          "21357",
+          "21363",
+          "21369",
+          ""
+        ],
+        [
+          "P-41C",
+          "Y527",
+          "V528",
+          "21352",
+          "21358",
+          "21364",
+          "21378",
+          ""
+        ],
+        [
+          "P-410",
+          "529",
+          "538",
+          "21353",
+          "21359",
+          "21365",
+          "21371",
+          ""
+        ],
+        [
+          "P-118A",
+          "V542",
+          "Y520",
+          "21354",
+          "21368",
+          "21366",
+          "21372",
+          "Y179"
+        ],
+        [
+          "P-1108",
+          "V521",
+          "V522",
+          "21355",
+          "21361",
+          "21367",
+          "21373",
+          "V180"
+        ]
+      ],
+      "cells": [
+        {
+          "row": 0,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "PUMP NO."
+        },
+        {
+          "row": 0,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "TOP DRAIN"
+        },
+        {
+          "row": 0,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "\u0412OTTOM ORAIN"
+        },
+        {
+          "row": 0,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "VIE IN"
+        },
+        {
+          "row": 0,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "RATIOI TRUME"
+        },
+        {
+          "row": 0,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "MONI NT TA"
+        },
+        {
+          "row": 0,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "OR"
+        },
+        {
+          "row": 0,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "A"
+        },
+        {
+          "row": 1,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "P-41A"
+        },
+        {
+          "row": 1,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Y523"
+        },
+        {
+          "row": 1,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "V524"
+        },
+        {
+          "row": 1,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21350"
+        },
+        {
+          "row": 1,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21356"
+        },
+        {
+          "row": 1,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21362"
+        },
+        {
+          "row": 1,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21368"
+        },
+        {
+          "row": 1,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": ""
+        },
+        {
+          "row": 2,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "P-418"
+        },
+        {
+          "row": 2,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "V525"
+        },
+        {
+          "row": 2,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "V526"
+        },
+        {
+          "row": 2,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21351"
+        },
+        {
+          "row": 2,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21357"
+        },
+        {
+          "row": 2,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21363"
+        },
+        {
+          "row": 2,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21369"
+        },
+        {
+          "row": 2,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": ""
+        },
+        {
+          "row": 3,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "P-41C"
+        },
+        {
+          "row": 3,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Y527"
+        },
+        {
+          "row": 3,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "V528"
+        },
+        {
+          "row": 3,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21352"
+        },
+        {
+          "row": 3,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21358"
+        },
+        {
+          "row": 3,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21364"
+        },
+        {
+          "row": 3,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21378"
+        },
+        {
+          "row": 3,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": ""
+        },
+        {
+          "row": 4,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "P-410"
+        },
+        {
+          "row": 4,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "529"
+        },
+        {
+          "row": 4,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "538"
+        },
+        {
+          "row": 4,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21353"
+        },
+        {
+          "row": 4,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21359"
+        },
+        {
+          "row": 4,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21365"
+        },
+        {
+          "row": 4,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21371"
+        },
+        {
+          "row": 4,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": ""
+        },
+        {
+          "row": 5,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "P-118A"
+        },
+        {
+          "row": 5,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "V542"
+        },
+        {
+          "row": 5,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Y520"
+        },
+        {
+          "row": 5,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21354"
+        },
+        {
+          "row": 5,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21368"
+        },
+        {
+          "row": 5,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21366"
+        },
+        {
+          "row": 5,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21372"
+        },
+        {
+          "row": 5,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "Y179"
+        },
+        {
+          "row": 6,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "P-1108"
+        },
+        {
+          "row": 6,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "V521"
+        },
+        {
+          "row": 6,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "V522"
+        },
+        {
+          "row": 6,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21355"
+        },
+        {
+          "row": 6,
+          "column": 4,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21361"
+        },
+        {
+          "row": 6,
+          "column": 5,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21367"
+        },
+        {
+          "row": 6,
+          "column": 6,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "21373"
+        },
+        {
+          "row": 6,
+          "column": 7,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "V180"
+        }
+      ]
+    },
+    {
+      "table_id": "page_3_table_3",
+      "page": 3,
+      "bbox": [
+        0.09859,
+        0.22776,
+        0.21946,
+        0.26264
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "2",
+          "3"
+        ],
+        [
+          "EOUIP.NO",
+          "VALVE. NO",
+          "INSTR. NO",
+          "VALVE.NO"
+        ],
+        [
+          "1-SW-FN-51B",
+          "1-SW-V231",
+          "1-SW-LG-61168",
+          "1-SW-V232"
+        ],
+        [
+          "2-SW-FN-51B",
+          "2-SW-V231",
+          "2-SW-LG-61168",
+          "2-SW-V232"
+        ]
+      ],
+      "cells": [
+        {
+          "row": 0,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": ""
+        },
+        {
+          "row": 0,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": ""
+        },
+        {
+          "row": 0,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "2"
+        },
+        {
+          "row": 0,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "3"
+        },
+        {
+          "row": 1,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "EOUIP.NO"
+        },
+        {
+          "row": 1,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "VALVE. NO"
+        },
+        {
+          "row": 1,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "INSTR. NO"
+        },
+        {
+          "row": 1,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "VALVE.NO"
+        },
+        {
+          "row": 2,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "1-SW-FN-51B"
+        },
+        {
+          "row": 2,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "1-SW-V231"
+        },
+        {
+          "row": 2,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "1-SW-LG-61168"
+        },
+        {
+          "row": 2,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "1-SW-V232"
+        },
+        {
+          "row": 3,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "2-SW-FN-51B"
+        },
+        {
+          "row": 3,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "2-SW-V231"
+        },
+        {
+          "row": 3,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "2-SW-LG-61168"
+        },
+        {
+          "row": 3,
+          "column": 3,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "2-SW-V232"
+        }
+      ]
+    },
+    {
+      "table_id": "page_3_table_4",
+      "page": 3,
+      "bbox": [
+        0.10563,
+        0.3731,
+        0.19948,
+        0.40774
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "2"
+        ],
+        [
+          "EOUIP. NO",
+          "VALVE. NO",
+          "INSTR. NO"
+        ],
+        [
+          "1-SW-FN-51A",
+          "1-SW-V230",
+          "1-SW-LG-6116A"
+        ],
+        [
+          "2-SW-FN-51A",
+          "2-SW-V230",
+          "2-SW-LG-6116A"
+        ]
+      ],
+      "cells": [
+        {
+          "row": 0,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": ""
+        },
+        {
+          "row": 0,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": ""
+        },
+        {
+          "row": 0,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "2"
+        },
+        {
+          "row": 1,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "EOUIP. NO"
+        },
+        {
+          "row": 1,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "VALVE. NO"
+        },
+        {
+          "row": 1,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "INSTR. NO"
+        },
+        {
+          "row": 2,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "1-SW-FN-51A"
+        },
+        {
+          "row": 2,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "1-SW-V230"
+        },
+        {
+          "row": 2,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "1-SW-LG-6116A"
+        },
+        {
+          "row": 3,
+          "column": 0,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "2-SW-FN-51A"
+        },
+        {
+          "row": 3,
+          "column": 1,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "2-SW-V230"
+        },
+        {
+          "row": 3,
+          "column": 2,
+          "row_span": 1,
+          "column_span": 1,
+          "text": "2-SW-LG-6116A"
+        }
+      ]
+    }
+  ]
+}
